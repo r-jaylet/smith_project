@@ -1,0 +1,1001 @@
+,Winery,Year,Wine ID,Wine,Rating,num_review,price,volume_ml,image,country
+0,Santa Írene,2019,1229732,Malbec 2019,3.2,33,5.4,750,//images.vivino.com/thumbs/7kMBOlKyTmGxSMAuvwERjw_pl_480x640.png,Argentine
+1,Dourthe,2014,1146771,Beau Mayne Bordeaux Rouge 2014,3.4,410,5.75,750,//images.vivino.com/thumbs/N2YEF9-ZQmKRz_MfQqzxhg_pl_480x640.png,France
+2,Château Les Vallées,2016,1286434,Bordeaux 2016,3.6,177,5.79,750,//images.vivino.com/thumbs/Tf5IAoosTwCkP8ZFBNZVqQ_pl_480x640.png,France
+3,Plaimont,2016,1429144,Les Bastions Saint-Mont Rouge 2016,3.5,43,5.9,750,//images.vivino.com/thumbs/OPuY4pJHR7G4frzGrQDmow_pl_480x640.png,France
+4,Uby,2018,1957424,No. 7 Tannat - Merlot 2018,3.6,251,5.9,750,//images.vivino.com/thumbs/cylQsTUqRp6TSmMq15Ja9w_pl_480x640.png,France
+5,Demon Noir,2020,1234332,Rouge 2020,4.0,135,5.9,750,//images.vivino.com/thumbs/cafuD51fSN6Bnzkfbp2_mw_pl_480x640.png,France
+6,Les Passeurs de Vins,2019,8857071,Encierro 2019,3.7,60,5.9,750,//images.vivino.com/thumbs/i60u7gKmSI2Nh66OEbAm2g_pl_480x640.png,Espagne
+7,Château Maison Noble,2018,1494313,Château Jean de Bel Air Bordeaux Rouge 2018,3.6,41,5.9,750,//images.vivino.com/thumbs/GsGc9eCRRnKEcDa0McKyIA_pl_480x640.png,France
+8,Château Mayne Guyon,2018,1201035,Blaye - Côtes de Bordeaux 2018,3.8,414,5.95,750,//images.vivino.com/thumbs/5ImE5vWSQDKb2Rg9CntEPQ_pl_480x640.png,France
+9,Villa des Anges,2020,7249882,Réserve 2020,4.1,642,5.95,750,//images.vivino.com/thumbs/xPM2UhsOQ5m3Z70TaM4hqg_pl_480x640.png,France
+10,Foncalieu,2017,1787201,Les Cardounettes Rouge 2017,3.2,93,6.0,750,//images.vivino.com/thumbs/5ihfsa-IT9ak1mKFR8P5nw_pl_480x640.png,France
+11,Château Bel Air l'Espérance,2015,1169929,Bordeaux 2015,4.1,35,6.0,375,//images.vivino.com/thumbs/Nc7-CIcrQoGMawXWjjmSjQ_pl_480x640.png,France
+12,Foncalieu,2018,1787201,Les Cardounettes Rouge 2018,3.3,34,6.0,750,//images.vivino.com/thumbs/5ihfsa-IT9ak1mKFR8P5nw_pl_480x640.png,France
+13,Domaine Laurent Mabileau,2016,18584,St-Nicolas-de-Bourgueil 2016,3.6,267,6.0,375,//images.vivino.com/labels/rDyCsAnmSYCT_WF714X5Zg.jpg,France
+14,Château Galau,2017,1207651,Côtes de Bourg 2017,3.6,38,6.0,750,//images.vivino.com/thumbs/WnaL4x4cQXKz39zP3icoIQ_pl_480x640.png,France
+15,Château Galau,2018,1207651,Côtes de Bourg 2018,3.6,57,6.0,750,//images.vivino.com/thumbs/WnaL4x4cQXKz39zP3icoIQ_pl_480x640.png,France
+16,Marrenon,2017,1197031,Grande Toque Rouge 2017,3.5,94,6.2,750,//images.vivino.com/thumbs/TMrJmUUOTYabHesQixqVhw_pl_480x640.png,France
+17,Domaine des Pasquiers,2019,1198075,Vaucluse 2019,3.6,54,6.25,750,//images.vivino.com/thumbs/u8rgFOzUSX2bnktYz0Ec4g_pl_480x640.png,France
+18,Les Vignerons de Buzet,2017,1905385,Tradition Rouge 2017,3.2,206,6.25,750,//images.vivino.com/thumbs/zBoqmsZ9TceoKkxCD2EQYg_pl_480x640.png,France
+19,Château Greteau Medeville,2015,1253443,Bordeaux Supérieur 2015,3.7,84,6.3,750,//images.vivino.com/thumbs/rP8wtoPnS7Sq82286BN9Kw_pl_480x640.png,France
+20,Marrenon,2016,1903029,Les Grains Syrah 2016,3.3,120,6.3,750,//images.vivino.com/thumbs/oKnyPZ3iRLqScJ1-K_7j8w_pl_480x640.png,France
+21,Château d'Anglès,2020,22362,Classique La Clape Rouge 2020,3.6,66,6.45,750,//images.vivino.com/thumbs/SO8eQQRDQNufFhbW7a99iQ_pl_480x640.png,France
+22,Château Mayne-Vallet,2012,2367231,Blaye - Côtes de Bordeaux 2012,3.7,284,6.5,750,//images.vivino.com/thumbs/o7iQ0SaaSb2bldRxasrNYQ_pl_480x640.png,France
+23,Château Galau,2015,1207651,Côtes de Bourg 2015,3.6,63,6.5,750,//images.vivino.com/thumbs/WnaL4x4cQXKz39zP3icoIQ_pl_480x640.png,France
+24,Domaine Martin,2016,738342,Côtes du Rhône Rouge 2016,3.4,77,6.55,750,//images.vivino.com/thumbs/naqc2s4eRUq8HuICtH9EGA_pl_480x640.png,France
+25,Santa Írene,2019,1229732,Malbec 2019,3.2,33,5.4,750,//images.vivino.com/thumbs/7kMBOlKyTmGxSMAuvwERjw_pl_480x640.png,Argentine
+26,Dourthe,2014,1146771,Beau Mayne Bordeaux Rouge 2014,3.4,410,5.75,750,//images.vivino.com/thumbs/N2YEF9-ZQmKRz_MfQqzxhg_pl_480x640.png,France
+27,Château Les Vallées,2016,1286434,Bordeaux 2016,3.6,177,5.79,750,//images.vivino.com/thumbs/Tf5IAoosTwCkP8ZFBNZVqQ_pl_480x640.png,France
+28,Plaimont,2016,1429144,Les Bastions Saint-Mont Rouge 2016,3.5,43,5.9,750,//images.vivino.com/thumbs/OPuY4pJHR7G4frzGrQDmow_pl_480x640.png,France
+29,Uby,2018,1957424,No. 7 Tannat - Merlot 2018,3.6,251,5.9,750,//images.vivino.com/thumbs/cylQsTUqRp6TSmMq15Ja9w_pl_480x640.png,France
+30,Demon Noir,2020,1234332,Rouge 2020,4.0,135,5.9,750,//images.vivino.com/thumbs/cafuD51fSN6Bnzkfbp2_mw_pl_480x640.png,France
+31,Les Passeurs de Vins,2019,8857071,Encierro 2019,3.7,60,5.9,750,//images.vivino.com/thumbs/i60u7gKmSI2Nh66OEbAm2g_pl_480x640.png,Espagne
+32,Château Maison Noble,2018,1494313,Château Jean de Bel Air Bordeaux Rouge 2018,3.6,41,5.9,750,//images.vivino.com/thumbs/GsGc9eCRRnKEcDa0McKyIA_pl_480x640.png,France
+33,Château Mayne Guyon,2018,1201035,Blaye - Côtes de Bordeaux 2018,3.8,414,5.95,750,//images.vivino.com/thumbs/5ImE5vWSQDKb2Rg9CntEPQ_pl_480x640.png,France
+34,Villa des Anges,2020,7249882,Réserve 2020,4.1,642,5.95,750,//images.vivino.com/thumbs/xPM2UhsOQ5m3Z70TaM4hqg_pl_480x640.png,France
+35,Foncalieu,2017,1787201,Les Cardounettes Rouge 2017,3.2,93,6.0,750,//images.vivino.com/thumbs/5ihfsa-IT9ak1mKFR8P5nw_pl_480x640.png,France
+36,Château Bel Air l'Espérance,2015,1169929,Bordeaux 2015,4.1,35,6.0,375,//images.vivino.com/thumbs/Nc7-CIcrQoGMawXWjjmSjQ_pl_480x640.png,France
+37,Foncalieu,2018,1787201,Les Cardounettes Rouge 2018,3.3,34,6.0,750,//images.vivino.com/thumbs/5ihfsa-IT9ak1mKFR8P5nw_pl_480x640.png,France
+38,Domaine Laurent Mabileau,2016,18584,St-Nicolas-de-Bourgueil 2016,3.6,267,6.0,375,//images.vivino.com/labels/rDyCsAnmSYCT_WF714X5Zg.jpg,France
+39,Château Galau,2017,1207651,Côtes de Bourg 2017,3.6,38,6.0,750,//images.vivino.com/thumbs/WnaL4x4cQXKz39zP3icoIQ_pl_480x640.png,France
+40,Château Galau,2018,1207651,Côtes de Bourg 2018,3.6,57,6.0,750,//images.vivino.com/thumbs/WnaL4x4cQXKz39zP3icoIQ_pl_480x640.png,France
+41,Marrenon,2017,1197031,Grande Toque Rouge 2017,3.5,94,6.2,750,//images.vivino.com/thumbs/TMrJmUUOTYabHesQixqVhw_pl_480x640.png,France
+42,Domaine des Pasquiers,2019,1198075,Vaucluse 2019,3.6,54,6.25,750,//images.vivino.com/thumbs/u8rgFOzUSX2bnktYz0Ec4g_pl_480x640.png,France
+43,Les Vignerons de Buzet,2017,1905385,Tradition Rouge 2017,3.2,206,6.25,750,//images.vivino.com/thumbs/zBoqmsZ9TceoKkxCD2EQYg_pl_480x640.png,France
+44,Château Greteau Medeville,2015,1253443,Bordeaux Supérieur 2015,3.7,84,6.3,750,//images.vivino.com/thumbs/rP8wtoPnS7Sq82286BN9Kw_pl_480x640.png,France
+45,Marrenon,2016,1903029,Les Grains Syrah 2016,3.3,120,6.3,750,//images.vivino.com/thumbs/oKnyPZ3iRLqScJ1-K_7j8w_pl_480x640.png,France
+46,Château d'Anglès,2020,22362,Classique La Clape Rouge 2020,3.6,66,6.45,750,//images.vivino.com/thumbs/SO8eQQRDQNufFhbW7a99iQ_pl_480x640.png,France
+47,Château Mayne-Vallet,2012,2367231,Blaye - Côtes de Bordeaux 2012,3.7,284,6.5,750,//images.vivino.com/thumbs/o7iQ0SaaSb2bldRxasrNYQ_pl_480x640.png,France
+48,Château Galau,2015,1207651,Côtes de Bourg 2015,3.6,63,6.5,750,//images.vivino.com/thumbs/WnaL4x4cQXKz39zP3icoIQ_pl_480x640.png,France
+49,Domaine Martin,2016,738342,Côtes du Rhône Rouge 2016,3.4,77,6.55,750,//images.vivino.com/thumbs/naqc2s4eRUq8HuICtH9EGA_pl_480x640.png,France
+50,Château Chauvet,2016,1373082,Bordeaux Rouge 2016,3.1,31,6.6,750,//images.vivino.com/thumbs/mBmDKwn-SriN9CI0jQlQEQ_pl_480x640.png,France
+51,Château Chauvet,2015,1373082,Bordeaux Rouge 2015,3.5,106,6.6,750,//images.vivino.com/thumbs/mBmDKwn-SriN9CI0jQlQEQ_pl_480x640.png,France
+52,Marrenon,2017,3955158,Les Grains Pinot Noir Cuvée Rare 2017,3.4,124,6.6,750,//images.vivino.com/thumbs/ncKUE1JBTpO1Zn69Als4Uw_pl_480x640.png,France
+53,É Gòt,2017,2129577,Merlot - Sangiovese 2017,3.3,28,6.6,750,//images.vivino.com/labels/TIIZ5fYfSo6KECtrGwZmug.jpg,Italie
+54,Château Malbat,2020,2132260,Merlot - Cabernet Bordeaux 2020,3.6,35,6.81,750,//images.vivino.com/thumbs/GM7FELnGSvKODupEZ0mPKg_pl_480x640.png,France
+55,Caleo,2021,1145299,Primitivo Salento 2021,3.6,72,6.9,750,//images.vivino.com/thumbs/ziqrSPCnTA2w9ErojnHtig_pl_480x640.png,Italie
+56,Gérard Bertrand,2020,1462921,6ème Sens Rouge 2020,3.4,154,6.9,750,//images.vivino.com/thumbs/l-Q86RbLSbOtwrMZczplLQ_pl_480x640.png,France
+57,Domaine La Grange,2016,1693439,Classique Rouge 2016,3.6,39,6.95,750,//images.vivino.com/thumbs/chbN7P5uQHKLrQ6g30t4Og_pl_480x640.png,France
+58,Marrenon,2017,4010569,Capella 2017,3.5,64,7.0,750,//images.vivino.com/thumbs/xTgZitKBSEiJU_oPqtCrbw_pl_480x640.png,France
+59,Foncalieu,2016,1787201,Les Cardounettes Rouge 2016,3.3,75,7.2,750,//images.vivino.com/thumbs/5ihfsa-IT9ak1mKFR8P5nw_pl_480x640.png,France
+60,Domaine Martin,2017,738342,Côtes du Rhône Rouge 2017,3.5,51,7.2,750,//images.vivino.com/thumbs/naqc2s4eRUq8HuICtH9EGA_pl_480x640.png,France
+61,Château Morillon,2019,1143708,Bordeaux Rouge 2019,3.4,58,7.2,750,//images.vivino.com/thumbs/GyaE_mTmRG6SlqE9xD1oqQ_pl_480x640.png,France
+62,Château Aimée,2016,1387846,Médoc 2016,3.4,175,7.4,750,//images.vivino.com/thumbs/rn8_pUH6RrW95pJZ5pE1TA_pl_480x640.png,France
+63,Les Jamelles,2020,10555,Cabernet Sauvignon 2020,3.5,79,7.4,750,//images.vivino.com/thumbs/TFfIj9ImR6C31W0nd-oCog_pl_480x640.png,France
+64,Les Jamelles,2020,10556,Syrah 2020,3.9,378,7.4,750,//images.vivino.com/thumbs/cMwmrGF0SNm6jTK6KSxOug_pl_480x640.png,France
+65,Domaine des Pasquiers,2020,1198075,Vaucluse 2020,3.5,25,7.4,750,//images.vivino.com/thumbs/u8rgFOzUSX2bnktYz0Ec4g_pl_480x640.png,France
+66,Vinovalie,2020,5676307,Sang Mêlé 2020,4.2,389,7.45,750,//images.vivino.com/thumbs/L_qokgqlRdO9RUnuW8sk-g_pl_480x640.png,France
+67,Paul Jaboulet Aîné,2020,10917,Côtes du Ventoux Les Traverses Rouge 2020,3.8,75,7.45,750,//images.vivino.com/thumbs/86mnDPhNRcCuuNo-DyGrmw_pl_480x640.png,France
+68,Casillero del Diablo,2008,1135161,Merlot (Reserva) 2008,3.4,340,7.5,750,//images.vivino.com/thumbs/MbUwLPqCSx2JVTjMgvesmg_pl_480x640.png,Chili
+69,Château Bel Air l'Espérance,2018,1169929,Bordeaux 2018,3.6,52,7.5,750,//images.vivino.com/thumbs/Nc7-CIcrQoGMawXWjjmSjQ_pl_480x640.png,France
+70,Wolf Blass,2020,1129971,Eaglehawk Cabernet Sauvignon 2020,3.4,269,7.5,750,//images.vivino.com/thumbs/k1zoB9AERC-70bwYo3i7zA_pl_480x640.png,Australie
+71,Château de la Cour d'Argent,2014,1100984,Bordeaux Supérieur 2014,3.5,120,7.5,750,//images.vivino.com/thumbs/z9-DRGRXTnSNIx8XKdntLg_pl_480x640.png,France
+72,Aurelia Visinescu,2018,1366693,Nomad Feteasca Neagra 2018,3.5,52,7.5,750,//images.vivino.com/thumbs/hZ8L_3CsQUe7tU645j4oPA_pl_480x640.png,Roumanie
+73,Domaine Dieu-Le-Fit - Rémi Pouizin Vignoble,2020,1361593,Les Pious Côtes-du-Rhône 2020,3.6,233,7.5,750,//images.vivino.com/thumbs/gm4HWAVfQ7mYkqjhTQlrFA_pl_480x640.png,France
+74,Pittacum,2021,2758426,Petit Pittacum 2021,3.6,34,7.5,750,//images.vivino.com/thumbs/A7GmSTV4RPCK44aMMBqzdg_pl_480x640.png,Espagne
+75,Domaine Montmartel,2020,1223952,Côtes-du-Rhône Rouge 2020,4.0,46,7.5,750,//images.vivino.com/thumbs/YDco6F91TiKVFI42-3rjQg_pl_480x640.png,France
+76,Château Lajarre,2011,1201298,Eléonore Bordeaux Supérieur 2011,3.3,56,7.5,750,//images.vivino.com/thumbs/1naDfiOBSEWUtKviDnHFHQ_pl_480x640.png,France
+77,Château Lamothe Belair,2015,2399443,Bergerac 2015,3.4,127,7.5,750,//images.vivino.com/thumbs/BOJ1GvwhQwOCWum6bjBtxw_pl_480x640.png,France
+78,Vignobles Chaigne et Fils,2018,2247469,Château Ballan Larquette Bordeaux Rouge 2018,3.7,63,7.5,750,//images.vivino.com/thumbs/2xtOuE4nRoSlMcotjb2kyg_pl_480x640.png,France
+79,Yvon Mau,2015,5692476,Best Bordeaux Quality 2015,3.1,137,7.5,750,//images.vivino.com/thumbs/08rng7gGTHGBbpibXHdULg_pl_480x640.png,France
+80,Château Adelaide,2016,2905599,Cuvée Tradition Rouge 2016,3.6,26,7.5,750,//images.vivino.com/thumbs/BNs8P6pISOe40oUKQslh0w_pl_480x640.png,France
+81,Les Jamelles,2020,10557,Pinot Noir 2020,3.7,612,7.6,750,//images.vivino.com/thumbs/cARSj7GXT_6JsxX3D-L2cQ_pl_480x640.png,France
+82,Camille Cayran,2020,1259912,L'Insouciante Côtes-du-Rhône 2020,3.8,152,7.6,750,//images.vivino.com/thumbs/qaWd858OTQGgHQCwcerE8Q_pl_480x640.png,France
+83,Château la Lande de Taleyran,2016,1209269,Bordeaux Supérieur 2016,3.5,30,7.6,750,//images.vivino.com/thumbs/NWkq2SpnRwumm_5M2MK_fw_pl_480x640.png,France
+84,Château de Nages,N.V.,6342279,Liberty Nages Rouge Vin de France N.V.,3.5,973,7.7,750,//images.vivino.com/thumbs/52qkcrlSRAe5Qr3QgpQKfw_pl_480x640.png,France
+85,Félix Solís,N.V.,7657778,Kingpin N.V.,4.0,4040,7.7,750,//images.vivino.com/thumbs/AtgO05nBSQWpg6mh4oXj4g_pl_480x640.png,Espagne
+86,Les Jamelles,2020,2868198,Carignan 2020,4.1,90,7.7,750,//images.vivino.com/thumbs/N_3G2YLLQvawUhb__9QO_w_pl_480x640.png,France
+87,Les Jamelles,2019,10558,Mourvèdre 2019,3.7,86,7.7,750,//images.vivino.com/thumbs/A_EYnDzdQRuu27fNHlTobQ_pl_480x640.png,France
+88,Domaine Cavalier,2017,5486411,Val de Montferrand Saint-Guilhem-le-Désert Rouge 2017,3.7,52,7.8,750,//images.vivino.com/thumbs/hYHzh5zJR2KUY3x9TJROGA_pl_480x640.png,France
+89,Jeff Carrel,2021,1159145,Les Darons Rouge 2021,3.9,77,7.8,750,//images.vivino.com/thumbs/pf8VSiEPRySSTGsUhzpOew_pl_480x640.png,France
+90,Estezargues,2021,1159662,Cuvée des Galets Côtes du Rhône 2021,3.5,25,7.8,750,//images.vivino.com/thumbs/dsstJEMSTc6cG7THVBed-Q_pl_480x640.png,France
+91,Domaine de Tara,2010,1214473,Terre d'Ocres Rouge 2010,3.6,46,7.8,750,//images.vivino.com/labels/f1pctrZqTVapSbyPmAlCbw.jpg,France
+92,Badet Clement,2020,1176476,Oraison Côtes du Rhône 2020,3.7,26,7.9,750,//images.vivino.com/thumbs/q2vv1XjZSXK1og6MQqqzyw_pl_480x640.png,France
+93,Les Passeurs de Vins,2020,3761753,El Chocolatero Cariñena 2020,3.9,36,7.9,750,//images.vivino.com/thumbs/lsHFOwevR0yAoo5eqnfV6Q_pl_480x640.png,Espagne
+94,Uby,2021,1957424,No. 7 Tannat - Merlot 2021,3.6,27,7.9,750,//images.vivino.com/thumbs/cylQsTUqRp6TSmMq15Ja9w_pl_480x640.png,France
+95,Château Roc de Levraut,2019,1174310,Bordeaux Supérieur 2019,3.9,328,7.9,750,//images.vivino.com/thumbs/5rZa7LryRjC5SBQ9pb6A4w_pl_480x640.png,France
+96,Famille Perrin,2020,1124242,Côtes-du-Rhône Réserve Rouge 2020,3.7,149,7.9,750,//images.vivino.com/thumbs/bXDqBx_JSRGwzMKfGvtF9Q_pl_480x640.png,France
+97,Intruso,2020,5131010,Garnacha 2020,4.0,36,7.9,750,//images.vivino.com/thumbs/mHjAr5e8Thq5XFtXJy4xcQ_pl_480x640.png,Espagne
+98,Olivares,2017,5690651,Tinto 2017,3.4,163,7.9,750,//images.vivino.com/thumbs/SSm6YztZQxGswL5UYhwLqw_pl_480x640.png,Espagne
+99,Borsao Bodegas,2020,1657138,Joven (Selección) 2020,3.3,43,7.9,750,//images.vivino.com/thumbs/hLicx-_2Tl23qImNRkQsXw_pl_480x640.png,Espagne
+100,Delas,2020,14632,Ventoux 2020,3.8,87,7.9,750,//images.vivino.com/thumbs/wsLjzIRVSEKu3sV2KvpfHA_pl_480x640.png,France
+101,Bodegas Piqueras,2019,5972511,El Abuelo Garnacha Tintorera 2019,3.9,562,7.95,750,//images.vivino.com/thumbs/jIMeShcVR4ictvwubfKa2w_pl_480x640.png,Espagne
+102,Tagaro,2020,4792143,Pinataro Nero di Troia 2020,4.1,74,7.95,750,//images.vivino.com/thumbs/aEzmB6g-TumSZ2FJnoTM1g_pl_480x640.png,Italie
+103,Château Tertre de Viaud,2018,1364920,Côtes de Bourg 2018,4.2,59,7.95,750,//images.vivino.com/thumbs/AQvZ2MAgR6eNAah8BEMBQA_pl_480x640.png,France
+104,Duprais,2019,1141784,Bordeaux 2019,4.0,151,7.95,750,//images.vivino.com/thumbs/0CkcPFHlRempO2yyYi7OLw_pl_480x640.png,France
+105,Château d'Haurets,2019,1425763,Bordeaux Rouge 2019,4.0,55,7.95,750,//images.vivino.com/thumbs/YejkAW--RhiK1SyYZ39ssw_pl_480x640.png,France
+106,Domaine de Blayac,2019,1842778,Minervois 2019,3.9,84,8.0,750,//images.vivino.com/labels/I7ZfrnPMR_uhepv48bAmHg.jpg,France
+107,Château La Gorre,2017,1159734,Chateau Haut Peyrillat Médoc 2017,3.9,60,8.0,750,//images.vivino.com/thumbs/6FXLTKiUQb6_aGyTxtUgOg_pl_480x640.png,France
+108,Haut Montlong,2018,1238861,Tradition Rouge 2018,3.3,33,8.0,750,//images.vivino.com/thumbs/KhgZsog2Rb6nmkSVJEI4pQ_pl_480x640.png,France
+109,Brotte,2021,1138513,Père Anselme Reserve de l'Aube Rouge 2021,4.0,106,8.0,750,//images.vivino.com/thumbs/B-NSfv5_Rye6z8K7CWQmzg_pl_480x640.png,France
+110,Château Brillette,2011,97038,Moulis-en-Médoc 2011,3.4,25,8.0,375,//images.vivino.com/thumbs/UjAt_YhDT2qP2gV8V7l9xg_pl_480x640.png,France
+111,Domaine de l'Hortus,2021,1251478,Le Loup dans la Bergerie 2021,3.5,86,8.0,750,//images.vivino.com/thumbs/v8p2Lq24RLKKrOaDKm6lqA_pl_480x640.png,France
+112,Plaimont,2020,3705713,Domaine de Cassaigne Côtes de Gascogne Rouge 2020,3.9,41,8.0,750,//images.vivino.com/thumbs/PdpJAx-ZT5mcCOQOJQtxSg_pl_480x640.png,France
+113,Oisly Thésée,2019,2891946,Jardin des Anges Chinon 2019,3.7,40,8.0,750,//images.vivino.com/thumbs/JKtYjgFCRGShkahh5L4zpQ_pl_480x640.png,France
+114,Bigi,2019,28454,Vipra Rossa Umbria 2019,3.6,618,8.1,750,//images.vivino.com/thumbs/Zgc3c356RtGlnD6nqhbyLg_pl_480x640.png,Italie
+115,Jean Loron,2020,4312178,Jean Gamay Noir 2020,3.9,291,8.1,750,//images.vivino.com/thumbs/2TH6RpgfTQyVUy18U4rbtg_pl_480x640.png,France
+116,Georges Vigouroux,2020,2711403,Pigmentum Malbec 2020,3.7,35,8.1,750,//images.vivino.com/thumbs/d0HQfO24SuiGfm_GNzGzyg_pl_480x640.png,France
+117,Château Salitis,2019,1390903,Cuvée Premium Cabardès Rouge 2019,4.1,30,8.23,750,//images.vivino.com/thumbs/uUFfnKraTgqth-JQcGcJGA_pl_480x640.png,France
+118,Château Mayne Mazerolles,2018,3746012,Blaye Côtes de Bordeaux 2018,3.8,357,8.3,750,//images.vivino.com/thumbs/C8-UT14kQ9G2x1SbKuHM2Q_pl_480x640.png,France
+119,Jeff Carrel,2020,7311296,Le Fiston Terres du Midi 2020,3.7,114,8.35,750,//images.vivino.com/thumbs/TNXT7SY2S8-f3aaMkR-w2w_pl_480x640.png,France
+120,Jeff Carrel,2020,1159145,Les Darons Rouge 2020,3.9,802,8.35,750,//images.vivino.com/thumbs/pf8VSiEPRySSTGsUhzpOew_pl_480x640.png,France
+121,Château Chillac,2017,1978001,Bordeaux 2017,3.3,42,8.4,750,//images.vivino.com/thumbs/qFjXcWAkRAGFvgNNpWzIyA_pl_480x640.png,France
+122,Cochon Volant,2020,1665532,Corbières 2020,3.5,60,8.4,750,//images.vivino.com/thumbs/Aa7Y7_baT3KwaI14ruVcLg_pl_480x640.png,France
+123,Château Guilhem,2018,3231136,Pot de Vin Rouge 2018,3.5,116,8.5,750,//images.vivino.com/thumbs/h1UmHJdPQiqlXVqKgf1wMQ_pl_480x640.png,France
+124,Château Hauchat,2018,1301866,Fronsac 2018,3.7,144,8.5,750,//images.vivino.com/thumbs/GutCSgamTCC-MCuR_DV6cQ_pl_480x640.png,France
+125,Delas,2020,14640,Saint-Esprit Côtes-du-Rhône 2020,3.8,959,8.5,750,//images.vivino.com/thumbs/w2UpieGjTZ-NwGH0ZKIkkg_pl_480x640.png,France
+126,Pelvillain Freres,2014,5371167,Plot 7.5.3 Inspiration Cahors Malbec 2014,3.2,25,8.5,750,//images.vivino.com/labels/L0HbHb0ISsGkEHYC2kdnMg.jpg,France
+127,Nicolas Pere & Fils,2019,2807934,Essentielle Côtes du Rhône Rouge 2019,3.8,70,8.5,750,//images.vivino.com/thumbs/Kttua0DjTLOhHn0NPjIyng_pl_480x640.png,France
+128,Barton & Guestier,2021,1156411,B&G Réserve Pinot Noir 2021,3.7,284,8.5,750,//images.vivino.com/thumbs/j1f4DOAPRI6_iEtRh5B1bw_pl_480x640.png,France
+129,Château de Panigon,2016,1203919,Château Amour Médoc 2016,3.7,91,8.5,750,//images.vivino.com/thumbs/V3zcw16xShmyC19mGWS1eg_pl_480x640.png,France
+130,Château Couronneau,2019,1135671,Bordeaux Supérieur 2019,3.8,313,8.5,750,//images.vivino.com/thumbs/IVd5FZJxQ9CGGqZkas6Eag_pl_480x640.png,France
+131,Cielo e Terra,2020,3559904,3 Passo Rosso 2020,4.1,242,8.6,750,//images.vivino.com/thumbs/kYRg8MbZRmOgjdgrfwUOVQ_pl_480x640.png,Italie
+132,Domaine de la Baume,2019,5203938,Saint-Geniès Petit Verdot 2019,3.9,64,8.6,750,//images.vivino.com/thumbs/1GgewgQFTkCFW0_TN5q3sw_pl_480x640.png,France
+133,Domaine de la Baume,2020,84395,Merlot Grand Châtaignier 2020,3.7,339,8.6,750,//images.vivino.com/thumbs/SVKffbH5SgO4U-gJCmNUYg_pl_480x640.png,France
+134,Domaine du Cros,2020,1169315,Marcillac (Cuvée Lo Sang del Païs) 2020,3.8,85,8.6,750,//images.vivino.com/thumbs/-2gpZSChRsqvPzVyDxPkuQ_pl_480x640.png,France
+135,Wolf Blass,2020,1130071,Eaglehawk Shiraz 2020,3.2,181,8.6,750,//images.vivino.com/thumbs/q91AgVmcRPuk3VwoLaEjRg_pl_480x640.png,Australie
+136,Château Grand-Jean,2019,1146715,Bordeaux 2019,3.7,216,8.7,750,//images.vivino.com/thumbs/sdZbBUhISxisieu8cz7_BA_pl_480x640.png,France
+137,Château Puech-Haut,2018,4461710,Les Complices 2018,3.8,130,8.7,750,//images.vivino.com/thumbs/l-E4TA1VQ86D4vxlZVy2tg_pl_480x640.png,France
+138,Gérard Bertrand,2020,7990962,Côte des Roses Pinot Noir 2020,3.8,471,8.75,750,//images.vivino.com/thumbs/Ak7M0as1Saq1QyXF8Cbmrw_pl_480x640.png,France
+139,Château Vieux Manoir,2020,1252451,Bordeaux 2020,3.8,126,8.75,750,//images.vivino.com/thumbs/PbDVxP8PRziuDEfTqrTS1A_pl_480x640.png,France
+140,E. Guigal,2019,7773,Côtes-du-Rhône Rouge 2019,3.7,603,8.75,750,//images.vivino.com/thumbs/I0e3d01sQLumhbrSID4aEg_pl_480x640.png,France
+141,Domaine de Rochemure - Philippe Vermorel,2020,1764980,Beaujolais-Villages 2020,3.5,36,8.8,750,//images.vivino.com/thumbs/ghJu5E-IT3e4Sl_wAeXXdw_pl_480x640.png,France
+142,Colores Santos,2021,10378684,Cabernet Sauvignon - Syrah 2021,3.5,34,8.8,750,//images.vivino.com/thumbs/TUlMZ63JQ-6XDuHcBFBgvQ_pl_480x640.png,Chili
+143,Château Jalousie Beaulieu,2018,1181409,Bordeaux Supérieur 2018,3.5,274,8.82,750,//images.vivino.com/thumbs/SQKzp3K3Qla6RQuvXZpPlg_pl_480x640.png,France
+144,Barista,2021,1145241,Pinotage 2021,4.0,1617,8.85,750,//images.vivino.com/thumbs/9GB8MuGQTImXismDvJSBkQ_pl_480x640.png,Afrique du Sud
+145,Domaine Chiroulet,2019,1197394,Terroir Gascon Côtes de Gascogne 2019,3.7,72,8.9,750,//images.vivino.com/labels/azvI0p_GQ5KKR2S_msQkXQ.jpg,France
+146,Clos Roussely,2021,4525091,Canaille 2021,4.0,28,8.9,750,//images.vivino.com/thumbs/Ro7S5CVBSa-NLSozawSQCg_pl_480x640.png,France
+147,Domaine de Montgilet,2018,1187854,Anjou Rouge 2018,3.6,37,8.9,750,//images.vivino.com/thumbs/T8dX4aWES3-RrC9Icoks1Q_pl_480x640.png,France
+148,Château La Roche Bazin,2019,1497245,Blaye - Côtes de Bordeaux 2019,4.0,238,8.9,750,//images.vivino.com/thumbs/Zxaft4CLRjeiqG6P5RJ6iA_pl_480x640.png,France
+149,Château Penin,2017,4956266,Cabernet Franc 2017,3.6,62,8.9,750,//images.vivino.com/thumbs/0-lT5bmKTL620U-qr_DQ2g_pl_480x640.png,France
+150,Château Penin,2017,4956266,Cabernet Franc 2017,3.6,62,8.9,750,//images.vivino.com/thumbs/0-lT5bmKTL620U-qr_DQ2g_pl_480x640.png,France
+151,Château du Cèdre,2019,1223598,Cèdre Héritage Malbec 2019,3.9,94,8.9,750,//images.vivino.com/thumbs/Dsv1HwG7Qlafzq18ob6E0g_pl_480x640.png,France
+152,PavoNero,N.V.,5576678,Rosso N.V.,4.0,2327,8.9,750,//images.vivino.com/thumbs/5QzpFQ99RZK6CeyDrnb-jA_pl_480x640.png,Italie
+153,Château du Moulin Rouge,2014,6107918,Château Beau Secret Haut-Médoc 2014,3.3,44,8.9,750,//images.vivino.com/thumbs/mW-gssofRBi4K3OrD-kyjg_pl_480x640.png,France
+154,Château Machorre,2016,2321554,Cuvée la Villa 2016,3.9,39,8.9,750,//images.vivino.com/thumbs/9siyvyzMSdyKECs3eRrSGQ_pl_480x640.png,France
+155,Borie de Maurel,2021,4467483,Le Charivari 2021,4.1,35,8.9,750,//images.vivino.com/thumbs/6NQbqlpoSz-xhTi5EBocPA_pl_480x640.png,France
+156,Vignobles Jonqueres d'Oriola,2019,3355529,La Canaille Rouge 2019,3.8,79,8.9,750,//images.vivino.com/thumbs/wg1Z-CvnQJysCBp9_ijMAA_pl_480x640.png,France
+157,Château d'Anglès,2019,22362,Classique La Clape Rouge 2019,3.6,168,8.9,750,//images.vivino.com/thumbs/SO8eQQRDQNufFhbW7a99iQ_pl_480x640.png,France
+158,Domaine des Homs,2020,4978222,L'Amandier 2020,4.0,82,8.9,750,//images.vivino.com/thumbs/IOk5ZEhSRt65E-hDS30tOA_pl_480x640.png,France
+159,Félix Solís,N.V.,9240299,Mucho Más Tinto - Black Edition N.V.,4.1,1338,8.9,750,//images.vivino.com/thumbs/0Kdl-wTyQxCHYbdRo3mW_A_pl_480x640.png,Espagne
+160,Sieur d'Arques,2019,8895096,Pure Velvet Marselan 2019,3.8,94,8.9,750,//images.vivino.com/thumbs/JaAiex_nQridx8Cs2ggkMA_pl_480x640.png,France
+161,Cap Royal,2019,1138640,Bordeaux Supérieur 2019,3.7,1006,8.9,750,//images.vivino.com/thumbs/wLKyHbFCRnagVJRbSGmMYw_pl_480x640.png,France
+162,Château Moulin de Canhaut,2015,1195666,Médoc 2015,4.0,50,8.9,750,//images.vivino.com/thumbs/9-mfLaQEQcqQoglW83WyHw_pl_480x640.png,France
+163,Inurrieta,2019,1370411,Sensaciones 2019,3.6,58,8.95,750,//images.vivino.com/thumbs/GUmtA85sRDajeQeyGNtbag_pl_480x640.png,Espagne
+164,Casa Charlize,2019,7378767,Toscana Rosso 2019,4.0,303,8.95,750,//images.vivino.com/thumbs/6gJKIgqsQWC8CNZpX5Qm2w_pl_480x640.png,Italie
+165,Il Pumo,2020,4261501,Salice Salentino 2020,4.0,185,8.95,750,//images.vivino.com/thumbs/jShzW-QPTZ2Vh_LWtv0btQ_pl_480x640.png,Italie
+166,Cave de Tain,2019,1239131,Les 3 Lys Crozes Hermitage 2019,3.5,211,8.95,750,//images.vivino.com/thumbs/mmvPfGvuR0Wx5F_jrzHHfA_pl_480x640.png,France
+167,Vignobles Bouillac,2015,7136334,Château Haut Perdrias Blaye-Côtes de Bordeaux 2015,4.0,45,8.95,750,//images.vivino.com/thumbs/7MTt4KeORm2_E9kNNppzEw_pl_480x640.png,France
+168,Bastioni della Rocca,2019,9335092,Leggero Appassimento Puglia 2019,4.1,3147,8.95,750,//images.vivino.com/thumbs/5TujWTFSSLuHa8pwfZIe_A_pl_480x640.png,Italie
+169,Cantine Leonardo da Vinci,2018,7121988,Rocca di Cesena 2018,4.0,375,8.95,750,//images.vivino.com/thumbs/KKN10yngQPucgeVQ9NO0EA_pl_480x640.png,Italie
+170,Bastioni della Rocca,2020,8528334,Appassimento 2020,4.3,654,8.95,750,//images.vivino.com/thumbs/whi1S0WPTe6pDVBBk8hXcw_pl_480x640.png,Italie
+171,Domaine Ciry Cattaneo,2020,8720939,Gargantua Minervois 2020,3.6,32,9.0,750,//images.vivino.com/thumbs/Aj3725HWS0SxtZE1gc3CDg_pl_480x640.png,France
+172,Château Beaulieu Comtes de Tastes,2014,1582859,Bordeaux Rouge 2014,3.7,269,9.0,750,//images.vivino.com/thumbs/_MNJSVyxRVS2uhSfeUwRdQ_pl_480x640.png,France
+173,Château Leroy-Beauval,2015,6467737,Seigneur de Beauval Bordeaux Supérieur 2015,3.8,73,9.0,750,//images.vivino.com/thumbs/_bvopbK6S2KMeOMH2gX6hQ_pl_480x640.png,France
+174,l'Escart,2019,1386604,Cuvée Eden Bordeaux Supérieur 2019,3.5,91,9.0,750,//images.vivino.com/thumbs/luMNDvh-QbmguOWX26-BBg_pl_480x640.png,France
+175,Bertrand & Vincent Marchesseau,2020,6137670,Lubrifiant Social St Nicolas de Bourgueil 2020,3.8,25,9.0,750,//images.vivino.com/thumbs/DLqAW4VRQaO9b8jNBZbwOA_pl_480x640.png,France
+176,Château Les Eyquems,2018,2690798,Côtes de Bourg 2018,3.4,32,9.0,750,//images.vivino.com/thumbs/LTVHlCL3TMy5Gtzd4BYKuA_pl_480x640.png,France
+177,Domaine de Beauséjour,2013,1154917,Chinon Rouge 2013,3.1,73,9.0,750,//images.vivino.com/thumbs/jT_oP4BYQfuznLLAy6aQpQ_pl_480x640.png,France
+178,Abbaye Sylva Plana,2020,17304,Les Novices Faugères 2020,3.8,90,9.0,750,//images.vivino.com/thumbs/aDJScgDZROSd3MPaoskr-w_pl_480x640.png,France
+179,Lindeman's,2021,2156,Bin 50 Shiraz 2021,3.5,245,9.1,750,//images.vivino.com/thumbs/6Ivu5ZQnQXinROuImBYz6A_pl_480x640.png,Australie
+180,Lindeman's,2021,2157,Bin 40 Merlot 2021,3.7,59,9.1,750,//images.vivino.com/thumbs/syS5AkqkTs-b9hU07wJDiQ_pl_480x640.png,Australie
+181,Les Jamelles,2020,10554,Merlot 2020,3.6,66,9.15,750,//images.vivino.com/thumbs/-tFPut44QSWij7Sjevd-kA_pl_480x640.png,France
+182,Paul Mas,2020,2821385,Estate Nicole Vineyard Syrah - Viognier 2020,3.8,30,9.2,750,//images.vivino.com/thumbs/mWFQlWQmQHGFjcKTm_racA_pl_480x640.png,France
+183,Château Sainte-Eulalie,2019,7891215,Buona Pulcella Minervois 2019,3.8,57,9.2,750,//images.vivino.com/thumbs/Vpo-GGvdSQCXdX5M17KapA_pl_480x640.png,France
+184,Château Bourdieu,2018,2665342,No. 1 2018,3.6,91,9.2,750,//images.vivino.com/thumbs/F478_DzqTKmkbU1aTSmh8A_pl_480x640.png,France
+185,Domaine Chiroulet,2020,1197394,Terroir Gascon Côtes de Gascogne 2020,3.7,40,9.2,750,//images.vivino.com/labels/XEhQ9ItCRwy9xkn8uRC74A.jpg,France
+186,Colores Santos,2021,9784796,Carménère - Syrah 2021,3.8,27,9.2,750,//images.vivino.com/thumbs/1ey26BquSLKZLKsu2udw6Q_pl_480x640.png,Chili
+187,Aurelia Visinescu,2017,1841912,Red Artisan 2017,3.8,67,9.24,750,//images.vivino.com/thumbs/xaa8TxO1Th-kPNwBkBb1nw_pl_480x640.png,Roumanie
+188,Mas de Janiny,2020,2463129,Le Temps des Gitans Rouge 2020,3.5,98,9.26,750,//images.vivino.com/thumbs/ITjT3QqBRZK3pHcH1ZPTzA_pl_480x640.png,France
+189,Château Le Clos du Merle,2016,2454266,Côtes de Bourg 2016,3.5,35,9.3,750,//images.vivino.com/thumbs/x1R7BE4vSbGVnv0jYKAp4w_pl_480x640.png,France
+190,Domaine Sainte-Eugénie,2016,2392581,Le Clos 2016,3.4,465,9.3,750,//images.vivino.com/thumbs/XM18ikF2RlWaJSMUD59fqw_pl_480x640.png,France
+191,Paul Jaboulet Aîné,2020,1838039,Parallèle 45 Côtes du Rhône Rouge 2020,3.7,273,9.3,750,//images.vivino.com/thumbs/2G0o8oS7QcGLnC-KCR9YLA_pl_480x640.png,France
+192,Château Moulin de Peyronin,2018,1857140,Bordeaux 2018,3.3,39,9.31,750,//images.vivino.com/thumbs/MhyzlfWkQ_qyMe5Gi2mTIg_pl_480x640.png,France
+193,Aubert et Mathieu,2019,9460879,Amy Grenache - Syrah 2019,3.9,53,9.39,750,//images.vivino.com/thumbs/SpkRK__0QMq8GVPdjL__JA_pl_480x640.png,France
+194,Gérard Bertrand,2019,7268577,Drôle d'Oiseau Millésime Cabernet - Merlot 2019,3.5,87,9.39,750,//images.vivino.com/thumbs/zdSiuDL6QNqM0PMi29pprw_pl_480x640.png,France
+195,Famille Perrin,2020,1124243,Côtes du Rhône Nature Rouge 2020,3.9,137,9.4,750,//images.vivino.com/thumbs/5_7YnkUsRRa2gs-vpQaaFQ_pl_480x640.png,France
+196,Domaine La Blaque,2021,1177358,Pierrevert 2021,4.0,50,9.4,750,//images.vivino.com/thumbs/9EgNMzCBQIuEkMb8cglAZQ_pl_480x640.png,France
+197,Château de Beaulieu,2007,6525989,Côtes du Marmandais 2007,3.7,37,9.4,750,//images.vivino.com/thumbs/qVQmhu7GRJGTvLnfOi2lIQ_pl_480x640.png,France
+198,Cellier des Chartreux,2021,4217603,Chamasûtra Unlimited Love 2021,4.0,109,9.4,750,//images.vivino.com/thumbs/Wjd8ZfCtReKPUwpjsdYkNA_pl_480x640.png,France
+199,Famille Perrin,2019,1839266,Peyre Blanche Cairanne 2019,3.9,303,9.45,750,//images.vivino.com/thumbs/WkRp7TH7QGOUZyXv_XWhtw_pl_480x640.png,France
+200,Domaine Fournier Père et Fils,2020,9313611,Pinot Noir 'F de Fournier' 2020,3.8,30,9.45,750,//images.vivino.com/thumbs/5efZ0wEORrqIhM-NxX0AxQ_pl_480x640.png,France
+201,Château Penin,2016,1182445,Tradition Bordeaux Supérieur 2016,3.7,238,9.45,750,//images.vivino.com/thumbs/2slVdcj0Q46lAXw57j8HaQ_pl_480x640.png,France
+202,Chateau L'Heyrisson,2020,1378273,Frank's Réserve Bordeaux 2020,4.1,163,9.45,750,//images.vivino.com/thumbs/DGYZvmEPTCKmX7yDT1Hkag_pl_480x640.png,France
+203,Château de Berne,2018,4611993,Grande Recolté Rouge 2018,3.5,26,9.5,750,//images.vivino.com/thumbs/FS2uWM4KTSKujZprj1AcDQ_pl_480x640.png,France
+204,Cardini,2018,1471519,Chianti 2018,3.4,66,9.5,750,//images.vivino.com/labels/00x3mc26jifiv.jpg,Italie
+205,Domaine de Villeneuve,2020,1958370,La Muse Pic-Saint-Loup Rouge 2020,3.9,28,9.5,750,//images.vivino.com/labels/LSBoYoVQRNuQWkGb1mXyTQ.jpg,France
+206,Château Haura,2016,7488347,Les Cèdres de Haura Graves 2016,4.0,36,9.5,750,//images.vivino.com/thumbs/hkvZbr2GRJyCFZuEqCUZnw_pl_480x640.png,France
+207,Domaine Boudau,2020,1196073,Côtes du Roussillon 'Le Clos' 2020,4.0,100,9.5,750,//images.vivino.com/thumbs/I2ATyf6rS5CNFKp2gzkzFA_pl_480x640.png,France
+208,Château du Cèdre,2020,8525985,Juvéniles Malbec 2020,3.5,55,9.5,750,//images.vivino.com/thumbs/r8QhN242QbCD6vq6qFRKdA_pl_480x640.png,France
+209,Borie de Maurel,2020,50084,Esprit d'Automne Minervois 2020,3.9,135,9.5,750,//images.vivino.com/thumbs/ZjygGwZZSgClgHhF-RysOQ_pl_480x640.png,France
+210,Jean-Luc Colombo,2019,1210024,Côtes du Rhône Les Abeilles de Colombo Rouge 2019,3.7,295,9.5,750,//images.vivino.com/thumbs/uvLgO5cqRKOs4L_dw5qgEA_pl_480x640.png,France
+211,Château de Chelivette,2016,6268281,Bordeaux Supérieur 2016,3.7,29,9.5,750,//images.vivino.com/thumbs/UuaJ6G68RC24OWeor_rBmw_pl_480x640.png,France
+212,Château des Coccinelles,2020,1136499,Domaine des Coccinelles Côtes du Rhône 2020,3.5,132,9.5,750,//images.vivino.com/thumbs/4tMaqwPOTn22OjvFU0bKtw_pl_480x640.png,France
+213,Château Penin,2016,2114862,Natur Bordeaux 2016,3.6,44,9.5,750,//images.vivino.com/thumbs/StMJOvdYTiu6KF7_gsua2w_pl_480x640.png,France
+214,Château Coujan,2018,1399455,Gabrielle de Spinola Saint-Chinian 2018,3.8,49,9.5,750,//images.vivino.com/labels/5PGKgkyZTsaJgjojkacphw.jpg,France
+215,M. Chapoutier,2021,20671,Belleruche Côtes-du-Rhône 2021,3.8,134,9.5,750,//images.vivino.com/thumbs/C671FPrhRK-2FwzFX84bxw_pl_480x640.png,France
+216,Aurelia Visinescu,2017,1376716,Artisan Feteasca Neagra 2017,3.7,163,9.5,750,//images.vivino.com/thumbs/xQRkY5feQTW7Ow-NxhED9w_pl_480x640.png,Roumanie
+217,J. Mourat,2020,6288199,Rouquin de Jardin 2020,3.8,161,9.5,750,//images.vivino.com/thumbs/98af1AhFTOue3kzLXqAuPQ_pl_480x640.png,France
+218,Château de Corneilla,2020,4557143,Héritage  Côtes du Roussillon Rouge 2020,3.5,27,9.5,750,//images.vivino.com/thumbs/OF5waihhSqWCPtNgiGRTOg_pl_480x640.png,France
+219,La Bollina,2018,7030657,Papios Rosso 2018,4.0,317,9.5,750,//images.vivino.com/thumbs/jFVP0d3tQ1ut96l2llnkyA_pl_480x640.png,Italie
+220,Dourbie,2020,3502298,Oscar Rouge 2020,3.8,34,9.5,750,//images.vivino.com/thumbs/lHFy9q4DSuW0VkxkcCGJSQ_pl_480x640.png,France
+221,Wolf Blass,2021,1976,Red Label Shiraz - Cabernet 2021,3.5,253,9.5,750,//images.vivino.com/thumbs/UR_C2swjQVySK__ZzT9pNw_pl_480x640.png,Australie
+222,Delas,2021,14640,Saint-Esprit Côtes-du-Rhône 2021,3.8,36,9.5,750,//images.vivino.com/thumbs/w2UpieGjTZ-NwGH0ZKIkkg_pl_480x640.png,France
+223,Gérard Bertrand,2020,3173026,Syrah Prima Nature 2020,3.6,81,9.5,750,//images.vivino.com/thumbs/HElYD_YwRQ2yq8tCRWC5MA_pl_480x640.png,France
+224,Domaine du Clos des Fées,2020,2282640,Modeste Red 2020,3.7,128,9.5,750,//images.vivino.com/thumbs/Yq1igrB3SGqQxNij4Fm8sQ_pl_480x640.png,France
+225,Delas,2021,14640,Saint-Esprit Côtes-du-Rhône 2021,3.8,36,9.5,750,//images.vivino.com/thumbs/w2UpieGjTZ-NwGH0ZKIkkg_pl_480x640.png,France
+226,Robert Giraud,2018,1139538,Bordeaux Château Haut-Fourat 2018,3.6,37,9.5,750,//images.vivino.com/thumbs/PhRTqt2jT5SRBpkqGs8KEQ_pl_480x640.png,France
+227,Robert Mondavi Winery,2012,1360679,Twin Oaks Cabernet Sauvignon 2012,3.2,95,9.53,750,//images.vivino.com/thumbs/YXuULIzXRpyi9COeKgyp0g_pl_480x640.png,États-Unis
+228,Zonin,2015,1141683,Montepulciano D'Abruzzo 2015,3.5,988,9.6,750,//images.vivino.com/thumbs/bKPrvvYmT7Wy2EYhAVRixQ_pl_480x640.png,Italie
+229,Aussimento,2019,3831067,Double Pass Shiraz 2019,3.8,651,9.6,750,//images.vivino.com/thumbs/H-zk54x6Sa27L2R7FG8ICw_pl_480x640.png,Australie
+230,Domaine de la Baume,2020,84394,Syrah La Jeunesse 2020,3.8,297,9.6,750,//images.vivino.com/thumbs/HSOOWiFISq-DYA2-HWfMvg_pl_480x640.png,France
+231,MAN,2020,1844272,Pinotage (Bosstok) 2020,3.6,119,9.6,750,//images.vivino.com/thumbs/pNUtWbUcSKKOhbc3MfGFIg_pl_480x640.png,Afrique du Sud
+232,Château du Gazin,2018,1183448,Canon-Fronsac 2018,3.9,68,9.6,750,//images.vivino.com/thumbs/USmvcXeHQgec1n9BeQjN4Q_pl_480x640.png,France
+233,Vinovalie,2020,5702349,Terre Métissée Red Blend 2020,4.2,267,9.6,750,//images.vivino.com/thumbs/muTgb88wTfONVQ3QFPDSRQ_pl_480x640.png,France
+234,Famille Perrin,2019,1124245,Vinsobres Les Cornuds 2019,3.8,150,9.6,750,//images.vivino.com/thumbs/7WfAMZLBTYORPsAEU_fCBA_pl_480x640.png,France
+235,Zonin,2015,10300,Bardolino Classico 2015,3.3,455,9.6,750,//images.vivino.com/thumbs/rMgrGRHHT_O1E0bB3f3nIA_pl_480x640.png,Italie
+236,Chanssaud,2019,1151447,Côtes-du-Rhône Rouge 2019,3.9,82,9.69,750,//images.vivino.com/thumbs/Dh59HfmoSryYDgqZDSUmiw_pl_480x640.png,France
+237,Cellier des Demoiselles,2020,1571566,Château de Durfort 2020,4.1,43,9.7,750,//images.vivino.com/thumbs/SeIdoArqTUalXgxnI1vDYg_pl_480x640.png,France
+238,Matsu,2021,1169235,El Picaro 2021,3.8,760,9.7,750,//images.vivino.com/thumbs/GxOZfMMRR9GfvydVe7Icmg_pl_480x640.png,Espagne
+239,Château Jalousie Beaulieu,2019,5598879,Cuvée Prestige Bordeaux Supérieur 2019,3.7,48,9.7,750,//images.vivino.com/thumbs/WkjEX6Y9RLKh89rgunplyg_pl_480x640.png,France
+240,Terres Dorées,2019,4405584,Le Ronsay Beaujolais 2019,3.8,764,9.75,750,//images.vivino.com/thumbs/PnEkDZbPRUKlmPRGJBEN-A_pl_480x640.png,France
+241,Alain Jaume,2019,88377,Grand Veneur Côtes du Rhône (Réserve) 2019,3.7,2009,9.75,750,//images.vivino.com/thumbs/NHenuud9RY-GvUqA9fWcEA_pl_480x640.png,France
+242,Château Salitis,2017,1488490,Equinoxe Cabardès 2017,3.8,29,9.75,750,//images.vivino.com/labels/sfF_HOFwRs-y1y5jzqIkAg.jpg,France
+243,Paul Mas,2020,1633317,Vignes de Nicole Cabernet Sauvignon - Syrah Pays d'Oc 2020,3.9,442,9.8,750,//images.vivino.com/thumbs/CyX_jFvSRFOZwh0330cXfQ_pl_480x640.png,France
+244,Clos del Rey,2020,1691173,Le Sabina 2020,3.9,40,9.8,750,//images.vivino.com/thumbs/08Iu4pp0R_-hfudWdUSOLQ_pl_480x640.png,France
+245,Mas de Valériole,2018,2340012,Les Rieges 2018,3.7,39,9.8,750,//images.vivino.com/thumbs/KWvP8_IKQBOlTuZJuxDNSw_pl_480x640.png,France
+246,Château Vaugelas,2019,1162289,Le Prieuré Corbières 2019,3.6,297,9.8,750,//images.vivino.com/thumbs/b4j-5DJ1QXStpcVFv8YDeA_pl_480x640.png,France
+247,Château Mourgues du Grès,2019,1774998,Galets Rouges Costières-de-Nîmes 2019,3.8,520,9.8,750,//images.vivino.com/thumbs/R47jI2o1SGaW4AoylAez0w_pl_480x640.png,France
+248,Château Juvenal,2020,6678415,Les Garrigues 2020,3.5,128,9.8,750,//images.vivino.com/thumbs/NI7ao5rxT6KLFva2C8zbeg_pl_480x640.png,France
+249,La Perrière,2021,1213753,La Petite Perrière Pinot Noir 2021,3.7,50,9.8,750,//images.vivino.com/thumbs/g0UdYvsqRRWWDA6JpVHWag_pl_480x640.png,France
+250,Domaine de Beauséjour,2017,1154917,Chinon Rouge 2017,3.6,91,9.8,750,//images.vivino.com/thumbs/jT_oP4BYQfuznLLAy6aQpQ_pl_480x640.png,France
+251,Château des Annereaux,2020,7360742,Les Annereaux Bordeaux 2020,4.1,73,9.8,750,//images.vivino.com/thumbs/e2cxSpiQTze-qyDk0zCA6Q_pl_480x640.png,France
+252,Paul Mas,2021,1633317,Vignes de Nicole Cabernet Sauvignon - Syrah Pays d'Oc 2021,3.7,31,9.8,750,//images.vivino.com/thumbs/CyX_jFvSRFOZwh0330cXfQ_pl_480x640.png,France
+253,Château La Caussade,2015,2073913,Cadillac - Côtes de Bordeaux 2015,3.6,29,9.8,750,//images.vivino.com/thumbs/Cznr45LBRuGc0az7MAHcnQ_pl_480x640.png,France
+254,Anne de Joyeuse,2020,1753253,Terroir des Dinosaures Gargantuavis Pinot Noir 2020,3.6,90,9.8,750,//images.vivino.com/thumbs/YdzyLJzyTbeE4w6tKRttig_pl_480x640.png,France
+255,Cabalié,2020,2011418,Cuvée Vieilles Vignes 2020,4.1,3389,9.8,750,//images.vivino.com/thumbs/yAqDirYxSDmjhutDZh-9Qw_pl_480x640.png,France
+256,Casal Branco,2020,2468359,Lobo e Falcão Wolf & Falcon Tinto 2020,4.0,1781,9.8,750,//images.vivino.com/thumbs/58Gtnod3ScG17TA8Dk5dvg_pl_480x640.png,Portugal
+257,Château de la Selve,2021,5418311,Petite Selve 2021,4.0,65,9.85,750,//images.vivino.com/thumbs/HwRELXepQIypzeZIRHLcPQ_pl_480x640.png,France
+258,Château de Saint Cosme,2021,981448,Saint Cosme Côtes du Rhône 2021,3.9,336,9.85,750,//images.vivino.com/thumbs/15V18XepTU6vJ7w0dlGwrg_pl_480x640.png,France
+259,Château Laffitte-Teston,2017,1639619,Reflet du Terroir Madiran 2017,3.7,117,9.9,750,//images.vivino.com/thumbs/IwfzDQDuTeqPLaMFe1Ygwg_pl_480x640.png,France
+260,Château Haut Prieur,2018,1606600,Blaye - Côtes de Bordeaux 2018,4.1,333,9.9,750,//images.vivino.com/thumbs/zDBr2mwKST2AsMSw2rVSTQ_pl_480x640.png,France
+261,Château Mourgues du Grès,2020,1774998,Galets Rouges Costières-de-Nîmes 2020,3.7,414,9.9,750,//images.vivino.com/thumbs/R47jI2o1SGaW4AoylAez0w_pl_480x640.png,France
+262,La Coume-Lumet,2019,5990937,La Camin de Lumet Limoux 2019,4.0,38,9.9,750,//images.vivino.com/thumbs/Stvxq7cjQOO7c9TjuyfNXw_pl_480x640.png,France
+263,Christophe Pacalet,2021,1932298,New Beaujolais Nouveau 2021,3.4,27,9.9,750,//images.vivino.com/thumbs/HdiVRYHORtqbVVYU-xoeWA_pl_480x640.png,France
+264,Mas de Valériole,2016,2340012,Les Rieges 2016,3.7,37,9.9,750,//images.vivino.com/thumbs/KWvP8_IKQBOlTuZJuxDNSw_pl_480x640.png,France
+265,Château Thivin,2020,6747819,Vignes d'Ecussol Gamay Noir 2020,3.8,105,9.9,750,//images.vivino.com/thumbs/RkhOQR5wSvCFVMfrhIubCw_pl_480x640.png,France
+266,Les Goubert,2019,1117505,Côtes-du-Rhône 2019,3.6,46,9.9,750,//images.vivino.com/labels/XARGqS0uSS-YQV5zB7avzw.jpg,France
+267,Château La Fon du Berger,2016,1178758,Haut-Médoc 2016,3.7,116,9.9,750,//images.vivino.com/thumbs/cO_dRdvsTp6lCh_ApG8QRg_pl_480x640.png,France
+268,Tor del Colle,2019,1134111,Montepulciano d'Abruzzo Riserva 2019,3.9,320,9.9,750,//images.vivino.com/thumbs/3MxK5eaERum8_KN2LO2Fjw_pl_480x640.png,Italie
+269,Château Bourdieu,2019,2665342,No. 1 2019,3.9,523,9.9,750,//images.vivino.com/thumbs/F478_DzqTKmkbU1aTSmh8A_pl_480x640.png,France
+270,Château Guilhem,2020,1663937,Prestige de Château Guilhem Rouge 2020,3.9,83,9.9,750,//images.vivino.com/thumbs/CrJZyaTzQgWWCh1YzBkYPQ_pl_480x640.png,France
+271,Cono Sur,2020,6359331,Bicicleta Reserva Carmenère 2020,3.8,1157,9.9,750,//images.vivino.com/thumbs/x0kGzGvaQjOXaixfNSr7wg_pl_480x640.png,Chili
+272,Château Terre Blanque,2019,2405292,Blaye Côtes de Bordeaux 2019,4.0,446,9.9,750,//images.vivino.com/thumbs/QcfmCYFfQUOD9coihjQAMg_pl_480x640.png,France
+273,Château Laulerie,2018,6359592,Bergerac Réserve 2018,4.0,38,9.9,750,//images.vivino.com/thumbs/YePPGtlCSZCSDs_LXq390A_pl_480x640.png,France
+274,Gérard Bertrand,2017,2713303,Terroir Languedoc (Syrah - Grenache) 2017,4.0,3165,9.9,750,//images.vivino.com/thumbs/KyWM96_TSQqWMEeyzmsgDw_pl_480x640.png,France
+275,Gérard Bertrand,2019,7996217,Heresie Corbières 2019,3.7,442,9.9,750,//images.vivino.com/thumbs/Qi-G3yyvR0WH9JgNSS_u2A_pl_480x640.png,France
+276,Jeff Carrel,2020,1211289,La Bette Côtes du Roussillon Villages 2020,3.8,47,9.9,750,//images.vivino.com/thumbs/46cnQiAqSUG-P2D3KTRTUg_pl_480x640.png,France
+277,Félix Solís,N.V.,5445838,The Guv’nor N.V.,4.0,15406,9.9,750,//images.vivino.com/thumbs/YtEIDYyoRJ2x9-iT8wS6OQ_pl_480x640.png,Espagne
+278,Abbaye Sylva Plana,2019,17304,Les Novices Faugères 2019,3.6,165,9.9,750,//images.vivino.com/thumbs/aDJScgDZROSd3MPaoskr-w_pl_480x640.png,France
+279,Tenuta Fenice,2020,5392741,La Fenice Risorge Nero d'Avola 2020,4.0,889,9.9,750,//images.vivino.com/thumbs/2Q5rred0Shm-zl6uib7F-A_pl_480x640.png,Italie
+280,Gran Passione,2021,1479859,Rosso Veneto 2021,3.9,183,9.9,750,//images.vivino.com/thumbs/S-8NGGHIQd-81ckyWx0KDA_pl_480x640.png,Italie
+281,Domaine Pérol,2021,5057022,Beaujolais Nouveau 2021,3.5,27,9.9,750,//images.vivino.com/thumbs/3qrHLwlrSrST-ATAJASrcQ_pl_480x640.png,France
+282,Corbillières,2019,4977966,Les Griottines 2019,3.8,40,9.9,750,//images.vivino.com/thumbs/fvqAwRHaT5GvWmtT3qR5Ug_pl_480x640.png,France
+283,Domaine de la Mongestine,2020,6475727,Bob Singlar 2020,3.7,385,9.9,750,//images.vivino.com/thumbs/PdfEqYhzRD6Qu_wWhY6q1Q_pl_480x640.png,France
+284,Château des Annereaux,2019,7360742,Les Annereaux Bordeaux 2019,3.8,427,9.9,750,//images.vivino.com/thumbs/e2cxSpiQTze-qyDk0zCA6Q_pl_480x640.png,France
+285,Famille Perrin,2019,1124243,Côtes du Rhône Nature Rouge 2019,3.7,431,9.9,750,//images.vivino.com/thumbs/5_7YnkUsRRa2gs-vpQaaFQ_pl_480x640.png,France
+286,Don Cristobal,2020,1543290,Bonarda 2020,3.4,25,9.9,750,//images.vivino.com/thumbs/7TgcHqe-QQas1VGQnSLtsQ_pl_480x640.png,Argentine
+287,Château de Flaugergues,2016,4533828,Grés de Montpellier Rouge 2016,3.8,86,9.9,750,//images.vivino.com/thumbs/uiwaUcMhRB294ihQEbl1vQ_pl_480x640.png,France
+288,Araldica,2019,2421787,Ceppi Storici Barbera d'Asti 2019,3.7,95,9.9,750,//images.vivino.com/thumbs/BlZyj2WgRd297vj_21LzIQ_pl_480x640.png,Italie
+289,Domaine de Fontsainte,2018,93495,Corbières Rouge 2018,3.7,75,9.9,750,//images.vivino.com/thumbs/KRLMbIIqRv--1mrj11sLJg_pl_480x640.png,France
+290,Camille Cayran,2019,1142333,Les Voconces Cairanne 2019,4.0,208,9.95,750,//images.vivino.com/thumbs/WPr1LvOmR1KwSi2KyGEzYg_pl_480x640.png,France
+291,Marques del Silvo,2017,8221477,Crianza 2017,3.9,655,9.95,750,//images.vivino.com/thumbs/eBt4UCnLSIi18DQI8DIN9g_pl_480x640.png,Espagne
+292,Don Mendo,2015,10387081,Don Cáron Gran Reserva Tinto 2015,4.0,120,9.95,750,//images.vivino.com/thumbs/Nc6WPpRcRveMTdvSi0yogw_pl_480x640.png,Espagne
+293,Château du Bergey,2018,4426827,Cuvée Tradition Fronsac 2018,4.0,227,9.95,750,//images.vivino.com/thumbs/WD_TQuL0SXidvIjbnEjq-g_pl_480x640.png,France
+294,Château Canet - Vignobles Canet,2019,2379637,Vieilles Vignes Minervois Rouge 2019,3.9,85,9.95,750,//images.vivino.com/thumbs/LuXAQNtGR5Sc9XcRlfwpRg_pl_480x640.png,France
+295,Casa Charlize,2019,7277279,Cuvée Forte 2019,4.1,128,9.95,750,//images.vivino.com/thumbs/wpTApDfuSYmuohO-EWtAxg_pl_480x640.png,Italie
+296,Marqués de Cáceres,2009,10247,Rioja Crianza 2009,3.4,3159,9.95,750,//images.vivino.com/thumbs/yNDCbWsyTsGe9znxFMhZHg_pl_480x640.png,Espagne
+297,Roucas Toumba,2020,1200962,Pichot Roucas 2020,3.8,41,9.95,750,//images.vivino.com/thumbs/PChEQjaASEO5AHr4cNxkVQ_pl_480x640.png,France
+298,La Bollina,2020,6872989,Zenas Primitivo 2020,4.1,29,9.95,750,//images.vivino.com/thumbs/DZHlJ6KPQ5-JesNztP7BYQ_pl_480x640.png,Italie
+299,Oro Italiano,2020,8657169,Nuova Generazione Chianti 2020,4.1,152,9.95,750,//images.vivino.com/thumbs/nS6VOKvyS-2WwcPQTfDQXg_pl_480x640.png,Italie
+300,Baron Philippe de Rothschild,2020,1136106,Mapu Cabernet Sauvignon - Carmenérè 2020,3.7,140,9.95,750,//images.vivino.com/thumbs/NZizGSb_SdeKEZThtGa8Hw_pl_480x640.png,Chili
+301,San Pedro Regalado,2009,1225953,Embocadero (Viña el Águila) 2009,3.6,359,9.95,750,//images.vivino.com/thumbs/zize0tDRSDG1a7e5hj6fJw_pl_480x640.png,Espagne
+302,Tinazzi,2020,1103229,Ca' de' Rocchi Merlot Prato del Faggio 2020,4.2,128,9.95,750,//images.vivino.com/thumbs/QV2Gn6ASSQmIUDI09z8TSw_pl_480x640.png,Italie
+303,Bodegas Olarra,2019,1367561,Cerro Añon Crianza Rioja 2019,3.9,302,9.95,750,//images.vivino.com/thumbs/CLJFYRhjRQe2X4nvG_7xuQ_pl_480x640.png,Espagne
+304,Cantine due Palme,2020,1166209,Pillastro Primitivo Puglia 2020,4.1,2560,9.95,750,//images.vivino.com/thumbs/VdJaGPLIRVSjn7_T0GbvAg_pl_480x640.png,Italie
+305,Domaine du Bouscat,2016,1218024,Caduce 2016,3.6,119,9.95,750,//images.vivino.com/thumbs/ceiAzxVASNSzgcMeWB7E5A_pl_480x640.png,France
+306,Casa Ermelinda Freitas,2020,5485856,Vinha do Fava 2020,4.1,1163,9.95,750,//images.vivino.com/thumbs/QD7BpP1lRgKrGV1K9O7IwA_pl_480x640.png,Portugal
+307,Dark Corner,2021,3246310,Durif - Shiraz 2021,4.0,497,9.95,750,//images.vivino.com/thumbs/FaI26bNbQ4-28RJrumaF_w_pl_480x640.png,Australie
+308,Casella,2021,1144447,The Black Stump Durif - Shiraz 2021,4.1,876,9.95,750,//images.vivino.com/thumbs/rque0I9-Rq6Av2qwMpgGEQ_pl_480x640.png,Australie
+309,Chateau Plantey de Lieujean,2019,1223963,Haut-Médoc 2019,4.0,261,9.95,750,//images.vivino.com/thumbs/7Mw4NcsyQKurMv9N8vUl5g_pl_480x640.png,France
+310,Domini Veneti,2021,8244674,Appassimento Rosso 2021,4.0,76,9.95,750,//images.vivino.com/thumbs/yMGx0nRGQjOKXJC-VxqVQw_pl_480x640.png,Italie
+311,Montedidio,2020,6768102,Stuni 2020,4.0,1018,9.95,750,//images.vivino.com/thumbs/NKrAzX4bR6-CDWB91SvBnQ_pl_480x640.png,Italie
+312,Château Mourgues du Grès,2021,1774998,Galets Rouges Costières-de-Nîmes 2021,3.8,74,9.95,750,//images.vivino.com/thumbs/R47jI2o1SGaW4AoylAez0w_pl_480x640.png,France
+313,Casillero del Diablo,2012,1239713,Shiraz (Reserva) 2012,3.4,1788,9.96,750,//images.vivino.com/thumbs/b047B1ogSTuzfUGfP5E7dA_pl_480x640.png,Chili
+314,N°1 de Dourthe,2014,1797774,Bordeaux Rouge 2014,3.5,462,9.96,750,//images.vivino.com/thumbs/98h3E1aNR2SQ4I_QGuWFjA_pl_480x640.png,France
+315,Domaine Martin,2015,1509508,Cairanne 2015,3.6,28,9.96,750,//images.vivino.com/thumbs/pE2XX6_eSFO_QK094ruG4A_pl_480x640.png,France
+316,Château Haut Macô,2016,1189916,Côtes de Bourg 2016,3.5,42,9.99,750,//images.vivino.com/thumbs/4RPOtUNZTxmxWTeLEscOuw_pl_480x640.png,France
+317,E. Guigal,2018,7773,Côtes-du-Rhône Rouge 2018,3.7,2149,9.99,750,//images.vivino.com/thumbs/I0e3d01sQLumhbrSID4aEg_pl_480x640.png,France
+318,Cru Cantemerle,2012,1402062,Cuvée Prestige Bordeaux Supérieur 2012,3.8,65,9.99,750,//images.vivino.com/thumbs/FpeQiHM5TyCk7Kb9sclQJA_pl_480x640.png,France
+319,Cru Cantemerle,2011,1402062,Cuvée Prestige Bordeaux Supérieur 2011,3.8,110,9.99,750,//images.vivino.com/thumbs/FpeQiHM5TyCk7Kb9sclQJA_pl_480x640.png,France
+320,Château de Pennautier,2016,1206535,Terroirs d'Altitude Cabardès 2016,4.1,121,9.99,750,//images.vivino.com/thumbs/caGS_dA5Q6SfyRzVNuL6TA_pl_480x640.png,France
+321,Château Fleur La Mothe,2018,1486838,Le Jardin de Fleur La Mothe 2018,3.9,27,9.99,750,//images.vivino.com/thumbs/N3gNE_6lQHSxeRegaVDKDQ_pl_480x640.png,France
+322,Domaine de l'Olivier,2020,1692503,Côtes du Rhône 2020,3.7,29,10.0,750,//images.vivino.com/thumbs/_vP2hL27RVWGSlvs8rCR1A_pl_480x640.png,France
+323,Château Chantemerle,2016,1173982,Médoc 2016,3.8,192,10.0,750,//images.vivino.com/thumbs/0Hd5MvCpTyO6wD9PqjT-GA_pl_480x640.png,France
+324,Château Rousset Caillau,2019,1188395,Château Terre Blanque Bordeaux Rouge 2019,3.5,44,10.0,750,//images.vivino.com/thumbs/UKLN-ExMRjelJ04R1FpZsg_pl_480x640.png,France
+325,Château du Carpia,2015,1319346,Bordeaux Rouge 2015,3.8,54,10.0,750,//images.vivino.com/labels/VgnkRMhTSgCyQZoP6OtOLA.jpg,France
+326,Château Bovila,2015,4360170,Prieuré de Bovila Cahors 2015,3.9,34,10.0,750,//images.vivino.com/thumbs/DL0CxlBMQruuP0CMzXxN9w_pl_480x640.png,France
+327,Chateau Jonc-Blanc,2019,6385865,Fruit 2019,3.8,57,10.0,750,//images.vivino.com/labels/AG-X6XsWQs6qL15WtqeqDg.jpg,France
+328,Château les Pins,2020,5876910,Les Petits Pins Côtes du Roussillon Villages 2020,3.7,36,10.0,750,//images.vivino.com/thumbs/bX7N9ENlTOKOiviglMTrDA_pl_480x640.png,France
+329,Famille Laplace,2018,3432705,Les 2 Vaches Rouges Tannat 2018,3.6,407,10.0,750,//images.vivino.com/thumbs/1tQT69FgSSmtYNykq44KvQ_pl_480x640.png,France
+330,Château Vincens,2014,2407869,Origine Cahors 2014,3.5,138,10.0,750,//images.vivino.com/thumbs/LlejTbEcSTiZpUbpWXjWqw_pl_480x640.png,France
+331,Anderra,2012,1542572,Carmenère 2012,3.5,630,10.0,750,//images.vivino.com/thumbs/9TR-QNvWTtCP0s2rhZ34jA_pl_480x640.png,Chili
+332,Vignobles Chaigne et Fils,2015,1225176,Château Peynaud Bordeaux Supérieur 2015,3.9,68,10.0,750,//images.vivino.com/thumbs/n4Qzl0Z0S7mGhqKMDQW3ag_pl_480x640.png,France
+333,Les Vignobles des Côtes d'Agly,2019,1162623,Château Montner Premium Côtes du Roussillon Villages 2019,3.8,45,10.0,750,//images.vivino.com/thumbs/i08fgaapS_aAzdsC7FtATg_pl_480x640.png,France
+334,Château de Pitray,2016,1703662,Premier Vin 2016,3.6,498,10.1,750,//images.vivino.com/thumbs/5a0yMAu6T42uLPAiLvgd3w_pl_480x640.png,France
+335,Château Saint-Florin,2016,1976801,Bordeaux Rouge 2016,3.4,85,10.1,750,//images.vivino.com/thumbs/yN4HSn8wSoqHSjBzRZr0Cg_pl_480x640.png,France
+336,Château des Sources,2019,1139242,Costières de Nîmes 2019,3.6,83,10.1,750,//images.vivino.com/labels/SUKCwGMJTvG-ud8-_DcGmA.jpg,France
+337,Viranel,2019,1505825,Trilogie Rouge 2019,3.7,53,10.1,750,//images.vivino.com/thumbs/hwJhO8qdTNu31e9NaU5ZaQ_pl_480x640.png,France
+338,Château Dauzac,2020,5601010,D de Dauzac Bordeaux 2020,4.0,36,10.1,750,//images.vivino.com/thumbs/SKbCwxhhTYWRJIgmRWOJGw_pl_480x640.png,France
+339,Famille Perrin,2019,1124242,Côtes-du-Rhône Réserve Rouge 2019,3.8,1203,10.1,750,//images.vivino.com/thumbs/bXDqBx_JSRGwzMKfGvtF9Q_pl_480x640.png,France
+340,Château Saint-Florin,2017,1976801,Bordeaux Rouge 2017,3.4,26,10.1,750,//images.vivino.com/thumbs/yN4HSn8wSoqHSjBzRZr0Cg_pl_480x640.png,France
+341,Château des Sources,2018,1139242,Costières de Nîmes 2018,3.6,195,10.1,750,//images.vivino.com/labels/yMApmXQ3QHefBx64lTtDgg.jpg,France
+342,Château Trebiac,2018,1406133,Graves 2018,3.9,245,10.1,750,//images.vivino.com/thumbs/_jLJQj7UQMmBMXZfDkvhfg_pl_480x640.png,France
+343,Lunaria,2018,3641284,Coste di Moro Montepulciano d'Abruzzo 2018,3.8,598,10.15,750,//images.vivino.com/thumbs/SjNVkqBfTeiFkGf6QwOAxw_pl_480x640.png,Italie
+344,Gérard Bertrand,2019,5275425,Or & Azur Rouge 2019,3.7,77,10.19,750,//images.vivino.com/thumbs/ti8_a8z4QH2RjcatkQzdcA_pl_480x640.png,France
+345,Aubert et Mathieu,2020,8352488,Marie Antoinette Corbières 2020,3.8,98,10.19,750,//images.vivino.com/thumbs/uMg5sBxCTX6sV120bGgDsw_pl_480x640.png,France
+346,Domaine l'Abbé Dîne,2019,2438816,Côtes-du-Rhône 2019,3.7,34,10.19,750,//images.vivino.com/thumbs/fr5z5IujSkC5WgPppQoKmw_pl_480x640.png,France
+347,Château La Claymore,2014,1542202,Château Flaunys 2014,3.3,68,10.19,750,//images.vivino.com/thumbs/lTIt8OzoRIiek3CkqKLEZA_pl_480x640.png,France
+348,Château Sainte-Marie,2016,1832711,Vieilles Vignes Bordeaux Supérieur 2016,3.7,221,10.2,750,//images.vivino.com/thumbs/Mi90ATxkQ9uL8GBQ7aX0Ug_pl_480x640.png,France
+349,Château Labrousse,2018,2122112,Blaye - Côtes de Bordeaux 2018,3.8,815,10.2,750,//images.vivino.com/thumbs/LGLoywfeQdSJL7RkBrFFVQ_pl_480x640.png,France
+350,Yves Cuilleron,2021,97906,Syrah Les Vignes d'à Côté 2021,3.7,115,10.2,750,//images.vivino.com/thumbs/-d0TUOptQNmYzDMTZPdzVw_pl_480x640.png,France
+351,Domaine de Coste Chaude,2018,1204279,Florilège Côtes du Rhône 2018,3.8,89,10.2,750,//images.vivino.com/thumbs/lb3qm3kkQ1OmA7pWfkhpxw_pl_480x640.png,France
+352,Château de Fournas,2018,1315963,Rouge 2018,3.4,73,10.29,750,//images.vivino.com/thumbs/gJ-aF_jIQXCOAxveAzJa1Q_pl_480x640.png,France
+353,Château Clement Saint-Jean,2016,1803474,Médoc 2016,3.7,517,10.29,750,//images.vivino.com/thumbs/st92Hcy2Q9C8d120a0UeGQ_pl_480x640.png,France
+354,Yves Cuilleron,2020,97906,Syrah Les Vignes d'à Côté 2020,3.8,356,10.29,750,//images.vivino.com/thumbs/-d0TUOptQNmYzDMTZPdzVw_pl_480x640.png,France
+355,Château de Lascaux,2019,2391776,La Grange de Lascaux Languedoc Rouge 2019,3.8,44,10.29,750,//images.vivino.com/labels/6P52hWs-QCaWHpamTcUeQA.jpg,France
+356,Bufalo Nero,2020,9568049,Governo Rosso Toscano 2020,4.0,298,10.3,750,//images.vivino.com/labels/F9_9ypcrSnWcwkBZYb3Wpw.jpg,Italie
+357,Château de Beaulieu,2009,6525989,Côtes du Marmandais 2009,3.8,39,10.3,750,//images.vivino.com/thumbs/qVQmhu7GRJGTvLnfOi2lIQ_pl_480x640.png,France
+358,Château Marjosse,2018,92492,Bordeaux 2018,3.9,945,10.3,750,//images.vivino.com/thumbs/FBR-YR6GTXqVdgyzJZa5bw_pl_480x640.png,France
+359,Château Croix Mouton,2019,2112249,Bordeaux Supérieur 2019,3.7,199,10.35,750,//images.vivino.com/thumbs/OEKwvr-WRZ-CZc1OoIiJJQ_pl_480x640.png,France
+360,Domaine Boucabeille,2021,1166701,Les Terrasses Régis Boucabeille Rouge 2021,3.9,53,10.4,750,//images.vivino.com/thumbs/VQGbVqOrQG-ue9fQFqEILg_pl_480x640.png,France
+361,Castelmaure,2020,1153723,La Pompadour Corbières 2020,3.9,160,10.4,750,//images.vivino.com/thumbs/tmgVrnsESZOiMGkknGa96w_pl_480x640.png,France
+362,Domaine Solence,2020,1802921,Les 3 Pères 2020,3.9,36,10.4,750,//images.vivino.com/thumbs/rKqjWPmDReuZjsM0N5RXSg_pl_480x640.png,France
+363,Borgo del Mandorlo,2020,6696813,Appassimento Puglia Rosso 2020,4.0,160,10.45,750,//images.vivino.com/thumbs/eQDvgE9ITVe9EVvU0T0F_Q_pl_480x640.png,Italie
+364,Château de Lionne,2018,2687042,Graves Rouge 2018,3.9,84,10.5,750,//images.vivino.com/thumbs/hccQX85eSm-Sgpk6pACuAw_pl_480x640.png,France
+365,Lionel Osmin & Cie,2020,9451116,Un Jardin Extraordinaire Rouge D'Été 2020,3.4,48,10.5,750,//images.vivino.com/thumbs/JWxsIi-xQNSz5vHSsqoqCA_pl_480x640.png,France
+366,Domaine Labranche Laffont,2018,2309760,Madiran 2018,3.9,94,10.5,750,//images.vivino.com/thumbs/9LHfHkL1TGGlrO0OdKb3Ow_pl_480x640.png,France
+367,Moulin de Gassac,2017,1935908,Elise 2017,3.4,25,10.5,750,//images.vivino.com/labels/JDXanmKLRS66VGmn7TpkDw.jpg,France
+368,Gérard Bertrand,2020,5275425,Or & Azur Rouge 2020,3.7,67,10.5,750,//images.vivino.com/thumbs/ti8_a8z4QH2RjcatkQzdcA_pl_480x640.png,France
+369,Castello Romitorio,2008,13982,Morellino di Scansano 2008,3.4,46,10.5,750,//images.vivino.com/thumbs/k97mlC8LQoSm9XV-0phLYA_pl_480x640.png,Italie
+370,Château Gaston Rena,2015,1848434,Haut Médoc 2015,3.5,29,10.5,750,//images.vivino.com/thumbs/pOyLOTiJRzW3WxZIqHendQ_pl_480x640.png,France
+371,Château Siran,2013,1280906,Bel Air de Siran Haut-Médoc 2013,3.4,26,10.5,750,//images.vivino.com/thumbs/9yExWE6VQrmmkVdParm-yQ_pl_480x640.png,France
+372,Les Notables de Maucaillou,2016,1237032,Le B de Maucaillou 2016,3.6,819,10.5,750,//images.vivino.com/thumbs/LiSeEfZzTKaI5yVwqTq8tA_pl_480x640.png,France
+373,Olivier Pithon,2020,1682546,Mon P'tit Pithon Rouge 2020,3.7,107,10.5,750,//images.vivino.com/thumbs/Z79Q9wckRtqP58R-Jtt60A_pl_480x640.png,France
+374,Clos des Boutes,2019,1657752,Le Pluriel Rouge 2019,3.6,87,10.5,750,//images.vivino.com/thumbs/nQfBm8u4SFOguCTTuAM4MA_pl_480x640.png,France
+375,Château Sainte-Marie,2019,1832711,Vieilles Vignes Bordeaux Supérieur 2019,3.6,93,10.5,750,//images.vivino.com/thumbs/Mi90ATxkQ9uL8GBQ7aX0Ug_pl_480x640.png,France
+376,Château Pesquie,2020,16485,Ventoux Terrasses Rouge 2020,3.7,357,10.5,750,//images.vivino.com/thumbs/0Sjv4rItTPmPUtQo5rhLXw_pl_480x640.png,France
+377,Domaine Duseigneur,2021,2915357,La Goutte du Seigneur Côtes du Rhône Rouge 2021,3.9,80,10.5,750,//images.vivino.com/thumbs/rSu0rWt_Q_qLX8FIpq7F9A_pl_480x640.png,France
+378,Château La Croix des Pins,2019,4188745,Les Trois (3) Villages Ventoux Rouge 2019,4.0,111,10.5,750,//images.vivino.com/thumbs/tI4SKFDiT1-Q3KfkabNRMw_pl_480x640.png,France
+379,Château l'Argenteyre,2016,1172851,Médoc 2016,3.8,559,10.5,750,//images.vivino.com/thumbs/pVq1EYAaQdOCzZQh1xBa1g_pl_480x640.png,France
+380,Yves Cuilleron,2019,97906,Syrah Les Vignes d'à Côté 2019,3.8,760,10.5,750,//images.vivino.com/thumbs/-d0TUOptQNmYzDMTZPdzVw_pl_480x640.png,France
+381,Vigneti del Salento,2019,2301615,Malvasia Nera Zolla 2019,4.1,412,10.5,750,//images.vivino.com/thumbs/92GcxWoERDq3Qm06cVHIcg_pl_480x640.png,Italie
+382,Château la Bastide,2018,17498,Corbières Tradition Red 2018,3.9,123,10.5,750,//images.vivino.com/thumbs/wjS97C6_QRitzsCAccgLag_pl_480x640.png,France
+383,Domaine de Courbissac,2019,3816709,Les Traverses Minervois 2019,3.8,173,10.55,750,//images.vivino.com/thumbs/8r3lIEXwShKH8j03tzmB8Q_pl_480x640.png,France
+384,Domaine la Bouissiere,2020,1103068,Les Amis de la Bouissiere 2020,3.8,49,10.6,750,//images.vivino.com/thumbs/t2ciQkBdTamhO4cdMS_ktw_pl_480x640.png,France
+385,Château Croix Mouton,2013,2112249,Bordeaux Supérieur 2013,3.5,513,10.6,750,//images.vivino.com/thumbs/OEKwvr-WRZ-CZc1OoIiJJQ_pl_480x640.png,France
+386,Hospices de Beaujeu,2020,2062500,Cuvée Jean Gaudet Morgon 2020,3.4,33,10.7,750,//images.vivino.com/labels/YhCelGpGQnuuq5esvFy86g.jpg,France
+387,Château Tour Sieujean,2018,3055325,L'instanT Haut-Medoc 2018,3.9,33,10.7,750,//images.vivino.com/thumbs/_X1Up5DPS5SLu9FF0gRfIw_pl_480x640.png,France
+388,Clos Troteligotte,2019,1370177,K-nom Malbec 2019,3.9,57,10.7,750,//images.vivino.com/thumbs/a4QENVePRJ-B4L6N8KXIJg_pl_480x640.png,France
+389,Mas Janeil,2006,13649,Côtes du Roussillon Villages Rouge 2006,3.8,28,10.74,750,//images.vivino.com/thumbs/OK8YjYLFR1WwPp2lhGBFwA_pl_480x640.png,France
+390,Château Clinet,2016,1170219,Ronan by Clinet Bordeaux 2016,3.6,705,10.75,750,//images.vivino.com/thumbs/_LqBMVaOQN2cYOFMRMBAag_pl_480x640.png,France
+391,ColleMassari,2018,87654,Rigoleto Montecucco Rosso 2018,3.7,583,10.75,750,//images.vivino.com/thumbs/XnYUISxwQ7CEupLKP74ZVw_pl_480x640.png,Italie
+392,Château Pascaud,2019,1546561,Bordeaux Supérieur 2019,3.8,88,10.78,750,//images.vivino.com/labels/5CPU20ahR36_fjQr6m8w-A.jpg,France
+393,Casillero del Diablo,2016,1135108,Carmenere (Reserva) 2016,3.7,6350,10.8,750,//images.vivino.com/thumbs/EzEry-KjRimH3QmiLKaiLQ_pl_480x640.png,Chili
+394,Château Tour des Gendres,2020,9813548,Cantalouette 2020,3.9,35,10.8,750,//images.vivino.com/thumbs/5Ogf_jUYSMm5Wowfv3ZPcQ_pl_480x640.png,France
+395,Château Mauvesin Barton,2015,1886716,L'Impression Moulis en Médoc 2015,3.5,128,10.8,750,//images.vivino.com/thumbs/SMieZ7Y_RrK2v3XRjYZG-Q_pl_480x640.png,France
+396,Domaine Lafage,2020,1735610,Authentique Côtes du Roussillon Rouge 2020,3.8,85,10.8,750,//images.vivino.com/thumbs/w6YHH7HFRk-ZV6nKzfkq2w_pl_480x640.png,France
+397,Quinta da Romaneira,2016,5027756,R de Romaneira 2016,3.8,409,10.8,750,//images.vivino.com/thumbs/xL0ez1-TQh2Wlzn47vPTEw_pl_480x640.png,Portugal
+398,Château Haut-Lalande Grand Vin,2019,6716240,Blaye - Côtes de Bordeaux 2019,4.1,233,10.8,750,//images.vivino.com/thumbs/XdWyZiEVRBuUiSXDF1M_1A_pl_480x640.png,France
+399,Château Moulin de Noaillac,2018,1365179,Médoc 2018,3.3,38,10.8,375,//images.vivino.com/thumbs/fy0cDkeyQp6dRhrv2-V6Zg_pl_480x640.png,France
+400,Michel Lynch,2018,1270807,Bordeaux Rouge 2018,3.5,339,10.8,750,//images.vivino.com/thumbs/LQSQV4QJQY2BF1qVMMPHoA_pl_480x640.png,France
+401,Espelt,2006,1731540,Sauló 2006,3.6,43,10.8,750,//images.vivino.com/thumbs/As3LVNgURk65yNcdsoK8OA_pl_480x640.png,Espagne
+402,Castaño,2018,85758,Hécula Monastrell 2018,3.4,1419,10.8,750,//images.vivino.com/thumbs/t5kMbv9TT0qAapPv4tMk1Q_pl_480x640.png,Espagne
+403,Hecht & Bannier,2015,1110928,Minervois 2015,3.7,163,10.89,750,//images.vivino.com/thumbs/58UWYARhQgaFPWhF_xYGlw_pl_480x640.png,France
+404,Wolf Blass,2020,1128678,Yellow Label Shiraz 2020,3.6,177,10.9,750,//images.vivino.com/thumbs/25Hj9qdfQn22x_Bxqa7VaA_pl_480x640.png,Australie
+405,Gilles Robin,2019,5929353,Terroir de Bramarel Côtes-du-Rhône 2019,3.8,68,10.9,750,//images.vivino.com/thumbs/DTdd5kdsTrycZ44F2QIuuA_pl_480x640.png,France
+406,Vignoble Millaire,2019,3677760,Château Cavale Bordeaux 2019,3.8,51,10.9,750,//images.vivino.com/labels/TKGaHWGCRnSxlroxOlUrqg.jpg,France
+407,Piaugier,2020,1112496,Côtes-du-Rhône-Villages 'Sablet' Rouge 2020,3.7,112,10.9,750,//images.vivino.com/thumbs/SDWPuNq-Q0aeSy9TyJUJcA_pl_480x640.png,France
+408,Tombacco,2020,3569108,Aglianico del Beneventano 2020,4.0,747,10.9,750,//images.vivino.com/thumbs/eVrUaDzuRgec-XCR9i2J0A_pl_480x640.png,Italie
+409,Brotte,2020,1907542,Cotes du Rhône Esprit Barville Rouge 2020,3.7,215,10.9,750,//images.vivino.com/thumbs/RgNCBpMQQJa6SCObVLXaiQ_pl_480x640.png,France
+410,Mas de la Dame,2020,1622163,La Gourmande Rouge 2020,3.6,46,10.9,750,//images.vivino.com/labels/9AIW9Eg1RtyBa-ZAgnbC6A.jpg,France
+411,Elian Da Ros,2020,1542677,Ce Vin est une Fête Côtes du Marmandais 2020,3.8,98,10.9,750,//images.vivino.com/thumbs/T0jYrDENQkyRV4c092Eg1Q_pl_480x640.png,France
+412,Domaine de la Janasse,2021,75871,Côtes du Rhône Rouge 2021,3.8,102,10.9,750,//images.vivino.com/thumbs/WZ-UYYa-T1K-33VWsJXfhg_pl_480x640.png,France
+413,Domaine du Roncée,2018,1311343,Clos des Marronniers Chinon 2018,3.6,67,10.9,750,//images.vivino.com/thumbs/P1Wu-8I3QH-Wvj7CO-ijyw_pl_480x640.png,France
+414,Château Rouquette Sur Mer,2019,1146518,L'Esprit Terroir La Clape 2019,3.6,68,10.9,750,//images.vivino.com/thumbs/9K2Cf6JERMmtnpEcWsJmAA_pl_480x640.png,France
+415,Domaine André Berthet-Rayne,2020,5294523,Muses Côtes-du-Rhône 2020,4.1,31,10.9,750,//images.vivino.com/thumbs/sglfNSNHQx2rsNQJQQxGHQ_pl_480x640.png,France
+416,Familia Torres,2018,1587235,Sangre de Toro Tempranillo 2018,3.8,2778,10.9,750,//images.vivino.com/thumbs/S3I8KEKER2GwdInEQiFV0A_pl_480x640.png,Espagne
+417,Clos des Boutes,2018,1657752,Le Pluriel Rouge 2018,3.4,79,10.9,750,//images.vivino.com/thumbs/nQfBm8u4SFOguCTTuAM4MA_pl_480x640.png,France
+418,Château de Villegeorge,2018,1464384,L'Etoile de Villegeorge Haut-Médoc 2018,3.7,70,10.9,750,//images.vivino.com/thumbs/FNfaSShNRrOtKBIugBiXiw_pl_480x640.png,France
+419,Gérard Bertrand,2018,8705378,An 1130 Cité de Carcassonne 2018,3.8,25,10.9,750,//images.vivino.com/thumbs/M5EaOpp0QJq8zFNsgaUfnQ_pl_480x640.png,France
+420,Château Haut Cabut,2019,1914157,Blaye Côtes de Bordeaux 2019,4.2,59,10.95,750,//images.vivino.com/thumbs/na8S1OKxSXCdw0awRKMG3A_pl_480x640.png,France
+421,Dos Caprichos,2018,4488618,Crianza 2018,4.1,1434,10.95,750,//images.vivino.com/thumbs/YM9L_iUdTs2ge-Tal5Djgg_pl_480x640.png,Espagne
+422,Casa Ermelinda Freitas,2020,1199466,Syrah Reserva 2020,4.1,346,10.95,750,//images.vivino.com/thumbs/bVUclMKbQT-OR6ZmRr1ang_pl_480x640.png,Portugal
+423,Château la Rose Beaumont,2019,9609114,Blaye Côtes de Bordeaux Rouge 2019,4.2,58,10.95,750,//images.vivino.com/thumbs/spSdOn-RTHKS0dE6g9lIgQ_pl_480x640.png,France
+424,Cave St Maurice,2019,2154772,Poujol Lacoste Rouge 2019,4.0,486,10.95,750,//images.vivino.com/thumbs/pESJ1TdhSYqTvyywyPqVqw_pl_480x640.png,France
+425,Viña Otano,2015,1148680,Reserva 2015,4.0,188,10.95,750,//images.vivino.com/thumbs/nTqL5FwRSLiEz9UpM9qkEw_pl_480x640.png,Espagne
+426,Borgo del Mandorlo,2018,6421555,Primitivo di Manduria Riserva 2018,4.0,719,10.95,750,//images.vivino.com/thumbs/wIDDUyseTu6LI7JOJ7uwuA_pl_480x640.png,Italie
+427,Cantina del Coppiere,2021,5961810,Primitivo Appassito 2021,4.0,41,10.95,750,//images.vivino.com/thumbs/0PB6A1mYR2WxknMW4EpP0g_pl_480x640.png,Italie
+428,Château Paveil de Luze,2019,3905341,Petit Paveil Bordeaux 2019,3.7,52,10.95,750,//images.vivino.com/thumbs/SPOB9aFBTo-N-jPyQAutBw_pl_480x640.png,France
+429,Alain Jaume,2020,88377,Grand Veneur Côtes du Rhône (Réserve) 2020,3.7,705,10.95,750,//images.vivino.com/thumbs/NHenuud9RY-GvUqA9fWcEA_pl_480x640.png,France
+430,Ilurce,2019,5608861,Angel Garnacha Rioja 2019,4.0,187,10.95,750,//images.vivino.com/thumbs/qQY9fuzWRX2Xn31iSjz6Gg_pl_480x640.png,Espagne
+431,Tagaro,2020,2536534,Cinquenoci 2020,4.2,375,10.95,750,//images.vivino.com/thumbs/slkIIpBMTvSwhf1BzLsYxg_pl_480x640.png,Italie
+432,Bodegas Olarra,2018,76305,Cerro Añon Reserva Rioja 2018,4.0,118,10.95,750,//images.vivino.com/thumbs/Q9-k4EE3Q-ylFyU8U-8Qcg_pl_480x640.png,Espagne
+433,Barbanera,2020,6913645,Ammone Appassimento 2020,4.1,289,10.95,750,//images.vivino.com/thumbs/Bv3W8zNXRoik3DhliVMlpA_pl_480x640.png,Italie
+434,Casa Bardonecca,2021,8365879,Oak Collection Susumaniello 2021,4.1,26,10.95,750,//images.vivino.com/thumbs/Gc7gIHW_QByhndBb8NYD7A_pl_480x640.png,Italie
+435,Obalo,2018,2358820,La Tarara 2018,4.0,421,10.95,750,//images.vivino.com/thumbs/EhgvwOCtS9auRNjPCg8NwA_pl_480x640.png,Espagne
+436,Rectoral de Amandi,2020,8716276,Matilda Nieves Mencia 2020,3.9,528,10.95,750,//images.vivino.com/thumbs/_1j317HZTgWDlLSB0JhdtQ_pl_480x640.png,Espagne
+437,Domaine de la Janasse,2019,75864,Vin de Pays Terre de Bussière Principauté d'Orange 2019,4.1,148,10.99,750,//images.vivino.com/thumbs/6lYCpcQQQBCukdERlVELmA_pl_480x640.png,France
+438,Château Roquevieille,2018,1301827,Castillon - Côtes de Bordeaux 2018,3.7,170,10.99,750,//images.vivino.com/thumbs/vXewuncgRteWUk4xWdZsDw_pl_480x640.png,France
+439,La Bodega de Pinoso,2020,3048082,Flos de Pinoso Tinto 2020,3.5,40,10.99,750,//images.vivino.com/labels/UN6B_K_qQgCiwg3Y-FGi6A.jpg,Espagne
+440,Château du Petit Thouars,2014,1662469,Cabernet Franc 2014,3.6,243,11.0,750,//images.vivino.com/labels/FG7Cd5NARHuPkz-sSMvqYQ.jpg,France
+441,Jeff Carrel,2018,3872624,La Tire 2018,3.7,320,11.0,750,//images.vivino.com/thumbs/kCdSZ5PSTHilYqmc8CKmoQ_pl_480x640.png,France
+442,Altos de Rioja,2020,1271922,Altos R Tempranillo 2020,3.9,55,11.0,750,//images.vivino.com/thumbs/pve5ce0KTnSyvF_6TH2MXA_pl_480x640.png,Espagne
+443,Domaine de Villeneuve,2019,1538765,Happy Culteur Pic-Saint-Loup Rouge 2019,3.9,115,11.0,750,//images.vivino.com/thumbs/J7EPYQMLRN20iJlS9Ttv0A_pl_480x640.png,France
+444,Château de Cénac,2016,1235514,Cuvée Prestige Malbec 2016,3.7,56,11.0,750,//images.vivino.com/thumbs/2WF04NzdQ_yq88Atp8E9WA_pl_480x640.png,France
+445,Château Réal,2014,1292695,Haut Médoc 2014,3.5,64,11.0,750,//images.vivino.com/thumbs/-NtnWSobT1G4YE9gDGkHQw_pl_480x640.png,France
+446,Château Barouillet,2021,2185486,Bergecrac Rouge 2021,3.9,42,11.0,750,//images.vivino.com/thumbs/e-eP1rotQtyf2oh0doj2Xg_pl_480x640.png,France
+447,Château Lalande d'Auvion,2009,2497534,Médoc 2009,3.7,103,11.0,750,//images.vivino.com/thumbs/askpv-CJTGCaQVBzhpXgHQ_pl_480x640.png,France
+448,Domaine Dupasquier,2018,1475180,Gamay Savoie 2018,3.8,44,11.0,750,//images.vivino.com/thumbs/2U3EvyB1Q2CR-siRIVMMug_pl_480x640.png,France
+449,Château Bousquet,2018,1128297,Graves Rouge 2018,3.6,49,11.0,750,//images.vivino.com/thumbs/joXy8zo0TjWkaGtDjHxPEQ_pl_480x640.png,France
+450,Domaine de Fontsainte,2018,1741667,La Demoiselle Corbières 2018,4.0,87,11.0,750,//images.vivino.com/thumbs/MAhtK9EnTQ2hLM63ZlnRMg_pl_480x640.png,France
+451,Domaine Marcel Joubert,2019,2662853,Cuvée À L'Ancienne Beaujolais-Villages 2019,3.9,121,11.0,750,//images.vivino.com/thumbs/LpT6elvGRIuxO2O4TGTvTw_pl_480x640.png,France
+452,Domaine Alloïs,2020,1282299,Infiniment Rouge 2020,3.8,31,11.0,750,//images.vivino.com/thumbs/oPDA7jXZSFOw9l7vsqs8qA_pl_480x640.png,France
+453,Château Rocher Corbin,2016,1265693,Les Promesses de Rocher Corbin Montagne Saint-Émilion 2016,4.0,89,11.0,750,//images.vivino.com/thumbs/9sJbMlJmSCiFq2oZc4lPEA_pl_480x640.png,France
+454,Château Magondeau,2018,1168438,Fronsac 2018,3.8,33,11.0,750,//images.vivino.com/thumbs/H58VKpzDQPyKLnRBuiC5iQ_pl_480x640.png,France
+455,Domaine de Villeneuve,2019,1709513,Vieilles Vignes Pic-Saint-Loup 2019,3.8,60,11.0,750,//images.vivino.com/thumbs/Gmoyel-tTiSn1fGXJs5_vQ_pl_480x640.png,France
+456,Domaine des Marrans,2019,4059140,Beaujolais-Villages 2019,3.7,28,11.0,750,//images.vivino.com/thumbs/fOP9jW2DQzmKMsyTw2LhEg_pl_480x640.png,France
+457,Château Les Miaudoux,2018,1757119,Bergerac 2018,3.6,31,11.0,750,//images.vivino.com/thumbs/YATqIVM4Qdi7jAZV4N3ing_pl_480x640.png,France
+458,Cellaro,2020,1172829,Solea Nero d'Avola 2020,3.7,179,11.0,750,//images.vivino.com/thumbs/BtvIvyy_SZamOgP-unWOHg_pl_480x640.png,Italie
+459,Château Signac,2019,1199959,Cuvée Combe d'Enfer Côtes-du-Rhône-Villages 'Chusclan' 2019,3.9,49,11.0,750,//images.vivino.com/thumbs/rP8SyLreTeGGBRxEiiKQsw_pl_480x640.png,France
+460,Jean François Mérieau,2020,1264310,Le Bois Jacou Gamay 2020,3.7,115,11.0,750,//images.vivino.com/thumbs/rTC4GzDzRFKJ69xJ1tKSQw_pl_480x640.png,France
+461,Tarapacá,2021,4348851,Carmenère 2021,3.7,104,11.0,750,//images.vivino.com/thumbs/aWowoDICRw6dI-7Ax8NBgg_pl_480x640.png,Chili
+462,Poggio Anima,2019,1210913,Belial Sangiovese 2019,3.8,278,11.0,750,//images.vivino.com/thumbs/8yM8OqZ7R9u00-j6Cs2GrQ_pl_480x640.png,Italie
+463,Château Croix Mouton,2017,2112249,Bordeaux Supérieur 2017,3.4,326,11.0,750,//images.vivino.com/thumbs/OEKwvr-WRZ-CZc1OoIiJJQ_pl_480x640.png,France
+464,Cazes,2020,20222,Ego Côtes du Roussillon Villages 2020,3.8,103,11.0,750,//images.vivino.com/thumbs/ZXegcijiSPWxjlXgeWDz4A_pl_480x640.png,France
+465,Château Larrivaux,2015,1556828,L'X de Larrivaux Haut-Medoc 2015,3.9,84,11.0,750,//images.vivino.com/thumbs/XD57H9l1S3OkMXusu9W8bw_pl_480x640.png,France
+466,Château Mauvesin Barton,2016,1886716,L'Impression Moulis en Médoc 2016,3.5,30,11.0,750,//images.vivino.com/thumbs/SMieZ7Y_RrK2v3XRjYZG-Q_pl_480x640.png,France
+467,Château Gros Caillou,2011,1586970,Chateau Moulin de Cantelaube Saint-Émilion Grand Cru 2011,3.9,28,11.1,750,//images.vivino.com/thumbs/1lt8fKIlSvenABDPvNq_Bg_pl_480x640.png,France
+468,Château du Petit Thouars,2020,6435019,Les Georges Chinon 2020,3.9,31,11.1,750,//images.vivino.com/thumbs/pxzQ72ykTweqmXaTXDNpMg_pl_480x640.png,France
+469,Château Salitis,2015,1499461,Cuvée Des Dieux Cabardès 2015,4.0,76,11.12,750,//images.vivino.com/thumbs/VMYQgbQERA2rA4kC1MCxqw_pl_480x640.png,France
+470,Familia Torres,2017,1385210,Sangre de Toro 2017,3.5,4279,11.14,750,//images.vivino.com/thumbs/opMKVm2PRZ-XYlLNq5G0oA_pl_480x640.png,Espagne
+471,Mas Amiel,2020,3662137,Vertigo 2020,3.7,28,11.19,750,//images.vivino.com/thumbs/-2Jfhw8mSYuaQ98MfO7Fmw_pl_480x640.png,France
+472,Clos de la Grande Grange,2018,7648257,Côtes-du-Rhône Bio 2018,3.6,110,11.19,750,//images.vivino.com/thumbs/b9M2dAoqQQmcTRZPdQzo5g_pl_480x640.png,France
+473,Clos de la Grande Grange,2019,7648257,Côtes-du-Rhône Bio 2019,3.5,51,11.19,750,//images.vivino.com/thumbs/b9M2dAoqQQmcTRZPdQzo5g_pl_480x640.png,France
+474,Pascal Aufranc,2018,2117793,Les Cerisiers Les Crots Juliénas 2018,3.7,67,11.2,750,//images.vivino.com/thumbs/RlTa_yeNSba7-m1XwbYXdg_pl_480x640.png,France
+475,Château Turcaud,2019,1404071,Cuvée Majeure Bordeaux Supérieur 2019,4.2,95,11.2,750,//images.vivino.com/thumbs/mEOjMMgHSxOgxycnYN88SQ_pl_480x640.png,France
+476,Pascal Aufranc,2019,2117793,Les Cerisiers Les Crots Juliénas 2019,3.4,57,11.2,750,//images.vivino.com/thumbs/RlTa_yeNSba7-m1XwbYXdg_pl_480x640.png,France
+477,Shadow Point,2019,9930525,Pinot Noir 2019,3.6,70,11.25,750,//images.vivino.com/thumbs/HsH1ZH_rRaqRiWAQIMYTQQ_pl_480x640.png,États-Unis
+478,Massimo Firelli,2021,7480841,Prestige Susumaniello 2021,4.1,119,11.29,750,//images.vivino.com/thumbs/FL0wOF8FRmevDGt70GrWvA_pl_480x640.png,Italie
+479,Mezzatia,2021,9300861,Primitivo - Susumaniello 2021,4.2,78,11.3,750,//images.vivino.com/labels/fEuZ32HiRJCRrwIGNrRM4w.jpg,Italie
+480,Mas des Chimères,2020,1602993,Oeillade Coteaux du Salagou 2020,3.8,44,11.3,750,//images.vivino.com/thumbs/DQUFhUtOQXy8qmc1EbmIxA_pl_480x640.png,France
+481,Laurent Gauthier,2020,1184749,Grands Cras Vieilles Vignes Morgon 2020,3.8,95,11.3,750,//images.vivino.com/thumbs/YuxPVd4wRWSrRECCgY226A_pl_480x640.png,France
+482,Terre Cevico,2019,6733613,Extroso Rosso 2019,3.6,210,11.3,1500,//images.vivino.com/thumbs/29aft7CQRByYc-hsbLxCDg_pl_480x640.png,Italie
+483,Terroir Daronton,2020,6333960,Côtes-du-Rhône 2020,3.8,31,11.3,750,//images.vivino.com/thumbs/SwIaF9FzTZybkBhm8U3_eg_pl_480x640.png,France
+484,Foncalieu,2012,2194772,Le Versant Merlot 2012,3.0,34,11.3,750,//images.vivino.com/thumbs/Q2IEGsnNSSGkiURly1PxWA_pl_480x640.png,France
+485,Château Fontvieille,2016,1318108,Côtes de Bourg Rouge 2016,4.0,86,11.3,750,//images.vivino.com/thumbs/8nOKPYCzSHCQTNwLEZBU-A_pl_480x640.png,France
+486,Zonin,2015,1137404,Chianti 2015,3.4,1426,11.4,750,//images.vivino.com/thumbs/JqEaVvNLQJqyjbs75eQ-UA_pl_480x640.png,Italie
+487,Château Noaillac,2016,1791312,Médoc 2016,3.8,438,11.4,750,//images.vivino.com/thumbs/WChHxt6jRze5DehHVQjzbw_pl_480x640.png,France
+488,Domaine Eyverine,2020,1414894,Cairanne 2020,3.5,57,11.4,750,//images.vivino.com/thumbs/C8nPxFrRRHWxGqDDke9XEg_pl_480x640.png,France
+489,Brotte,2018,7193407,Viridi Côtes-du-Rhône 2018,3.9,55,11.4,750,//images.vivino.com/thumbs/0Q-lZAQYQeS_7Vf0AnX3FA_pl_480x640.png,France
+490,Clos Culombu,2020,4564934,Tribbiera Rouge 2020,3.6,80,11.4,750,//images.vivino.com/thumbs/xI6xRubtSR6_VDwQ2qr3_Q_pl_480x640.png,France
+491,Veranda,2009,1849633,Pinot Noir 2009,3.6,89,11.4,750,//images.vivino.com/thumbs/1WuiiS6OTPKW00RF41Qi7w_pl_480x640.png,Chili
+492,Domaine du Prieure Saint-Just,2019,1177756,Côtes-du-Rhône-Villages 'Seguret' 2019,3.7,32,11.4,750,//images.vivino.com/thumbs/thq6jEZzRFWxzTBf-oRkZQ_pl_480x640.png,France
+493,Domaine Dame Guilherme,2019,1855687,Côtes du Rhône Villages 'Plan de Dieu' 2019,3.7,154,11.4,750,//images.vivino.com/thumbs/c8_D3xn2RPunZqZBbWdjOg_pl_480x640.png,France
+494,Château Ksara,2019,1892,Réserve du Couvent 2019,3.8,895,11.4,750,//images.vivino.com/thumbs/HTTjXKaITB-9SR_wcdHJPA_pl_480x640.png,Liban
+495,Domaine Benjamin Taillandier,2021,1364452,Laguzelle Minervois 2021,3.7,70,11.4,750,//images.vivino.com/thumbs/5VnZReKQSjGjDX1sVPi7Kg_pl_480x640.png,France
+496,Famille Perrin,2019,1220175,L'Andeol Rasteau 2019,3.9,47,11.49,750,//images.vivino.com/thumbs/eHzxSdrtSVKG8tg2Cp8IDw_pl_480x640.png,France
+497,Vignoble Millaire,2018,3677760,Château Cavale Bordeaux 2018,3.9,47,11.5,750,//images.vivino.com/labels/C5sOXA8gT3OpB7ZAS_vYXQ.jpg,France
+498,Les Notables de Maucaillou,2018,1237032,Le B de Maucaillou 2018,3.7,75,11.5,750,//images.vivino.com/thumbs/LiSeEfZzTKaI5yVwqTq8tA_pl_480x640.png,France
+499,Château Les Clauzots,2016,1181454,Graves 2016,3.8,287,11.5,750,//images.vivino.com/thumbs/N4jUDX1lT7e8DYez0VoEyg_pl_480x640.png,France
+500,Hervé Morin - Domaine de la Rodaie,2020,4195711,St Nicolas de Bourgueil Rouge 2020,3.4,27,11.5,750,//images.vivino.com/labels/rk5SYnk1QC6uW3kET8M3Og.jpg,France
+501,Château Mourgues du Grès,2010,1671436,Terre d'Argence Costières-de-Nîmes 2010,3.5,33,11.5,750,//images.vivino.com/thumbs/G0L5QJ-5TZaDIqj_fRHOUg_pl_480x640.png,France
+502,Canet-Valette,2020,1323583,Antonyme 2020,3.6,50,11.5,750,//images.vivino.com/thumbs/N78S7JQLTDKbMfOAESYleA_pl_480x640.png,France
+503,Chéreau-Carré,2017,1491464,Domaine de La Colline Chinon 2017,3.3,38,11.5,750,//images.vivino.com/thumbs/tfTB0fyEQ0SI3yZFkGt_5Q_pl_480x640.png,France
+504,Domaine Olga Raffault,2020,1222719,Les Barnabés Chinon 2020,3.9,25,11.5,750,//images.vivino.com/thumbs/GLrAJ3BFQySz0YCxzCppuA_pl_480x640.png,France
+505,Bertrand & Vincent Marchesseau,2020,3744229,Funambule Bourgueil 2020,3.7,51,11.5,750,//images.vivino.com/labels/ozktF-teQUSB_shD-3v0NQ.jpg,France
+506,Louis Jadot,2020,2786,Beaujolais-Villages Combe aux Jacques 2020,3.8,2076,11.5,750,//images.vivino.com/thumbs/QbvQLy6HRm6d0NYsY7UvSg_pl_480x640.png,France
+507,Château Castera,2015,6030460,Château Bois Mondont Saint-Germain 2015,3.7,153,11.5,750,//images.vivino.com/thumbs/lKzpQXX7T_aW4XNduc0eHA_pl_480x640.png,France
+508,Cantele,2021,21936,Primitivo 2021,3.8,26,11.5,750,//images.vivino.com/thumbs/vXDwATlxSwaH3YhsLzzcbA_pl_480x640.png,Italie
+509,Domaine Maby,2020,1409125,Baroques 2020,3.7,41,11.5,750,//images.vivino.com/thumbs/o-SL_J9GQje7eGgyMp4zVg_pl_480x640.png,France
+510,Domaine de Courteillac,2018,1316441,Fleur de Courteillac Bordeaux Supérieur 2018,4.0,130,11.5,750,//images.vivino.com/thumbs/AP4KvxSnQIaD-5He5hL1Fw_pl_480x640.png,France
+511,Château Ollieux Romanis,2020,1539229,Lo Petit Fantet d'Hyppolite 2020,3.9,416,11.5,750,//images.vivino.com/thumbs/bTAPhpTXQCGT3_JWmSESjw_pl_480x640.png,France
+512,Podere 29,2019,6621911,Unio Nero di Troia - Primitivo 2019,3.8,107,11.5,750,//images.vivino.com/thumbs/G_5WWOBKQSWA-av8EwcyIQ_pl_480x640.png,Italie
+513,Luccarelli,2021,1162182,Primitivo 2021,3.8,113,11.5,750,//images.vivino.com/thumbs/oPTPr_VzS82G6WmioxPfSw_pl_480x640.png,Italie
+514,Trivento,2010,1135980,Reserve Malbec 2010,3.3,417,11.6,750,//images.vivino.com/thumbs/CbDl_aY_SBmoUv6ZGz7PLQ_pl_480x640.png,Argentine
+515,Combier,2021,8399768,Syrah 2021,3.6,30,11.6,750,//images.vivino.com/labels/mdmmFYhRQBKCHQCX_7DpUA.jpg,France
+516,Thunevin-Calvet,2017,1211677,Cuvée Constance Côtes du Roussillon Villages 2017,3.7,145,11.6,750,//images.vivino.com/thumbs/b_iVL1ynS1G_uaISYd1wLA_pl_480x640.png,France
+517,Domaine de Carmignan,2018,4570653,Côtes-du-Rhône Rouge 2018,4.0,465,11.6,750,//images.vivino.com/thumbs/8f298_oWT0GqR2EPPiHM0g_pl_480x640.png,France
+518,Château Poitevin,2016,1101041,Médoc 2016,3.7,251,11.6,750,//images.vivino.com/thumbs/tQjS6yTMR8GoNrm0PPAjrg_pl_480x640.png,France
+519,Canet-Valette,2019,1323583,Antonyme 2019,3.7,185,11.6,750,//images.vivino.com/thumbs/N78S7JQLTDKbMfOAESYleA_pl_480x640.png,France
+520,Abbaye Sylva Plana,2020,3659676,La Closeraie Faugères 2020,4.1,115,11.6,750,//images.vivino.com/thumbs/GCx-GiVRRG-beA8_8MVEnQ_pl_480x640.png,France
+521,Famille Laurent,2019,5791104,Calnite Saint-Pourçain Rouge 2019,3.9,27,11.6,750,//images.vivino.com/thumbs/LDlW9heNSw-n2jkI8G-u-Q_pl_480x640.png,France
+522,Anne-Sophie Pic et Michel Chapoutier,2020,2641099,Côtes-du-Rhône Rouge 2020,3.8,33,11.7,750,//images.vivino.com/thumbs/5mwI3X6-QaCw_-oTo6dRyQ_pl_480x640.png,France
+523,Domaine de Fondrèche,2020,1439771,Ventoux 2020,3.9,252,11.7,750,//images.vivino.com/thumbs/0okwvhoMRRa9s7qajPbrCw_pl_480x640.png,France
+524,Château La Fleur Haut Carras,2016,1558683,Haut-Médoc 2016,3.6,172,11.75,750,//images.vivino.com/thumbs/ovhYfT7NR3yE73cn7Bc1aQ_pl_480x640.png,France
+525,Château La Fleur Haut Carras,2016,1558683,Haut-Médoc 2016,3.6,172,11.75,750,//images.vivino.com/thumbs/ovhYfT7NR3yE73cn7Bc1aQ_pl_480x640.png,France
+526,Condominio,2019,2201120,Roble 2019,3.9,140,11.75,750,//images.vivino.com/thumbs/D8sND35bTzuVOZUUougU0g_pl_480x640.png,Espagne
+527,Domaine de la Cendrillon,2020,2537776,Atypique 2020,4.0,25,11.75,750,//images.vivino.com/thumbs/b9e0UQGMRXudcphh6yFVMw_pl_480x640.png,France
+528,Trivento,2018,1135980,Reserve Malbec 2018,3.7,14200,11.75,750,//images.vivino.com/thumbs/diN0gK6qSpKsgbMApBbxNw_pl_480x640.png,Argentine
+529,Marrenon,2020,1197250,ORCA  Vieilles Vignes 2020,4.1,35,11.8,750,//images.vivino.com/thumbs/NE4glQxOSeSZzfYEch_RcA_pl_480x640.png,France
+530,Clavel,2020,4185895,Le Mas Coteaux du Languedoc 2020,3.7,78,11.8,750,//images.vivino.com/thumbs/9FT7694YSnW_NuA43LXOEQ_pl_480x640.png,France
+531,Mas Laval,2019,2517445,Les Pampres 2019,3.9,86,11.8,750,//images.vivino.com/thumbs/v_fZfIizQVar5KGw3pP6Iw_pl_480x640.png,France
+532,Paul Barre,2019,2028727,Leeloo Vigneron 2019,3.7,65,11.8,750,//images.vivino.com/thumbs/l7LMGlv9QkG0H50uo_CahA_pl_480x640.png,France
+533,Domaine de la Brillane,2016,7349671,La Traversée 2016,3.7,54,11.8,750,//images.vivino.com/thumbs/CHf-0V3IRE-bOK_1-prw8w_pl_480x640.png,France
+534,Famille Jean-Pierre  Rambier - Domaine Haut-Lirou,2021,2357629,Classic Rouge 2021,3.8,77,11.8,750,//images.vivino.com/thumbs/oWin-N3ZRsqzYiL583bIWQ_pl_480x640.png,France
+535,E. Guigal,2017,7773,Côtes-du-Rhône Rouge 2017,3.7,4276,11.8,750,//images.vivino.com/thumbs/I0e3d01sQLumhbrSID4aEg_pl_480x640.png,France
+536,Foncalieu,2015,2309251,Le Versant Syrah 2015,3.7,97,11.8,750,//images.vivino.com/thumbs/A5bqJuqlQl-UbYS0Xjs-fw_pl_480x640.png,France
+537,Zonin,2020,1141683,Montepulciano D'Abruzzo 2020,3.4,351,11.9,750,//images.vivino.com/thumbs/bKPrvvYmT7Wy2EYhAVRixQ_pl_480x640.png,Italie
+538,Château Gros Caillou,2010,1586970,Chateau Moulin de Cantelaube Saint-Émilion Grand Cru 2010,3.5,145,11.9,750,//images.vivino.com/thumbs/1lt8fKIlSvenABDPvNq_Bg_pl_480x640.png,France
+539,Clusel-Roch,2020,1375048,Traboules Coteaux du Lyonnais 2020,3.6,71,11.9,750,//images.vivino.com/thumbs/_ZMw0NsERtGiUihgEgYbRg_pl_480x640.png,France
+540,Château Chapelle d'Alienor,2017,4753834,Bordeaux Supérieur 2017,3.8,130,11.9,750,//images.vivino.com/thumbs/fxT0lsUURj6RlCZZa9A1Jw_pl_480x640.png,France
+541,Mas de Libian,2020,19323,Bout d'Zan 2020,3.8,310,11.9,750,//images.vivino.com/thumbs/03zWAp7yQk-wMb7re_MRbA_pl_480x640.png,France
+542,Château le Clos du Notaire,2016,1306772,Côtes de Bourg 2016,3.8,128,11.9,750,//images.vivino.com/thumbs/kKzRklGDS-afmbLzc1T9iA_pl_480x640.png,France
+543,Château Les Farcies du Pech,2019,1206209,Pécharmant 2019,3.8,35,11.9,750,//images.vivino.com/thumbs/3oAC2YvYRxauF3hemWmdcg_pl_480x640.png,France
+544,Château de Pitray,2016,99305,Castillon - Côtes de Bordeaux 2016,3.4,26,11.9,750,//images.vivino.com/thumbs/phDK0HZ_TEeWzmDMQ30t8Q_pl_480x640.png,France
+545,Domaine d'Eriane,2018,2135078,Les Bermudes Rouge 2018,3.9,42,11.9,750,//images.vivino.com/labels/i7BVdgo_RIyItWPzxqRDIQ.jpg,France
+546,Marc Kreydenweiss,2020,1626208,Les Grimaudes 2020,4.0,49,11.9,750,//images.vivino.com/thumbs/Aqf3NY1vSzmoIUu-SLdP3g_pl_480x640.png,France
+547,Vignobles de Paloumey,2018,2012888,Ailes de Paloumey Haut-Médoc 2018,4.2,189,11.9,750,//images.vivino.com/thumbs/Xh1ts-6_TmyHBnkIomGsgA_pl_480x640.png,France
+548,Jourdan & Pichard,2015,2635238,Les Gravinières Cabernet Franc 2015,3.7,105,11.9,750,//images.vivino.com/thumbs/dBjRrArLSLe-CzAzpTfBJw_pl_480x640.png,France
+549,Domaine Richaud,2020,5953559,Terre d'Aigles Côtes-du-Rhône 2020,3.9,94,11.9,750,//images.vivino.com/thumbs/N8H0dO7CSpqsbbSLkM7nUg_pl_480x640.png,France
+550,Château Brulesecaille,2018,4384640,Château La Gravière  Côtes de Bourg 2018,3.9,50,11.9,750,//images.vivino.com/labels/uBEpPRtDRiGXvvLrCncaUg.jpg,France
+551,Château d'Arricaud,2016,1165379,Réserve du Comte Graves 2016,4.2,27,11.95,750,//images.vivino.com/thumbs/4QKX87IVRaCnfkpOY9qKKA_pl_480x640.png,France
+552,Ortega Ezquerro,2019,5009411,Crianza 2019,4.1,96,11.95,750,//images.vivino.com/thumbs/cBgZ9xbmSKiWUzzmZuGCfQ_pl_480x640.png,Espagne
+553,Duca di Saragnano,2019,3627696,Governo Toscana Rosso 2019,4.1,126,11.95,750,//images.vivino.com/thumbs/_oOd6le6Si6ZgxRTUUeJ1w_pl_480x640.png,Italie
+554,Château Lacaussade Saint Martin,2018,1895804,Trois Moulins Blaye Côtes de Bordeaux Rouge 2018,4.0,271,11.95,750,//images.vivino.com/thumbs/QKyEDgnNS1-R1E5462HpVg_pl_480x640.png,France
+555,Château Haut Prieur,2019,1606600,Blaye - Côtes de Bordeaux 2019,4.2,170,11.95,750,//images.vivino.com/thumbs/zDBr2mwKST2AsMSw2rVSTQ_pl_480x640.png,France
+556,Montebello,2021,7605202,Monbellezzio Cioccolata Appassimento 2021,4.2,35,11.95,750,//images.vivino.com/thumbs/ume_O2vsThKi-hS2j1V59g_pl_480x640.png,Italie
+557,Assuli,2019,5052898,Lorlando Nero d'Avola 2019,4.0,56,11.95,750,//images.vivino.com/thumbs/nvIhozLKSqOYgS5h0t1EgQ_pl_480x640.png,Italie
+558,Azpilicueta,2019,3652647,Origen Crianza 2019,3.9,232,11.95,750,//images.vivino.com/thumbs/Ok8V_bH2RhmvredN-YD39Q_pl_480x640.png,Espagne
+559,Finca Santa Bella,2018,8939371,Black Label Malbec 2018,4.0,97,11.95,750,//images.vivino.com/thumbs/QILL_Nl6S8CFMfVmpblfhg_pl_480x640.png,Argentine
+560,Montedidio,2018,9186885,Privè Nerello Mascalese 2018,4.2,34,11.95,750,//images.vivino.com/labels/fjSmj1UjSP2SX12uHP0rYQ.jpg,Italie
+561,San Tanaro,2019,8485216,Private Collection Barbera d'Asti Superiore 2019,4.1,63,11.95,750,//images.vivino.com/thumbs/_qVmeZIUSAWQToVToi571w_pl_480x640.png,Italie
+562,Bodegas Langa,2018,8450298,Sekeida Mountain Vineyard Garnacha Iberica 2018,3.9,858,11.95,750,//images.vivino.com/thumbs/MPg11QvwTMCGitj7f-5hRg_pl_480x640.png,Espagne
+563,Capo Zafferano,2020,5821608,Appassimento Rosso 2020,4.0,490,11.95,750,//images.vivino.com/thumbs/xeHKv7RjTOORJK-PYyFZPA_pl_480x640.png,Italie
+564,La Croix de Saint Jean,2019,5630468,La Pere du Michel 2019,4.1,113,11.95,750,//images.vivino.com/thumbs/FzoTZ4OFToWkbfgyepG8Hw_pl_480x640.png,France
+565,Casa di Terra,2019,1542812,Lenaia Toscana 2019,4.0,66,11.95,750,//images.vivino.com/thumbs/WzyNgCkET66ylhjaz6VQJg_pl_480x640.png,Italie
+566,Château de Coulaine,2020,1131231,Chinon 2020,3.7,102,11.95,750,//images.vivino.com/thumbs/6UkxfW8MT-GQWAhWYwkxxw_pl_480x640.png,France
+567,Tinazzi,2019,5145449,Ca' de' Rocchi Corvè Corvina della Provincia di Verona 2019,4.3,562,11.95,750,//images.vivino.com/thumbs/rUO9VzgvRAicoASN7pLIDg_pl_480x640.png,Italie
+568,Château Rocher Gardat,2020,1222697,Montagne-Saint-Émilion 2020,4.1,162,11.95,750,//images.vivino.com/thumbs/tjsz19oTQBOf5qgrHBvZQA_pl_480x640.png,France
+569,Château La Gorce,2018,1984563,Médoc 2018,4.0,611,11.95,750,//images.vivino.com/thumbs/34GjEYCgTBiRwkexOeYQbQ_pl_480x640.png,France
+570,Tagaro,2020,4422119,Pinataro Primitivo di Manduria 2020,4.1,91,11.95,750,//images.vivino.com/thumbs/hHa6MXK_RGWYVnkDbyGDjw_pl_480x640.png,Italie
+571,Masseria La Volpe,2021,3390935,1 Uno Primitivo di Manduria 2021,4.1,157,11.95,750,//images.vivino.com/thumbs/ygTg4K4vR5GYCjWTFocWng_pl_480x640.png,Italie
+572,Il Cinghiale Sfuggente Governo,2020,8148152,Edizione Limitata La Bestia Governo All'Uso Toscano 2020,4.3,29,11.95,750,//images.vivino.com/thumbs/39q8cP3XQpG49nC7LUrd5Q_pl_480x640.png,Italie
+573,Lui & William Wines,2020,7166699,Dominio de Taurum 2020,4.2,70,11.95,750,//images.vivino.com/thumbs/Ww3W1-TpTme1P31VK7gL2g_pl_480x640.png,Espagne
+574,Luccarelli,2020,2013141,Campo Marina Primitivo di Manduria 2020,4.2,195,11.99,750,//images.vivino.com/thumbs/IorXDpkpSJGs0h0BYKMiag_pl_480x640.png,Italie
+575,Casa Ermelinda Freitas,2020,8448623,Vinha do Fava Reserva Tinto 2020,4.1,72,11.99,750,//images.vivino.com/thumbs/hVpOj0d2RuinjH19RLcxGQ_pl_480x640.png,Portugal
+576,Château Lucas,2011,1899650,Cuvée Prestige Grand de Lucas Lussac Saint-Émilion 2011,4.0,60,12.0,750,//images.vivino.com/thumbs/H68yk366QTiniV6dOf74qw_pl_480x640.png,France
+577,Château de Rouffiac,2014,1237034,Cahors 2014,2.8,45,12.0,750,//images.vivino.com/labels/11AIsplpRo6w1iYA_Bhz0g.jpg,France
+578,Domaine Pierre Cros,2019,1507390,Les Mal Aimés 2019,3.7,42,12.0,750,//images.vivino.com/thumbs/h6DKRDlFQYCfEVoUzCN2jA_pl_480x640.png,France
+579,Stephane Montez - Domaine du Monteillet,2020,1162582,La Syrah à Papa 2020,4.0,38,12.0,750,//images.vivino.com/thumbs/l3kLdfqGQf6zyUGs_6uQWw_pl_480x640.png,France
+580,Frédéric Magnien,2017,779732,Pinot Noir Bourgogne 2017,3.5,340,12.0,750,//images.vivino.com/thumbs/8WHjKBh9S2O-bqkXIkpdDg_pl_480x640.png,France
+581,Château Cru Godard,2018,1403497,Côtes de Bordeaux 2018,3.8,240,12.0,750,//images.vivino.com/thumbs/VzMCVN8JT-m1mZGBu33bqQ_pl_480x640.png,France
+582,Famille Jean-Pierre  Rambier - Domaine Haut-Lirou,2020,2357629,Classic Rouge 2020,3.9,127,12.0,750,//images.vivino.com/thumbs/oWin-N3ZRsqzYiL583bIWQ_pl_480x640.png,France
+583,Agriverde,2018,2381102,Riseis Montepulciano d'Abruzzo 2018,3.8,118,12.0,750,//images.vivino.com/thumbs/UNtWLHLKRwq-ATHzvyvtgA_pl_480x640.png,Italie
+584,Les Hauts de Tousquiron,2015,1519534,Cuvée Lucie Medoc 2015,4.0,76,12.0,750,//images.vivino.com/thumbs/0smHpwYFTEKumsdEJNZaIQ_pl_480x640.png,France
+585,Le Pigeoulet des Brunier,2020,77722,Vaucluse 2020,4.0,91,12.0,750,//images.vivino.com/thumbs/Oih1x7beQKSRVnRHSuCEPg_pl_480x640.png,France
+586,Château Lacour Jacquet,2014,2007427,Haut-Médoc 2014,3.7,61,12.0,750,//images.vivino.com/thumbs/jct77CgdQV62_SSIYccWPQ_pl_480x640.png,France
+587,Gigondas La Cave,2019,78404,Terrissimo Beaumes de Venise 2019,4.1,72,12.0,750,//images.vivino.com/thumbs/xo39jXUuTpSI-AV87Pz5BA_pl_480x640.png,France
+588,Nicolas Pere & Fils,2018,6829679,Monsieur N... Pinot Noir 2018,3.5,114,12.0,1500,//images.vivino.com/thumbs/_d8DQl3mSBayZ7JKcMQiEw_pl_480x640.png,France
+589,Henri Musso,2018,1210168,Château de Cach Haut-Médoc 2018,3.8,26,12.0,750,//images.vivino.com/thumbs/lx8yXtFDRW2kJnr0ukpHSQ_pl_480x640.png,France
+590,Château de Corneilla,2019,1539684,Pur Sang Côtes du Roussillon 2019,4.1,35,12.0,750,//images.vivino.com/thumbs/y59H5z-kTnODlxWvu5z-Bg_pl_480x640.png,France
+591,Castello Monaci,2020,21125,Negroamaro Salento Maru 2020,3.7,165,12.0,750,//images.vivino.com/thumbs/bfNAFJR9Qu6nBRINyMiawA_pl_480x640.png,Italie
+592,Château Potensac,2017,1127496,Chapelle de Potensac Médoc 2017,4.0,477,12.0,750,//images.vivino.com/thumbs/hm3VdTf_So2BzuEOfd2pWQ_pl_480x640.png,France
+593,Castello Monaci,2020,21123,Primitivo Salento Pilùna 2020,3.9,975,12.0,750,//images.vivino.com/thumbs/2VQUwXZDRnWx4ZNThcHLBg_pl_480x640.png,Italie
+594,Château Cap de Faugères,2017,78653,Castillon - Côtes de Bordeaux 2017,3.7,154,12.0,750,//images.vivino.com/thumbs/ejwL_dfKTRO1ASV9SsJf_Q_pl_480x640.png,France
+595,Château Peyrabon,2017,97275,Haut-Médoc 2017,3.7,157,12.0,750,//images.vivino.com/thumbs/msaxvpDzQbmhAtdl5sGotQ_pl_480x640.png,France
+596,Artuke,2021,2152418,Artuke Rioja 2021,3.8,249,12.0,750,//images.vivino.com/thumbs/EjdznIb0TnOCoURr9Zm68A_pl_480x640.png,Espagne
+597,Domaine Martin,2013,738395,Côtes-du-Rhône-Villages 'Plan de Dieu' 2013,3.6,116,12.0,750,//images.vivino.com/thumbs/KbTmujXCQmCAODdHMfe1Qg_pl_480x640.png,France
+598,Zeni,2007,1147573,Lealbere Teroldego Rotaliano 2007,3.5,29,12.0,750,//images.vivino.com/thumbs/HNMyW_nRTX6iukvUQxoh_Q_pl_480x640.png,Italie
+599,Bolla,2020,2625344,Il Calice Valpolicella Classico 2020,3.4,69,12.0,750,//images.vivino.com/thumbs/KfdLq0bdQT6vJ74jmDy3cQ_pl_480x640.png,Italie
+600,Caldora,2020,11852,Montepulciano d'Abruzzo 2020,3.7,67,12.0,750,//images.vivino.com/thumbs/bdmNHkHJSomCxv85-f6Dpg_pl_480x640.png,Italie
+601,Château la Canorgue,2020,1147498,Luberon Rouge 2020,4.0,38,12.0,750,//images.vivino.com/thumbs/JVk_t8FqQPG_HNmDK9v3sQ_pl_480x640.png,France
+602,Donnafugata,2020,7210089,La Bella Sedara 2020,3.8,148,12.0,750,//images.vivino.com/thumbs/C62ZB9TYRKqIzfWbd0vSSA_pl_480x640.png,Italie
+603,Préceptorie,2020,1452655,Coume Marie Côtes du Roussillon Rouge 2020,4.3,34,12.0,750,//images.vivino.com/thumbs/7_aoR22bT4OhyIoAPREnNA_pl_480x640.png,France
+604,Mas de Libian,2021,19321,Vin de Pétanque 2021,3.9,37,12.0,750,//images.vivino.com/thumbs/OZus6dNARRSbkdhBPzelKA_pl_480x640.png,France
+605,Château d'Issan,2017,1168762,Moulin d'Issan Bordeaux Supérieur 2017,3.9,830,12.0,750,//images.vivino.com/thumbs/LDOOyjYSTR27hhq8BflFEg_pl_480x640.png,France
+606,Château Monbrison,2011,2051565,Haut-Médoc de Monbrison 2011,3.5,62,12.0,750,//images.vivino.com/thumbs/1K19FiV4TUij3QJs5RlenA_pl_480x640.png,France
+607,Terres Dorées,2021,1294011,L'Ancien Beaujolais 2021,3.7,231,12.0,750,//images.vivino.com/thumbs/43owEmciSVy2IDrvsra3YQ_pl_480x640.png,France
+608,Cantine Pellegrino,2018,6316571,Materico Nerello Mascalese 2018,3.5,175,12.0,750,//images.vivino.com/thumbs/WK5PlsnDRTOkxYBOdSgHrg_pl_480x640.png,Italie
+609,Château Hervé-Laroque,2016,1259171,Fronsac 2016,3.8,190,12.0,750,//images.vivino.com/thumbs/oSVbeLXGS1Se_BVyk81XIw_pl_480x640.png,France
+610,Château de Manissy,2018,18759,Oracle Côtes du Rhône Rouge 2018,3.5,201,12.0,750,//images.vivino.com/thumbs/3g581Uz4SmWBxJ8owlXmlw_pl_480x640.png,France
+611,Fabrice Gasnier,2015,1901895,Pierres Chaudes Chinon 2015,3.4,57,12.0,750,//images.vivino.com/thumbs/TvgB4xaYROuriBNpWT_BQw_pl_480x640.png,France
+612,Domaine du Mas des Armes,2020,1773176,Grains de Sagesse 2020,3.9,45,12.0,750,//images.vivino.com/thumbs/jbzurO33TQCf4DAtL9Ur-g_pl_480x640.png,France
+613,Domaine de Fondrèche,2021,1439771,Ventoux 2021,4.0,83,12.0,750,//images.vivino.com/thumbs/0okwvhoMRRa9s7qajPbrCw_pl_480x640.png,France
+614,Tomàs Cusiné,2019,1244278,Llebre 2019,3.7,261,12.0,750,//images.vivino.com/thumbs/vLT_yhqNQzSN6E9mgoD9aw_pl_480x640.png,Espagne
+615,Château Reynon,2017,81735,Cadillac - Côtes de Bordeaux 2017,3.6,206,12.0,750,//images.vivino.com/thumbs/aDt_T99oQNyLeyOOD6GjAw_pl_480x640.png,France
+616,Château de Saint Cosme,2020,981448,Saint Cosme Côtes du Rhône 2020,3.8,3163,12.0,750,//images.vivino.com/thumbs/15V18XepTU6vJ7w0dlGwrg_pl_480x640.png,France
+617,Dominique Piron,2018,1215091,Domaine de La Chanaise Morgon 2018,3.8,381,12.0,750,//images.vivino.com/thumbs/bBD7DGWETkWS4uLk2QwCLg_pl_480x640.png,France
+618,Château Cap de Faugères,2019,78653,Castillon - Côtes de Bordeaux 2019,3.9,55,12.0,750,//images.vivino.com/thumbs/ejwL_dfKTRO1ASV9SsJf_Q_pl_480x640.png,France
+619,Château La Bernède Grand Poujeaux,2011,86377,Moulis-en-Médoc 2011,3.7,144,12.0,750,//images.vivino.com/thumbs/2iJ4BppoS0Gs1kL9QpModw_pl_480x640.png,France
+620,Château Croix Mouton,2018,2112249,Bordeaux Supérieur 2018,3.6,455,12.0,750,//images.vivino.com/thumbs/OEKwvr-WRZ-CZc1OoIiJJQ_pl_480x640.png,France
+621,Bastide des Songes,2016,2500724,Les Mouliéres 2016,3.9,46,12.1,750,//images.vivino.com/thumbs/wGdCoxd7QOKtZgJOhv0FxA_pl_480x640.png,France
+622,Fabrice Gasnier,2019,1901895,Pierres Chaudes Chinon 2019,3.7,122,12.2,750,//images.vivino.com/thumbs/TvgB4xaYROuriBNpWT_BQw_pl_480x640.png,France
+623,Luzon,2017,77056,Jumilla Petit Verdot 2017,3.7,36,12.2,750,//images.vivino.com/thumbs/OYtdkxZYS_u-VmW3PnRmJQ_pl_480x640.png,Espagne
+624,Clos Siguier,2018,1618995,Vieilles Vigne Les Camille Cahors 2018,3.8,60,12.2,750,//images.vivino.com/thumbs/QPZp2nknQ2CDu9Pf9pVr7A_pl_480x640.png,France
+625,Clos Siguier,2017,1222796,Cahors 2017,3.5,157,12.2,750,//images.vivino.com/thumbs/rWj7nIbLReqosZZcJj1TDA_pl_480x640.png,France
+626,Clos La Coutale,2019,36304,Cahors Malbec 2019,3.8,786,12.2,750,//images.vivino.com/thumbs/kM44Nl2YTTiaw0SBPjxn7A_pl_480x640.png,France
+627,Château Aimée,2018,1387846,Médoc 2018,3.5,55,12.2,750,//images.vivino.com/thumbs/rn8_pUH6RrW95pJZ5pE1TA_pl_480x640.png,France
+628,Château du Petit Thouars,2016,6713174,L'Epée Chinon 2016,4.0,109,12.2,750,//images.vivino.com/thumbs/RmzTM5HeTH6vySoghjVfCQ_pl_480x640.png,France
+629,Château Peyrou,2016,1951535,Colombe de Peyrou Castillon - Côtes de Bordeaux 2016,3.4,26,12.2,750,//images.vivino.com/thumbs/4zGUcFZyS0mnjboTTgjZDw_pl_480x640.png,France
+630,Brotte,2019,1164879,Château de Bord Côtes du Rhône Villages Laudun Rouge 2019,3.9,29,12.2,750,//images.vivino.com/thumbs/EniSNtVaReKLfc62KG2oqg_pl_480x640.png,France
+631,Château de Courteillac,2016,1881487,Bordeaux 2016,3.5,401,12.2,750,//images.vivino.com/thumbs/8nQEQ_LbTyKBs8w9OCjfxQ_pl_480x640.png,France
+632,Château Carbon d'Artigues,2019,3427206,Graves Rouge 2019,3.9,28,12.3,750,//images.vivino.com/thumbs/zJWhbpkmQVOysX10_CkSTw_pl_480x640.png,France
+633,Domaine de la Perruche,2020,5667111,Saumur-Champigny 2020,3.6,52,12.3,750,//images.vivino.com/labels/fCzxnJK2Rr-xUrMFMru49g.jpg,France
+634,Château Maucoil,2021,1199508,Côtes-du-Rhône Villages 2021,4.0,58,12.3,750,//images.vivino.com/thumbs/0vjeIq-iRveM0NNJRfgYkA_pl_480x640.png,France
+635,19 Crimes,2020,3736213,Cabernet Sauvignon 2020,3.7,1606,12.3,750,//images.vivino.com/thumbs/FiYJyUPRQdWWa65rabt_EA_pl_480x640.png,Australie
+636,Anderra,2018,1542572,Carmenère 2018,3.6,85,12.3,750,//images.vivino.com/thumbs/9TR-QNvWTtCP0s2rhZ34jA_pl_480x640.png,Chili
+637,Abbotts & Delaunay,2019,6337876,À tire d’Aile Corbières 2019,3.8,56,12.3,750,//images.vivino.com/thumbs/7fRreZ3NSlqBH1YTA2LCIg_pl_480x640.png,France
+638,Terre & Laves,2019,3048057,Côtes d'Auvergne Rouge 2019,3.5,35,12.3,750,//images.vivino.com/thumbs/4cUXGkh1RdmaJ0Ku1Z8KYg_pl_480x640.png,France
+639,Domaine de la Renaudie,2018,1953351,Chenonceaux Rouge 2018,3.9,131,12.35,750,//images.vivino.com/thumbs/JYJrpwCoRMyVW8FmGUX2dw_pl_480x640.png,France
+640,Château la Diligente,2018,2835495,Puisseguin-Saint-Émilion 2018,4.0,40,12.4,750,//images.vivino.com/thumbs/kZ0oKAfjTKqPrLkgLbXbwg_pl_480x640.png,France
+641,Château Terre Blanque,2017,2405292,Blaye Côtes de Bordeaux 2017,3.9,25,12.4,750,//images.vivino.com/thumbs/QcfmCYFfQUOD9coihjQAMg_pl_480x640.png,France
+642,Abbotts & Delaunay,2018,7116195,À tire d'Aile Minervois 2018,3.9,36,12.4,750,//images.vivino.com/thumbs/x02CfK0_T6ihra_mgj0Ezg_pl_480x640.png,France
+643,Château Siaurac,2019,1378627,Plaisir de Siaurac Lalande-de-Pomerol 2019,3.8,177,12.4,750,//images.vivino.com/thumbs/7fljUmfOSNa61cy26HJaiQ_pl_480x640.png,France
+644,Mas de la Dame,2018,1162370,Réserve du Mas Les Baux de Provence 2018,3.9,131,12.4,750,//images.vivino.com/labels/3boLonnVRxu9jOH43_E4dQ.jpg,France
+645,Caravinserail,2017,7774768,Galets & Chênes Truffiers Côtes-du-Rhône 2017,3.6,27,12.45,750,//images.vivino.com/labels/NnKX3OcZT1iK_HHSkAzdqQ.jpg,France
+646,Domaine Saint Germain,2019,7932410,Crac Boum’Bu Rouge 2019,3.5,42,12.5,750,//images.vivino.com/thumbs/tYlr7GIPROCgrzWWobJ5qA_pl_480x640.png,France
+647,Domaine du Cros,2018,1957838,Cuvée Vieilles Vignes 2018,3.7,165,12.5,750,//images.vivino.com/thumbs/6KE9JoOHQxy-kS-HRY4MPw_pl_480x640.png,France
+648,Les Hauts de Tousquiron,2014,1519534,Cuvée Lucie Medoc 2014,3.8,68,12.5,750,//images.vivino.com/thumbs/0smHpwYFTEKumsdEJNZaIQ_pl_480x640.png,France
+649,M. Chapoutier,2020,1134152,Côtes-du-Rhône 2020,3.6,640,12.5,750,//images.vivino.com/thumbs/UGYICwKBSpWIAlxPFefhtQ_pl_480x640.png,France
+650,Château Lacour Jacquet,2018,2007427,Haut-Médoc 2018,3.9,53,12.5,750,//images.vivino.com/thumbs/jct77CgdQV62_SSIYccWPQ_pl_480x640.png,France
+651,Château Puech-Haut,2020,2563994,Le Loup du Pic Pic-Saint-Loup 2020,3.5,34,12.5,750,//images.vivino.com/thumbs/dXy_6daZSI2w_L0ERIDxUA_pl_480x640.png,France
+652,Château Franc-Baudron,2019,1751291,Montagne-Saint-Émilion 2019,3.9,92,12.5,750,//images.vivino.com/labels/xHYOP18uScCwr2ELn9NTWQ.jpg,France
+653,Mas del Périé - Fabien Jouves,2021,1574512,Tu Vin Plus aux Soirées 2021,3.7,65,12.5,750,//images.vivino.com/thumbs/r4z-3NS2SMaPF7UQ819-FQ_pl_480x640.png,France
+654,Château Cap de Faugères,2015,78653,Castillon - Côtes de Bordeaux 2015,3.6,683,12.5,750,//images.vivino.com/thumbs/ejwL_dfKTRO1ASV9SsJf_Q_pl_480x640.png,France
+655,Castello Monaci,2018,1187131,Salice Salentino Liante 2018,3.6,121,12.5,750,//images.vivino.com/thumbs/gA5oD2DSTk-vnXofX6bMVw_pl_480x640.png,Italie
+656,Li Veli,2021,5123216,Garrisa Susumaniello 2021,4.0,37,12.5,750,//images.vivino.com/thumbs/bZmDRpAERyyzSeevdN-JSw_pl_480x640.png,Italie
+657,Bodegas Vilano,2019,3973671,Black Edition 2019,3.9,1803,12.5,750,//images.vivino.com/thumbs/X--X4eQiRLiMCHurn-MMFQ_pl_480x640.png,Espagne
+658,Château Siran,2014,1280906,Bel Air de Siran Haut-Médoc 2014,3.6,54,12.5,750,//images.vivino.com/thumbs/9yExWE6VQrmmkVdParm-yQ_pl_480x640.png,France
+659,Château de Lascaux,2020,95953,Carra Pic-Saint-Loup Languedoc Rouge 2020,4.0,75,12.5,750,//images.vivino.com/thumbs/YRDqMik7QJmtIZb44_kzmg_pl_480x640.png,France
+660,Gérard Bertrand,2016,7197391,Art de Vivre Rouge 2016,3.8,311,12.5,750,//images.vivino.com/thumbs/rKxYU3SWSJuAMmr8yLhm9Q_pl_480x640.png,France
+661,Château Maucaillou,2016,1363749,Le Haut-Médoc de Maucaillou 2016,3.7,350,12.5,750,//images.vivino.com/thumbs/4vqvGLMDTJqGJCAsuzaaRw_pl_480x640.png,France
+662,Azpilicueta,2017,1955228,Reserva 2017,4.0,51,12.5,750,//images.vivino.com/thumbs/gos3YVV3QiaZrcb8qnCsYg_pl_480x640.png,Espagne
+663,Camille Cayran,2013,1142332,Antique Cairanne 2013,3.8,54,12.5,750,//images.vivino.com/thumbs/PQqGc7beTJKWGrW137XfSQ_pl_480x640.png,France
+664,Tenimenti Ca'Bianca,2018,1154813,Dolcetto d'Acqui 2018,3.3,84,12.5,750,//images.vivino.com/thumbs/RfyM_YDnQfSbcmIs_cU3Aw_pl_480x640.png,Italie
+665,Château du Champ des Treilles,2018,1248274,Le Petit Champ Bordeaux 2018,3.7,76,12.5,750,//images.vivino.com/thumbs/ec2laF6TRIqV2h4BCAiYxg_pl_480x640.png,France
+666,Magaña,2013,1239296,Dignus Navarra 2013,3.6,206,12.5,750,//images.vivino.com/thumbs/Rd8XKbmjR26Khmx_DVCExw_pl_480x640.png,Espagne
+667,Château Thieuley,2018,80155,Bordeaux (Merlot - Cabernet Sauvignon) 2018,3.8,242,12.5,750,//images.vivino.com/thumbs/cJHeN0EqT9-IFO1miKB-Vg_pl_480x640.png,France
+668,Château Beauvillage,2017,1214321,Médoc 2017,3.9,115,12.5,750,//images.vivino.com/thumbs/VmIbOh6YQcWXBSDyBTjLKA_pl_480x640.png,France
+669,Luccarelli,2021,1162178,Negroamaro 2021,3.8,28,12.5,750,//images.vivino.com/thumbs/fxyUZt0hTOKdGbHqKnIicA_pl_480x640.png,Italie
+670,Lacerta,2017,5197323,Cameleon Red Blend 2017,3.5,34,12.5,750,//images.vivino.com/labels/coOIRIe5RI2_TF0NW6bCYg.jpg,Roumanie
+671,Castelmaure,2019,1190556,Grande Cuvée Corbières 2019,4.1,53,12.59,750,//images.vivino.com/thumbs/nsHmklUYRXq84L-qxd9eug_pl_480x640.png,France
+672,Domaine Matha - Jean Luc Matha,2016,1507941,Cuvée Laïris 2016,3.5,93,12.6,750,//images.vivino.com/thumbs/nx6oD8BKQQmrpx_edl4GjQ_pl_480x640.png,France
+673,Dauvergne Ranvier,2018,1141950,Côtes-du-Rhône-Villages 2018,3.5,68,12.6,750,//images.vivino.com/thumbs/rjrjqM22RTKYlvfGETASpA_pl_480x640.png,France
+674,Château Chantelys,2015,1841398,Médoc 2015,3.6,82,12.6,750,//images.vivino.com/thumbs/-XrqtoT4QyOIHLkc9u1bAA_pl_480x640.png,France
+675,Damien Coquelet,2018,7775481,Kes Ki Dit Beaujolais 2018,3.8,43,12.6,750,//images.vivino.com/thumbs/xA0gQVGmSr23DvJNg3aJXg_pl_480x640.png,France
+676,Henry Marionnet,2020,1279503,Gamay Touraine 2020,3.6,83,12.6,750,//images.vivino.com/thumbs/9hgytKMnRwekoWJOL4YuLA_pl_480x640.png,France
+677,Domaine Lafage,2020,1283211,Nicolas Vieilles Vignes Grenache Noir 2020,3.8,94,12.6,750,//images.vivino.com/thumbs/UlVIaCtbStG1nP2MJz15xQ_pl_480x640.png,France
+678,Couly-Dutheil,2020,1668287,Les Gravières Chinon 2020,3.6,41,12.65,750,//images.vivino.com/thumbs/ZIb2_AQMTOec35hE8yDbGQ_pl_480x640.png,France
+679,Couly-Dutheil,2019,1668287,Les Gravières Chinon 2019,3.7,65,12.65,750,//images.vivino.com/thumbs/ZIb2_AQMTOec35hE8yDbGQ_pl_480x640.png,France
+680,Aubert et Mathieu,2021,8352457,Hautes Pistes Pinot Noir 2021,4.1,109,12.69,750,//images.vivino.com/thumbs/RVNYVNtLQfSWZNBkWvzO5w_pl_480x640.png,France
+681,Ponte Lungo,2017,6513593,Curioso Grand Edizione 2017,3.9,769,12.7,750,//images.vivino.com/thumbs/ZYitvrESSj-c-rfdH3clqQ_pl_480x640.png,Italie
+682,La Cavale,2019,4143157,Petite Cavale Rouge 2019,3.9,37,12.7,750,//images.vivino.com/thumbs/M3b0m1M1QlaUOzYmwDVMjw_pl_480x640.png,France
+683,Château Venus,2019,1483301,Graves Rouge 2019,4.0,31,12.7,750,//images.vivino.com/thumbs/lnyfM29uQ4W5XMLoE8zwdw_pl_480x640.png,France
+684,Pandolfa,2020,4300902,Federico Sangiovese Superiore 2020,3.6,104,12.7,750,//images.vivino.com/thumbs/915W37J2QZadrd4du1zf2w_pl_480x640.png,Italie
+685,Ramón Bilbao,2018,77021,Crianza Rioja 2018,3.9,8581,12.7,750,//images.vivino.com/thumbs/l13tQoq1S8mFaX0TG49fGA_pl_480x640.png,Espagne
+686,Fabrice Gasnier,2017,1901895,Pierres Chaudes Chinon 2017,3.8,80,12.75,750,//images.vivino.com/thumbs/TvgB4xaYROuriBNpWT_BQw_pl_480x640.png,France
+687,Château Beau Rivage de By,2018,1899878,Médoc 2018,3.7,160,12.75,750,//images.vivino.com/thumbs/QuGwn25cQNC8ZqwJYrXj7g_pl_480x640.png,France
+688,Heartland,2018,1987626,Spice Trader Shiraz - Cabernet Sauvignon 2018,3.7,31,12.75,750,//images.vivino.com/thumbs/Y3jIwzObTuWh9HI1sFzq2w_pl_480x640.png,Australie
+689,Clos des Centenaires,2019,6368965,"Luxe, Calme et Volupté 2019",4.1,34,12.8,750,//images.vivino.com/thumbs/EdDuvjCiRUGeIT-Pvt4uXw_pl_480x640.png,France
+690,Clos Manou,2019,2445123,Petit Manou 2019,4.1,28,12.8,750,//images.vivino.com/thumbs/E1f8FbMUR6uX6LC2SAwSmA_pl_480x640.png,France
+691,Ruffino,2020,2185,Il Leo Chianti Superiore 2020,3.6,113,12.8,750,//images.vivino.com/thumbs/DnDQEGIKT1uWP7W7XVkobQ_pl_480x640.png,Italie
+692,Sérol,2021,4127576,Eclat de Granite Côte Roannaise 2021,3.7,102,12.8,750,//images.vivino.com/thumbs/4Z1NGm3oSXCuJj8X8xZhcA_pl_480x640.png,France
+693,Château Tour Saint Bonnet,2017,1663193,Médoc 2017,3.5,47,12.8,750,//images.vivino.com/thumbs/OMOgmrusSx6XvUnmeUSldw_pl_480x640.png,France
+694,Ermitage du Pic Saint Loup,2018,1176141,Tour de Pierres 2018,3.8,190,12.8,750,//images.vivino.com/thumbs/6wDKgz1WTgC6FU_K1SBPsw_pl_480x640.png,France
+695,Château Juvenal,2020,1281683,Les Ribes du Vallat Rouge 2020,3.9,81,12.8,750,//images.vivino.com/thumbs/cbBz_pz-T_eI9dqfbGYIRQ_pl_480x640.png,France
+696,Famille Laplace,2017,1108070,Odé d'Aydie Madiran 2017,3.8,119,12.8,750,//images.vivino.com/thumbs/c_UD6_jCQm2rDs_zkSvh1w_pl_480x640.png,France
+697,Domaine du Clos des Fées,2021,6625,Les Sorcières Côtes du Roussillon Rouge 2021,3.9,213,12.8,750,//images.vivino.com/thumbs/ETX0gR84S2WqaAmV8hijUA_pl_480x640.png,France
+698,Château l'Eperon,2018,6137268,L'Éclat du Château l'Eperon Bordeaux 2018,4.2,44,12.8,750,//images.vivino.com/thumbs/xj_nvM9kQDSUAx4ZOJ5Pew_pl_480x640.png,France
+699,Domaine de Rabusas,2019,1260066,Côtes-du-Rhône-Villages 'Laudun' 2019,3.7,43,12.8,750,//images.vivino.com/thumbs/HFIKyg5bR6WH03D5IjSDvQ_pl_480x640.png,France
+700,Cantine Pellegrino,2017,6278467,Finimondo! 2017,3.7,356,12.8,750,//images.vivino.com/thumbs/3CDbo5kwSb2ghvpjukBG-A_pl_480x640.png,Italie
+701,Thunevin,2014,1805540,Domaine Virginie Thunevin Bordeaux Rouge 2014,3.6,178,12.9,750,//images.vivino.com/thumbs/hVoVhgphT-6JiMDc5I_GoA_pl_480x640.png,France
+702,La Monardiere,2020,2733850,Les Calades Vacqueyras 2020,4.0,25,12.9,750,//images.vivino.com/thumbs/Xv_a70KtQtusGTG7uj02mA_pl_480x640.png,France
+703,Masseria La Volpe,2020,3390935,1 Uno Primitivo di Manduria 2020,4.1,720,12.9,750,//images.vivino.com/thumbs/ygTg4K4vR5GYCjWTFocWng_pl_480x640.png,Italie
+704,Alain Jaume,2017,1691170,Lirac Roquedon 2017,3.7,37,12.9,750,//images.vivino.com/thumbs/DB8o1XhzQLip49xubiJiDA_pl_480x640.png,France
+705,Lionel Osmin & Cie,2017,4233167,Abouriou 2017,3.7,34,12.9,750,//images.vivino.com/thumbs/vR9-epEuTZ671roDpLDnFw_pl_480x640.png,France
+706,Château Haut Piquat,2018,98621,Lussac-Saint-Émilion 2018,3.6,34,12.9,750,//images.vivino.com/thumbs/ghi8I8qYRPuRTEHrt5GiIw_pl_480x640.png,France
+707,David Reynaud,2019,1769150,Les Monestiers Syrah Collines Rhodaniennes 2019,3.5,41,12.9,750,//images.vivino.com/thumbs/JUXFmK3tTKCS6DL4EX-YVw_pl_480x640.png,France
+708,Château de Malleret,2019,1307412,Le Baron de Malleret Haut-Médoc 2019,4.1,87,12.9,750,//images.vivino.com/thumbs/1Z2ZEYzdRXuZSoiQRmPzcA_pl_480x640.png,France
+709,Château Compassant,2015,1270986,Bordeaux 2015,3.9,44,12.9,750,//images.vivino.com/thumbs/O-WTLKj_TD2EMArPnCDhdw_pl_480x640.png,France
+710,Château Roudier,2019,1594442,Montagne-Saint-Émilion 2019,3.7,243,12.9,750,//images.vivino.com/thumbs/a5ZzNwQmQI6SvIj3q5C_-g_pl_480x640.png,France
+711,Trivento,2019,1135980,Reserve Malbec 2019,3.7,17207,12.9,750,//images.vivino.com/thumbs/diN0gK6qSpKsgbMApBbxNw_pl_480x640.png,Argentine
+712,Domaine Les Grandes Vignes - Vaillant,2020,1975136,Groslot Rouge 2020,3.7,106,12.9,750,//images.vivino.com/thumbs/zE8jpoJiQruOlRrHoUr3gQ_pl_480x640.png,France
+713,Grosbois,2020,1300916,La Cuisine de ma Mère Chinon 2020,3.7,1613,12.9,750,//images.vivino.com/thumbs/mvRJRdnQRwyc-ABSDhPOVQ_pl_480x640.png,France
+714,Château d'Issan,2018,1168762,Moulin d'Issan Bordeaux Supérieur 2018,3.8,252,12.9,750,//images.vivino.com/thumbs/LDOOyjYSTR27hhq8BflFEg_pl_480x640.png,France
+715,Château de Villeneuve,2020,2640168,Saumur Champigny 2020,3.8,115,12.9,750,//images.vivino.com/thumbs/3kp8uYr2RI2f3YRlfQ71HQ_pl_480x640.png,France
+716,Château Puygueraud,2012,82472,Francs - Côtes de Bordeaux 2012,3.5,348,12.9,750,//images.vivino.com/thumbs/oBHrFgxgR62IbjzhU3jjcw_pl_480x640.png,France
+717,Domaine d'Aupilhac,2020,90527,Lou Maset 2020,4.0,145,12.9,750,//images.vivino.com/thumbs/rmBWvOqfTXKGjFuPpJOeeg_pl_480x640.png,France
+718,Alain Jaume,2017,88382,Rasteau Les Valats 2017,3.8,31,12.9,750,//images.vivino.com/thumbs/tTeoDkOwTCKsU8pHV06w8A_pl_480x640.png,France
+719,Maxime-François Laurent,2021,1219690,Il Fait Soif Rouge 2021,3.9,59,12.9,750,//images.vivino.com/thumbs/uru1X5gzQzCAFMSbVWjX0w_pl_480x640.png,France
+720,Château de Villeneuve,2019,2640168,Saumur Champigny 2019,3.7,226,12.9,750,//images.vivino.com/thumbs/3kp8uYr2RI2f3YRlfQ71HQ_pl_480x640.png,France
+721,La Grande Sieste,2020,4771592,Rouge de Rêve 2020,4.0,28,12.9,750,//images.vivino.com/thumbs/6nHFMKmGQE25D64jqUqiMA_pl_480x640.png,France
+722,Berger Rive,2020,1317149,Bourgogne Hautes-Côtes de Beaune Rouge 2020,3.7,34,12.9,750,//images.vivino.com/thumbs/6tANUpalTLuouJFEuAQGKQ_pl_480x640.png,France
+723,Domaine de Dernacueillette,2018,4402023,Le Petit Derna 2018,3.9,73,12.9,750,//images.vivino.com/thumbs/9SL8_DKfSJmVQJANsfQqXA_pl_480x640.png,France
+724,Clos de l'Amandaie,2018,2187477,Grés de Montpellier 2018,3.7,47,12.9,750,//images.vivino.com/thumbs/YI55LGL1RweHrRMwnt1lpQ_pl_480x640.png,France
+725,Michel & Stéphane Ogier,2021,1198800,Le Temps est Venu 2021,4.0,93,12.9,750,//images.vivino.com/thumbs/axC80IZbRMC0nQaaeN7BNQ_pl_480x640.png,France
+726,Domaine La Blaque,2020,1177358,Pierrevert 2020,4.2,121,12.9,750,//images.vivino.com/thumbs/9EgNMzCBQIuEkMb8cglAZQ_pl_480x640.png,France
+727,Domaine Oratoire Saint Martin,2020,2707640,Les P'tits Gars Côtes du Rhône 2020,3.9,40,12.9,750,//images.vivino.com/thumbs/uC3b9RZbSbaJTcn9OdFRmQ_pl_480x640.png,France
+728,Domaine de Fenouillet,2018,1152191,Combe Rouge Faugères 2018,3.8,34,12.9,750,//images.vivino.com/thumbs/AuZ7bge_T2KFTRJJ2nYoJA_pl_480x640.png,France
+729,Domaine d'Argenson,2018,6476721,Les Pierreux Brouilly 2018,4.1,38,12.9,750,//images.vivino.com/thumbs/uYkOYmOpQAu_1RX6O6i-iQ_pl_480x640.png,France
+730,Domaine Duseigneur,2019,1215196,Odyssée 2019,3.8,53,12.9,750,//images.vivino.com/thumbs/XKMjD5YkRWO85YDyKp2-mA_pl_480x640.png,France
+731,Lambrusques,2020,1261443,Pic Saint Loup Rouge 2020,3.8,92,12.9,750,//images.vivino.com/labels/02a1kdfs3kh3c.jpg,France
+732,Salcheto,2017,6803697,Chianti Biskero 2017,3.8,511,12.9,750,//images.vivino.com/thumbs/2MdsFVX6TE6FuShnksymdw_pl_480x640.png,Italie
+733,Château Farguet,2019,1847597,Montagne-Saint-Émilion 2019,4.2,51,12.95,750,//images.vivino.com/thumbs/ue8_pg4LRDObZHKQZSga3Q_pl_480x640.png,France
+734,Domaine Gaget,2019,1837878,Morgon 'Côte du Py' 2019,4.1,43,12.95,750,//images.vivino.com/thumbs/vXixwiRRTG6yc6uHTN6l9g_pl_480x640.png,France
+735,Château Tour du Moulin,2018,1175881,Les Terres Rouges Fronsac 2018,4.1,150,12.95,750,//images.vivino.com/thumbs/45Z1-Z1HQSG8OsDF8Ffc8w_pl_480x640.png,France
+736,Firriato,2017,82716,Chiaramonte Nero d'Avola 2017,3.8,915,12.95,750,//images.vivino.com/thumbs/u_q2PaoyR7yJ-1wqTOlLOQ_pl_480x640.png,Italie
+737,Domaine Le Clos du Serres,2019,6696941,Sainte-Pauline Terrasses du Larzac 2019,3.9,25,12.95,750,//images.vivino.com/labels/1fKmfk-_TSqyWaEgDC6wfg.jpg,France
+738,Domaine de Courbissac,2017,3816709,Les Traverses Minervois 2017,3.8,208,12.95,750,//images.vivino.com/thumbs/8r3lIEXwShKH8j03tzmB8Q_pl_480x640.png,France
+739,Altos Ibéricos,2017,1759011,Crianza 2017,3.9,4364,12.95,750,//images.vivino.com/thumbs/dEnKZT-CRYGCwlyCo_Awfw_pl_480x640.png,Espagne
+740,Crociani,2020,1170776,Rosso di Montepulciano 2020,3.9,33,12.95,750,//images.vivino.com/thumbs/sVOxyfdCT2-X8N-0n99SzA_pl_480x640.png,Italie
+741,Dos Lusíadas,2018,7175987,Eleivera Tinto 2018,3.9,29,12.95,750,//images.vivino.com/thumbs/U7tA7WFAR7-qJIuI88gXaA_pl_480x640.png,Portugal
+742,Domaine des Roches Neuves,2020,4095366,Les Roches Saumur-Champigny 2020,4.1,88,12.95,750,//images.vivino.com/thumbs/tKnLLSCSTOygno4cGWV9Ug_pl_480x640.png,France
+743,Domaine Fond Croze,2019,1160444,Cuvée Shyrus Côtes du Rhône Villages 2019,3.9,71,12.95,750,//images.vivino.com/thumbs/uY0X6VdwQVeiAIUE1blQ7A_pl_480x640.png,France
+744,Castorani,2017,1472495,Cadetto Montepulciano d'Abruzzo 2017,3.9,557,12.95,750,//images.vivino.com/thumbs/vTY2f6XNSi6SQ10uC8ofFw_pl_480x640.png,Italie
+745,Ramón Bilbao,2015,77022,Rioja Reserva (Tempranillo) 2015,4.1,6509,12.95,750,//images.vivino.com/thumbs/snGInqLXST-GoM8xgygZzQ_pl_480x640.png,Espagne
+746,Massimo Firelli,2017,9885987,Cirò Prestige Classico Superiore Riserva 2017,4.1,161,12.95,750,//images.vivino.com/thumbs/-5GQ_o6zTt673ZaW3K5sVA_pl_480x640.png,Italie
+747,Heartland,2019,2046,Shiraz 2019,3.8,82,12.95,750,//images.vivino.com/thumbs/AwsB3pIgTo2v6AmNruEDaQ_pl_480x640.png,Australie
+748,Château Beauvillage,2018,1214321,Médoc 2018,4.0,313,12.95,750,//images.vivino.com/thumbs/VmIbOh6YQcWXBSDyBTjLKA_pl_480x640.png,France
+749,Duca di Saragnano,2018,4380150,Toscana Rosso 2018,3.5,43,12.99,750,//images.vivino.com/thumbs/-umFkJ2VSe2ivhuJmO2Bsg_pl_480x640.png,Italie
+750,La Grande Sieste,2019,4771592,Rouge de Rêve 2019,3.9,91,13.0,750,//images.vivino.com/thumbs/6nHFMKmGQE25D64jqUqiMA_pl_480x640.png,France
+751,Di Majo Norante,2007,1142199,Contado Aglianico Riserva 2007,3.5,208,13.0,750,//images.vivino.com/thumbs/nw1m9HVoSI21QzVEdTQ_FA_pl_480x640.png,Italie
+752,Gérard Bertrand,2019,3537572,Chateau de la Grange Fitou 2019,3.9,48,13.0,750,//images.vivino.com/labels/Uca_I-cORUK2y22hAxigCA.jpg,France
+753,Château Lacour Jacquet,2015,2007427,Haut-Médoc 2015,3.5,253,13.0,750,//images.vivino.com/thumbs/jct77CgdQV62_SSIYccWPQ_pl_480x640.png,France
+754,Domaine Saint Alimant,2019,2214661,Rasteau 2019,3.6,38,13.0,750,//images.vivino.com/thumbs/QEIAdYXmSqmC07-r6IS93g_pl_480x640.png,France
+755,Domaine Ruffinatto,2020,1199874,Les Ménines Luberon Rouge 2020,3.8,38,13.0,750,//images.vivino.com/thumbs/wVknB9qFSzehJaZ6oxJRFw_pl_480x640.png,France
+756,Mas del Périé - Fabien Jouves,2020,1574512,Tu Vin Plus aux Soirées 2020,3.7,183,13.0,750,//images.vivino.com/thumbs/r4z-3NS2SMaPF7UQ819-FQ_pl_480x640.png,France
+757,Château Troupian,2019,1169749,Haut-Médoc 2019,3.9,77,13.0,750,//images.vivino.com/thumbs/gO85WR4PQLWMg1a3t6Z3jg_pl_480x640.png,France
+758,Domaine Tournon,2018,1463289,Mathilda Shiraz 2018,4.1,193,13.0,750,//images.vivino.com/thumbs/Ie0tHucmS_-NhNBf0ba3Lw_pl_480x640.png,Australie
+759,Château d'Etroyes,2017,2006687,La Chatalienne Rully Rouge 2017,3.8,46,13.0,375,//images.vivino.com/labels/flrQVST2SBes4u5sEv6JTA.jpg,France
+760,Château Siaurac,2018,1378627,Plaisir de Siaurac Lalande-de-Pomerol 2018,3.7,356,13.0,750,//images.vivino.com/thumbs/7fljUmfOSNa61cy26HJaiQ_pl_480x640.png,France
+761,Domaine de Briante,2014,5370068,Côte de Brouilly 2014,3.6,26,13.0,750,//images.vivino.com/thumbs/cD7-vzQlR8WGfxR_3oLnyw_pl_480x640.png,France
+762,Domaine Benjamin Taillandier,2020,1477999,Viti Vini Bibi Minervois 2020,3.7,34,13.0,750,//images.vivino.com/thumbs/GucxBjnTT6-E8kwJMQodAw_pl_480x640.png,France
+763,Château du Moulin Rouge,2017,1574591,Haut-Médoc 2017,3.8,142,13.0,750,//images.vivino.com/thumbs/cFGXxfAgRVO0QtYCGqWh3A_pl_480x640.png,France
+764,Clos du Roy,2012,1434498,Fronsac 2012,3.9,58,13.0,750,//images.vivino.com/thumbs/RhCpJ2UqSRKZ22VyqvKxFQ_pl_480x640.png,France
+765,Clos de Bouard,2019,5408054,Dame de Boüard Montagne Saint-Émilion 2019,3.6,80,13.0,750,//images.vivino.com/thumbs/MiXudl5WSfKplqu_AAc-iw_pl_480x640.png,France
+766,Domaine de Lathevalle,2018,6697483,Morgon 'Les Charmes' 2018,4.1,118,13.0,750,//images.vivino.com/thumbs/kDqTJkSbTRO_p26tjAJ3bQ_pl_480x640.png,France
+767,La Monardiere,2018,2733850,Les Calades Vacqueyras 2018,3.8,38,13.0,750,//images.vivino.com/thumbs/Xv_a70KtQtusGTG7uj02mA_pl_480x640.png,France
+768,Clos Maïa,2019,2565839,Le Petit 2019,3.4,69,13.0,750,//images.vivino.com/thumbs/Ra_YzsJfTRq3m6lky7f6TA_pl_480x640.png,France
+769,Château Fourcas Dupré,2013,779338,Listrac-Médoc 2013,3.5,165,13.0,750,//images.vivino.com/thumbs/r12t8Xi9QkuHG9Fd_G9czQ_pl_480x640.png,France
+770,Château Troupian,2016,1169749,Haut-Médoc 2016,4.0,990,13.0,750,//images.vivino.com/thumbs/gO85WR4PQLWMg1a3t6Z3jg_pl_480x640.png,France
+771,Château Puygueraud,2014,82472,Francs - Côtes de Bordeaux 2014,3.5,562,13.0,750,//images.vivino.com/thumbs/oBHrFgxgR62IbjzhU3jjcw_pl_480x640.png,France
+772,Château d'Issan,2019,1168762,Moulin d'Issan Bordeaux Supérieur 2019,3.7,63,13.0,750,//images.vivino.com/thumbs/LDOOyjYSTR27hhq8BflFEg_pl_480x640.png,France
+773,Famille Perrin,2018,1220175,L'Andeol Rasteau 2018,3.9,235,13.0,750,//images.vivino.com/thumbs/eHzxSdrtSVKG8tg2Cp8IDw_pl_480x640.png,France
+774,Liliac,2016,3850045,Red Cuvée 2016,4.0,60,13.0,750,//images.vivino.com/thumbs/WfqQvTyTTOqjJIFM_z73wg_pl_480x640.png,Roumanie
+775,Domaine de la Villaudière,2018,2359621,Sancerre Rouge 2018,3.8,343,13.1,750,//images.vivino.com/thumbs/ZK07lE_BSei28rju2JuQUA_pl_480x640.png,France
+776,Domaine Pique-Basse,2013,1420832,L'As du Pique Côtes-du-Rhône-Villages 'Roaix' Rouge 2013,3.6,66,13.1,750,//images.vivino.com/thumbs/sKq-3UEVSPadZEaHkanNHA_pl_480x640.png,France
+777,Baron Philippe de Rothschild,2018,1129530,Mapu Reserva Cabernet Sauvignon 2018,3.2,300,13.1,750,//images.vivino.com/thumbs/mETJBlhhRqmBszMjTVu2ng_pl_480x640.png,Chili
+778,Domaine Magellan,2017,1693580,Pézenas 2017,4.1,44,13.166666666666666,750,//images.vivino.com/thumbs/2SaXiv5rTNm76qxH_BSTDw_pl_480x640.png,France
+779,Mas Janeil,2008,13649,Côtes du Roussillon Villages Rouge 2008,3.8,124,13.2,750,//images.vivino.com/thumbs/OK8YjYLFR1WwPp2lhGBFwA_pl_480x640.png,France
+780,Château Les Croisille,2020,3831252,Silice Malbec Cahors 2020,4.0,76,13.2,750,//images.vivino.com/thumbs/0b69dit8SJ2LxcqY4Trnew_pl_480x640.png,France
+781,Domaine des Pothiers,2013,1432755,No.6 2013,3.6,79,13.2,750,//images.vivino.com/thumbs/lxpUbVX3S8ekgEMTYVKsiA_pl_480x640.png,France
+782,Domaine l'Ancienne Cure,2016,2951926,L'Abbaye Bergerac Rouge 2016,3.6,47,13.2,750,//images.vivino.com/thumbs/fDIEzREHSi-fon5IBZEOag_pl_480x640.png,France
+783,Merayo,2016,1597054,Las Tres Filas Mencia Bierzo 2016,3.6,468,13.2,750,//images.vivino.com/thumbs/4BR1m6yGREKYJ8tiBDLTpQ_pl_480x640.png,Espagne
+784,Quinta da Romaneira,2019,5027756,R de Romaneira 2019,3.7,324,13.2,750,//images.vivino.com/thumbs/xL0ez1-TQh2Wlzn47vPTEw_pl_480x640.png,Portugal
+785,Domaine Rouge Garance,2020,50144,Feuille de Garance Côtes du Rhône 2020,3.7,29,13.2,750,//images.vivino.com/thumbs/dWKpsSOzQv22NFcpBENR9Q_pl_480x640.png,France
+786,Domaine Richaud,2020,1189009,Terres de Galets Côtes du Rhône 2020,3.9,106,13.2,750,//images.vivino.com/thumbs/1dCiTcjUReG5bDWmaE5abQ_pl_480x640.png,France
+787,Château de Lacarelle,2018,1130338,Beaujolais-Villages Rouge 2018,3.7,34,13.25,750,//images.vivino.com/thumbs/ABEbWpLkT8Wgfhn8VecRQg_pl_480x640.png,France
+788,Domaine du Salvard,2021,1788781,Cheverny Rouge 2021,4.0,56,13.25,750,//images.vivino.com/thumbs/Lc8hMwCSRsGXJ8RxaJ8RlQ_pl_480x640.png,France
+789,Château de Lacarelle,2014,1130338,Beaujolais-Villages Rouge 2014,3.3,111,13.25,750,//images.vivino.com/thumbs/ABEbWpLkT8Wgfhn8VecRQg_pl_480x640.png,France
+790,Château de la Croix,2016,1725768,Médoc 2016,3.9,42,13.29,750,//images.vivino.com/thumbs/stI87APcQpKqz1_quvG07g_pl_480x640.png,France
+791,Le Roc,2018,1238057,Don Quichotte Fronton 2018,3.7,83,13.3,750,//images.vivino.com/thumbs/rxg5d8eeSFugZg3uqxcnZQ_pl_480x640.png,France
+792,Château Puech-Haut,2018,7371306,Argali Rouge 2018,3.9,219,13.3,750,//images.vivino.com/thumbs/XjgGj-WKSvKnTekXAKoAWg_pl_480x640.png,France
+793,Thomas Barton,2017,1163756,Réserve Médoc 2017,3.6,69,13.3,750,//images.vivino.com/thumbs/eVNaiO4VTNSyO9f6qTz4xQ_pl_480x640.png,France
+794,Château du Petit Thouars,2017,6713174,L'Epée Chinon 2017,3.8,70,13.3,750,//images.vivino.com/thumbs/RmzTM5HeTH6vySoghjVfCQ_pl_480x640.png,France
+795,Domaine les Eschaffins,2016,2440710,Cairanne 2016,3.5,46,13.3,750,//images.vivino.com/thumbs/gvyiCScuQRSxCmNaL5WeGA_pl_480x640.png,France
+796,Château Terre Forte,2012,4904424,Origine 2012,3.7,86,13.3,750,//images.vivino.com/thumbs/Z3ux0jWhQHSi_zLBR89h9g_pl_480x640.png,France
+797,Château du Petit Thouars,2018,6713174,L'Epée Chinon 2018,3.6,42,13.3,750,//images.vivino.com/thumbs/RmzTM5HeTH6vySoghjVfCQ_pl_480x640.png,France
+798,Château La Voulte Gasparets,2020,779158,Cuvée Reservee Corbières 2020,3.9,73,13.35,750,//images.vivino.com/thumbs/ztHBZ95NTNeYjY1tyUT-pQ_pl_480x640.png,France
+799,Château Puech-Haut,2020,7371306,Argali Rouge 2020,3.9,33,13.4,750,//images.vivino.com/thumbs/XjgGj-WKSvKnTekXAKoAWg_pl_480x640.png,France
+800,Château Lestage,2011,1166367,Listrac-Médoc 2011,3.5,382,13.4,750,//images.vivino.com/thumbs/ZtFXJAgDRI-fnbeqTSevDw_pl_480x640.png,France
+801,a6mani,2020,3194075,Lifili Primitivo Salento 2020,3.7,129,13.4,750,//images.vivino.com/thumbs/A-rtTJdbRAOTBs3HHKBMOg_pl_480x640.png,Italie
+802,Château du Moulin Noir,2011,1486359,Montagne-Saint-Émilion 2011,4.1,228,13.45,750,//images.vivino.com/thumbs/86h2PV_bTXydf70DYEECcw_pl_480x640.png,France
+803,Domaine des Homs,2018,1261293,Paul 2018,4.1,48,13.5,750,//images.vivino.com/thumbs/3QmLV6bWRFy4JbVKrpHbuw_pl_480x640.png,France
+804,Chakana,2018,7268272,Sobrenatural Bonarda 2018,2.9,179,13.5,750,//images.vivino.com/thumbs/r6M3YMJ9Tg-jqP-KyqpTvQ_pl_480x640.png,Argentine
+805,Fertuna,2016,2252067,Pactio Toscana Rosso 2016,3.7,316,13.5,750,//images.vivino.com/thumbs/wz6-GAiBRaWhvpPdaIj6JA_pl_480x640.png,Italie
+806,Domaine Pierre Cros,2019,6669154,Les Rocs 2019,4.0,36,13.5,750,//images.vivino.com/thumbs/BHncxpcuSY6LLZAFSoc8uA_pl_480x640.png,France
+807,Gayda,2021,2503569,Figure Libre Freestyle Rouge 2021,3.9,28,13.5,750,//images.vivino.com/thumbs/RoV90s5vREqsqnEgkgCNCA_pl_480x640.png,France
+808,Dominique Piron,2020,1657322,Chiroubles 2020,3.8,60,13.5,750,//images.vivino.com/thumbs/M9ScdNK8TUaDMHnmIszREg_pl_480x640.png,France
+809,Roucas Toumba,2019,1199527,Les Grands Chemins 2019,3.6,28,13.5,750,//images.vivino.com/thumbs/9wI3gkqKSFelV9dlCM0nUw_pl_480x640.png,France
+810,Mas del Périé - Fabien Jouves,2020,1241164,You Fuck My Wine 2020,3.6,244,13.5,750,//images.vivino.com/thumbs/If1r5BnGTzOkQEoJH9oV8w_pl_480x640.png,France
+811,Château Fourcas Dupré,2012,779338,Listrac-Médoc 2012,3.7,385,13.5,750,//images.vivino.com/thumbs/r12t8Xi9QkuHG9Fd_G9czQ_pl_480x640.png,France
+812,Rivera,2015,91684,Cappellaccio Aglianico Riserva Castel del Monte 2015,3.7,65,13.5,750,//images.vivino.com/thumbs/SlOpEOS2TZaRtzmRmwefJg_pl_480x640.png,Italie
+813,Château Sénéjac,2013,80464,Haut-Médoc 2013,3.5,505,13.5,750,//images.vivino.com/thumbs/MNFjKAD9SLW05OhxzPy1Ag_pl_480x640.png,France
+814,Château Vignelaure,2019,99173,La Source Vignelaure Red 2019,4.0,30,13.5,750,//images.vivino.com/thumbs/DyUoPqkSTW-TlCx81Geifw_pl_480x640.png,France
+815,Domaine Julien de l’Embisque,2017,7154737,Suze la Rousse Côtes du Rhône Village 2017,3.8,31,13.5,750,//images.vivino.com/thumbs/fi1jorl_QNGvXreD2kcHCA_pl_480x640.png,France
+816,Abbotts & Delaunay,2020,9401984,Métayage Pinot Noir 2020,3.6,106,13.5,750,//images.vivino.com/thumbs/uRJ5lMdER3azw4uN2Fgf8g_pl_480x640.png,France
+817,Séptima,2021,80080,Malbec 2021,3.6,56,13.5,750,//images.vivino.com/thumbs/-sPQgu3FSUSwJiUNXFv88w_pl_480x640.png,Argentine
+818,Nuiton-Beaunoy,2019,1195130,Les Dames Huguettes Bourgogne Hautes-Côtes de Nuits 2019,3.7,47,13.5,750,//images.vivino.com/thumbs/9PN3faB1TqKePhd4aX4oBQ_pl_480x640.png,France
+819,Château Juvenal,2019,1281683,Les Ribes du Vallat Rouge 2019,3.7,75,13.5,750,//images.vivino.com/thumbs/cbBz_pz-T_eI9dqfbGYIRQ_pl_480x640.png,France
+820,Château Grenet,2018,1376334,Bordeaux 2018,3.6,37,13.5,750,//images.vivino.com/thumbs/qWTTAlfoSTe-Z3eauNi2Sw_pl_480x640.png,France
+821,Ermitage du Pic Saint Loup,2020,1176141,Tour de Pierres 2020,3.7,198,13.5,750,//images.vivino.com/thumbs/6wDKgz1WTgC6FU_K1SBPsw_pl_480x640.png,France
+822,Domaine de la Bégude,2020,6641671,Cadet de la Bégude Rouge 2020,3.7,76,13.5,750,//images.vivino.com/thumbs/_WWeGf_YS2206BTM8ZtEng_pl_480x640.png,France
+823,Vignobles J. Dupuy,2008,1227641,Chateau Labadie Côtes de Bourg 2008,3.5,49,13.5,750,//images.vivino.com/thumbs/APm3a11sSvmqSx7KJvHy8Q_pl_480x640.png,France
+824,Domaine Les Ondines,2018,1179035,Vacqueyras Rouge 2018,3.8,116,13.5,750,//images.vivino.com/thumbs/hvCAVvzCRpWjq1AOE2gMdQ_pl_480x640.png,France
+825,Château Brulesecaille,2014,1218760,Côtes de Bourg 2014,3.8,78,13.5,750,//images.vivino.com/thumbs/P5bLlZdfRFu9Gt7cs7eWrQ_pl_480x640.png,France
+826,Château Lesparre,2015,1164826,Graves de Vayres Rouge 2015,3.9,501,13.5,750,//images.vivino.com/thumbs/bTzyAHu4SkicStNEZBYzGw_pl_480x640.png,France
+827,Sainte Croix,2018,1521996,Le Fournas 2018,3.9,58,13.5,750,//images.vivino.com/thumbs/3nm4FfELTJORvaq67zJdDg_pl_480x640.png,France
+828,Domaine Niero,2019,5178211,Les Agathes Syrah 2019,3.8,31,13.5,750,//images.vivino.com/thumbs/HMvGgGMWQxqWCPNh98DI3w_pl_480x640.png,France
+829,Pierre Usseglio,2021,7169579,L'Unique 2021,3.8,25,13.5,750,//images.vivino.com/thumbs/rECx2E54St2vIbnMkG2E-g_pl_480x640.png,France
+830,Domaine de la Garde,2015,1199992,Tradition Coteaux du Quercy 2015,3.9,32,13.5,750,//images.vivino.com/thumbs/-Lk6qB-_QX2U1b_JiOlKkA_pl_480x640.png,France
+831,Cantele,2017,21937,Riserva Salice Salentino 2017,3.9,340,13.5,750,//images.vivino.com/thumbs/dKp-YDKkSTm1UaW5F7p2fw_pl_480x640.png,Italie
+832,Domaine de Courteillac,2016,1166217,Merlot - Cabernet 2016,3.7,353,13.5,750,//images.vivino.com/thumbs/ywBFImzMSMeNmLWoiMplJA_pl_480x640.png,France
+833,Château Fourcas Dupré,2011,779338,Listrac-Médoc 2011,3.7,659,13.5,750,//images.vivino.com/thumbs/r12t8Xi9QkuHG9Fd_G9czQ_pl_480x640.png,France
+834,Château du Moulin Rouge,2018,1574591,Haut-Médoc 2018,3.9,49,13.5,750,//images.vivino.com/thumbs/cFGXxfAgRVO0QtYCGqWh3A_pl_480x640.png,France
+835,San Marzano,2020,11888,Sud Primitivo di Manduria 2020,4.1,167,13.5,750,//images.vivino.com/thumbs/9jKGUu1nSLWI_NO25IoGwQ_pl_480x640.png,Italie
+836,Domaine Arnaud Lambert,2020,6317988,Clos Mazurique Saumur 2020,3.8,247,13.6,750,//images.vivino.com/thumbs/J40zkeyJRXGkTV68gRG6Fg_pl_480x640.png,France
+837,Château de Raousset,2018,1166777,Grille-Midi Fleurie 2018,3.9,56,13.6,750,//images.vivino.com/thumbs/9qnKdwvNSuGdpDY0xUaaOw_pl_480x640.png,France
+838,The Cloud Factory,2019,4895382,Pinot Noir 2019,3.4,44,13.61,750,//images.vivino.com/thumbs/l3Y7jvxRSrSrYZqzrsE0Fg_pl_480x640.png,New Zealand
+839,Domaine du Bel Air,2021,1217600,Jour de Soif 2021,3.8,36,13.7,750,//images.vivino.com/thumbs/wd4kh99OT8qoQBcG9mIHfQ_pl_480x640.png,France
+840,Domaine la Realtiere,2020,1958943,Cul-Sec 2020,3.4,30,13.7,750,//images.vivino.com/thumbs/SpJkIc-QT_KmJ2gUuAx-2A_pl_480x640.png,France
+841,Château la Verrerie,2013,5081061,Rouge 2013,3.8,168,13.75,750,//images.vivino.com/thumbs/0dNqrwlfT8GEssivge0MOg_pl_480x640.png,France
+842,Château Haut Piquat,2010,98621,Lussac-Saint-Émilion 2010,3.7,424,13.75,750,//images.vivino.com/thumbs/ghi8I8qYRPuRTEHrt5GiIw_pl_480x640.png,France
+843,Le Plateau des Chênes,2016,1204576,Lirac 2016,3.9,378,13.8,750,//images.vivino.com/thumbs/IMAd7kmGRQW4FjNeSyQIcg_pl_480x640.png,France
+844,Valdivieso,2018,17363,Merlot 2018,3.2,467,13.8,750,//images.vivino.com/thumbs/xcI7GitLTe-bD77cgPEjjQ_pl_480x640.png,Chili
+845,Bodegas Cosme Palacio,2007,2328702,Glorioso Rioja Reserva 2007,3.7,181,13.8,750,//images.vivino.com/thumbs/tUoaY8zkQBqjoRPxRktQEA_pl_480x640.png,Espagne
+846,Familia Torres,2005,2652,Nerola Monastrell - Syrah 2005,3.7,49,13.8,750,//images.vivino.com/thumbs/NSaBHOBvTLSMH3rrlaTVfg_pl_480x640.png,Espagne
+847,Château de Camensac,2012,2929931,La Closerie de Camensac Haut-Médoc 2012,3.6,234,13.8,750,//images.vivino.com/thumbs/ABnEsJiCR5OlYt8fyfwCCw_pl_480x640.png,France
+848,Château Mercier,2015,1492600,Cuvée Prestige Côtes de Bourg 2015,3.8,85,13.8,750,//images.vivino.com/thumbs/1Nm7yvgOSXiQCv3Dkmf1lg_pl_480x640.png,France
+849,Plaimont,2017,1460958,Monastère de Saint-Mont Rouge 2017,3.9,141,13.8,750,//images.vivino.com/thumbs/kFK7mQNaQWy20n4WN0coiw_pl_480x640.png,France
+850,Lucien Lardy,2019,1452432,Les Thorins Moulin-a-Vent 2019,4.0,113,13.8,750,//images.vivino.com/labels/1t9-aBpMQ9i9qwV8WrwhdA.jpg,France
+851,Château du Champ des Treilles,2016,1248274,Le Petit Champ Bordeaux 2016,3.6,160,13.8,750,//images.vivino.com/thumbs/ec2laF6TRIqV2h4BCAiYxg_pl_480x640.png,France
+852,Lucien Lardy,2019,3215086,Fleurie 'Les Roches' 2019,3.7,47,13.8,750,//images.vivino.com/thumbs/88HrG-kpR--RAbRA4E7h3A_pl_480x640.png,France
+853,Clos Siguier,2018,1222796,Cahors 2018,3.7,214,13.8,750,//images.vivino.com/thumbs/rWj7nIbLReqosZZcJj1TDA_pl_480x640.png,France
+854,Alain Jaume,2020,1151894,Domaine Grand Veneur Côtes du Rhône Les Champauvins 2020,4.0,255,13.85,750,//images.vivino.com/thumbs/u2oqF1pfS8mREs1VvfUnEg_pl_480x640.png,France
+855,Les Jamelles,2019,1734237,Sélection Spéciale Cabernet - Merlot 2019,3.9,39,13.85,750,//images.vivino.com/thumbs/wfUvfZyITsO2nyAyHmifXg_pl_480x640.png,France
+856,Château de Saint Cosme,2020,1173569,Côtes du Rhône Les Deux Albion 2020,3.9,94,13.85,750,//images.vivino.com/thumbs/U3kQE4hiTcm9sxISnKspjw_pl_480x640.png,France
+857,Casa Mayor,2020,1811475,Reserva Carmenère 2020,3.8,31,13.9,750,//images.vivino.com/thumbs/xWxjXXTqR1KBwsSFp25sPA_pl_480x640.png,Chili
+858,Celler de Capçanes,2017,5624884,Mas Collet Selecció 2017,3.8,532,13.9,750,//images.vivino.com/thumbs/GA92YSmaRlWl6kajm4nfXg_pl_480x640.png,Espagne
+859,Sainte Marie des Crozes,2019,92349,Cuvée Hector & Juliette Corbières 2019,4.0,27,13.9,750,//images.vivino.com/thumbs/U6iCqYdrTFO19B-8fTZhbA_pl_480x640.png,France
+860,Château de Camensac,2014,2929931,La Closerie de Camensac Haut-Médoc 2014,3.5,217,13.9,750,//images.vivino.com/thumbs/ABnEsJiCR5OlYt8fyfwCCw_pl_480x640.png,France
+861,Château Poujeaux,2013,1368749,La Salle de Château Poujeaux Moulis 2013,3.8,216,13.9,750,//images.vivino.com/thumbs/rmdKVFN-QLeOjnynPKVPpw_pl_480x640.png,France
+862,Altos Las Hormigas,2019,1157077,Malbec (Clásico) 2019,3.6,1111,13.9,750,//images.vivino.com/thumbs/e2nz5eJpTfuZ98kkLvKTlg_pl_480x640.png,Argentine
+863,Domaine du Carrelet,2018,7705006,Bordeaux Rouge 2018,4.1,108,13.9,750,//images.vivino.com/thumbs/zr761kBsSuG57xEXRQSZvQ_pl_480x640.png,France
+864,Château de Beaupré,2019,1153710,Coteaux d'Aix En Provence Rouge 2019,4.0,148,13.9,750,//images.vivino.com/thumbs/dyz6E0acQ22oV_WiQ2_e0A_pl_480x640.png,France
+865,Château d'Etroyes,2020,2698945,Bourgogne Pinot Noir 2020,4.1,43,13.9,750,//images.vivino.com/thumbs/Vhi7tl46TMys8pq7Z5o9jg_pl_480x640.png,France
+866,Château de Reignac,2018,1184321,Bordeaux Supérieur 2018,3.9,748,13.9,750,//images.vivino.com/thumbs/H29J4wCATTeu4kzEZOjvFw_pl_480x640.png,France
+867,Château Carbonneau,2018,1164274,Sequoia 2018,3.5,65,13.9,750,//images.vivino.com/thumbs/XNeEXTL5R9-VJSlMPJ5sEg_pl_480x640.png,France
+868,Marc Brédif,2019,1105395,Chinon Rouge 2019,3.7,172,13.9,750,//images.vivino.com/thumbs/vOrLyLL1RdOFR8bgUQb2Dw_pl_480x640.png,France
+869,Domaine Pierre Cros,2019,7441916,Le Barthas 2019,3.8,49,13.9,750,//images.vivino.com/thumbs/3M_aXND-TQ-M_2o6DsEWtA_pl_480x640.png,France
+870,Château Julia,2017,1498166,Haut-Médoc 2017,3.7,31,13.9,750,//images.vivino.com/thumbs/kFkC1xFEQxG2Qg1y4KWWxQ_pl_480x640.png,France
+871,Villa Symposia,2018,1231051,l'Equilibre 2018,3.9,39,13.9,750,//images.vivino.com/thumbs/9n2e5HghQdytVfO-lGjSfw_pl_480x640.png,France
+872,Vignoble Réveille,2019,6945159,Tous des Oiseaux 2019,4.0,26,13.9,750,//images.vivino.com/labels/M-NFk5mWQ6i3EvX9dqj1yw.jpg,France
+873,Château les Pins,2016,1127285,Côtes du Roussillon Villages 2016,4.1,154,13.9,750,//images.vivino.com/thumbs/xN-rq4k2Q-S4EMlvrF9G8w_pl_480x640.png,France
+874,Château Mercier,2016,1492600,Cuvée Prestige Côtes de Bourg 2016,4.0,32,13.9,750,//images.vivino.com/thumbs/1Nm7yvgOSXiQCv3Dkmf1lg_pl_480x640.png,France
+875,Santa Cristina,2018,1159129,Le Maestrelle Toscana 2018,3.9,629,13.9,750,//images.vivino.com/thumbs/UWk_s5i6SFOpkwkMwvqO7A_pl_480x640.png,Italie
+876,Château Carbonneau,2019,1164274,Sequoia 2019,3.8,42,13.9,750,//images.vivino.com/thumbs/XNeEXTL5R9-VJSlMPJ5sEg_pl_480x640.png,France
+877,Fontbonau,2015,4993519,Les Chaux de Fontbonau Côtes du Rhône 2015,3.8,163,13.9,750,//images.vivino.com/thumbs/0QDk013ES2Gz2c6gxyYu0w_pl_480x640.png,France
+878,Magaña,2015,1290585,Barón de Magaña (Finca La Sarda Crianza) 2015,3.7,40,13.9,750,//images.vivino.com/thumbs/BmaPCIJ6TXiWm0m9Y1n5_w_pl_480x640.png,Espagne
+879,Domaine Duseigneur,2021,9382681,Yamakasi 2021,3.7,56,13.9,750,//images.vivino.com/labels/anqcSTcXQIajLd1AdCs6IQ.jpg,France
+880,Château la Bastide,2017,1183697,Exubérance Vieilles Vignes Grenache Noir - Mourvedre Corbières 2017,3.7,43,13.9,750,//images.vivino.com/thumbs/1HWYd_n-QrS2Om4R1ZmxnA_pl_480x640.png,France
+881,Château Beaumont,2018,1180890,Les Tours de Beaumont Haut-Médoc 2018,3.6,59,13.9,750,//images.vivino.com/thumbs/cL17vgegSRue-wK-nQMncg_pl_480x640.png,France
+882,Château Corbin,2016,1258945,Montagne-Saint-Émilion 2016,3.8,84,13.95,750,//images.vivino.com/thumbs/cAJ6mewNT7qugwMSx5RUlg_pl_480x640.png,France
+883,Château de Maison Neuve,2018,1655168,Montagne-Saint-Émilion 2018,4.1,52,13.95,750,//images.vivino.com/thumbs/zGrvX46zTlaeoMprZ-8MzQ_pl_480x640.png,France
+884,Conceito,2015,1645818,Contraste Tinto 2015,3.4,115,13.95,750,//images.vivino.com/thumbs/7017mQe0RUOUn0U5vMqGLw_pl_480x640.png,Portugal
+885,Barbanera,2017,6780084,Collezione Famiglia Vecciano Toscana 2017,4.2,728,13.95,750,//images.vivino.com/thumbs/SxdoIMJ4Sh-5iBeHweONXQ_pl_480x640.png,Italie
+886,Château Haut Queyran,2016,1376507,Médoc 2016,3.8,93,13.95,750,//images.vivino.com/thumbs/FPhOMS_7TRKZlhQyx3vT0Q_pl_480x640.png,France
+887,Château Tessendey,2018,3529815,Fronsac 2018,3.9,44,13.95,750,//images.vivino.com/thumbs/a7-TAkiFQgirkLn_-lYE3A_pl_480x640.png,France
+888,Pico Cuadro,2017,1501647,Original 2017,3.9,132,13.95,750,//images.vivino.com/thumbs/9jdNRtXaROWVMVRMYoTMHg_pl_480x640.png,Espagne
+889,Tombacco,2019,9026169,Rosso Piceno 2019,4.2,88,13.95,750,//images.vivino.com/thumbs/XYRjRiCDTBubfL1_I7Uicw_pl_480x640.png,Italie
+890,Viñedos Hermanos Hernáiz,2018,8054552,Finca La Emperatriz El jardín de La Emperatriz Tinto 2018,3.8,145,13.95,750,//images.vivino.com/thumbs/HspvJJGAQuOXW9d863T3ug_pl_480x640.png,Espagne
+891,Masseria La Volpe,2019,6404545,1 Uno Primitivo di Manduria Riserva 2019,4.2,72,13.95,750,//images.vivino.com/thumbs/MSS3le-ITHWzMJb_dR_Z-A_pl_480x640.png,Italie
+892,Château Bagnols,2011,2085728,Saint-Émilion Grand Cru 2011,4.0,46,14.0,750,//images.vivino.com/thumbs/hT93HRdcT4GUHnLE9DjpVA_pl_480x640.png,France
+893,Château de Camensac,2013,2929931,La Closerie de Camensac Haut-Médoc 2013,3.6,73,14.0,750,//images.vivino.com/thumbs/ABnEsJiCR5OlYt8fyfwCCw_pl_480x640.png,France
+894,Karim Vionnet,2020,3768864,Du Beur Dans Les Pinards 2020,4.0,102,14.0,750,//images.vivino.com/thumbs/B-DAcsKfTdOu8453MU18vA_pl_480x640.png,France
+895,Oliver Zeter,2020,6106097,Der kleine Bär Rot 2020,3.7,25,14.0,750,//images.vivino.com/thumbs/kq3_JpYrSK-LUUrb0_Kv1Q_pl_480x640.png,Allemagne
+896,Château Beauregard Ducasse,2017,1204475,Graves 2017,3.7,235,14.0,750,//images.vivino.com/thumbs/vlpTVhASQEy4W7444b8dbA_pl_480x640.png,France
+897,Quinta da Pellada,2017,1736138,Álvaro Castro Tinto 2017,3.6,126,14.0,750,//images.vivino.com/thumbs/JkEUh7L4TAKeX_MGmQmeLA_pl_480x640.png,Portugal
+898,Château Réaut,2016,1366790,Côtes de Bordeaux 2016,3.9,675,14.0,750,//images.vivino.com/thumbs/Xr4yhRymTGKbYxiw5ZAhOg_pl_480x640.png,France
+899,Domaine La Tour Vieille,2020,1099636,La Pinède Collioure 2020,4.0,25,14.0,750,//images.vivino.com/thumbs/uN_WXVWFSsShQeubzjWcJA_pl_480x640.png,France
+900,Château de Camensac,2011,2929931,La Closerie de Camensac Haut-Médoc 2011,3.5,530,14.0,750,//images.vivino.com/thumbs/ABnEsJiCR5OlYt8fyfwCCw_pl_480x640.png,France
+901,Tenimenti Ca'Bianca,2018,8129771,Langhe Nebbiolo 2018,3.5,108,14.0,750,//images.vivino.com/thumbs/J8uHo5wLR6i1SlTwKtaAlw_pl_480x640.png,Italie
+902,Domaine Cottebrune,2018,1100850,Transhumance 2018,3.8,78,14.0,750,//images.vivino.com/thumbs/29Q80EDvR2uEuKP5K9vkmQ_pl_480x640.png,France
+903,La Tour Penedesses,2019,1739463,Les Volcans Pézenas Rouge 2019,3.8,26,14.0,750,//images.vivino.com/thumbs/bxgFLxQxTee-CVkENpcJmg_pl_480x640.png,France
+904,Fontbonau,2014,4993519,Les Chaux de Fontbonau Côtes du Rhône 2014,3.6,117,14.0,750,//images.vivino.com/thumbs/0QDk013ES2Gz2c6gxyYu0w_pl_480x640.png,France
+905,Château Mourgues du Grès,2017,94590,Terre de Feu Costières-de-Nîmes 2017,3.9,31,14.0,750,//images.vivino.com/thumbs/0C-onQoOR5WaiTcs46g_HA_pl_480x640.png,France
+906,Neipperg Collection,2014,2001637,Bordeaux 2014,3.7,312,14.0,750,//images.vivino.com/thumbs/33YwBlDRT8ywHGNsfkt45w_pl_480x640.png,France
+907,Château Puygueraud,2017,82472,Francs - Côtes de Bordeaux 2017,3.8,229,14.0,750,//images.vivino.com/thumbs/oBHrFgxgR62IbjzhU3jjcw_pl_480x640.png,France
+908,Château La Croix des Pins,2019,3893555,La Noria Ventoux Rouge 2019,3.9,32,14.0,750,//images.vivino.com/thumbs/IHQy83G4QC-Xjd_0Tx9O5g_pl_480x640.png,France
+909,Clavel,2020,1244031,Les Garrigues Coteaux du Languedoc 2020,3.7,57,14.0,750,//images.vivino.com/thumbs/9Luh8gHgRaykpbopgBl7ZQ_pl_480x640.png,France
+910,Château de Villeneuve,2020,2789979,Clos de la Bienboire Saumur-Champigny 2020,3.7,39,14.0,750,//images.vivino.com/thumbs/yx1RZflQTviuNcC-Y_1luA_pl_480x640.png,France
+911,Château Lanessan,2017,80456,Haut-Médoc 2017,3.8,198,14.0,750,//images.vivino.com/thumbs/YUVZjvF5SMqGX09XH4ztHw_pl_480x640.png,France
+912,Morgante,2019,1144139,Nero d'Avola 2019,3.8,196,14.0,750,//images.vivino.com/thumbs/nN7nDaVOR1Svx8A1CPwDAw_pl_480x640.png,Italie
+913,Château de Rouffiac,2016,1713016,Cahors La Passion 2016,4.2,39,14.0,750,//images.vivino.com/thumbs/A8xeumA4Tpuk8FzYEMU79w_pl_480x640.png,France
+914,Clos du Roy,2014,1434498,Fronsac 2014,3.9,116,14.0,750,//images.vivino.com/thumbs/RhCpJ2UqSRKZ22VyqvKxFQ_pl_480x640.png,France
+915,Mas des Chimères,2015,4796779,L'Hérétique Coteaux du Salagou 2015,3.5,34,14.0,750,//images.vivino.com/thumbs/x7y_TGLnSriVMN57-1rK8Q_pl_480x640.png,France
+916,Domaine les Chenets,2020,1159072,Crozes-Hermitage Rouge 2020,3.8,96,14.0,750,//images.vivino.com/thumbs/ABSth1F4QAu6LDAsBCqx_w_pl_480x640.png,France
+917,Clos de Bouard,2018,5408054,Dame de Boüard Montagne Saint-Émilion 2018,3.9,287,14.0,750,//images.vivino.com/thumbs/MiXudl5WSfKplqu_AAc-iw_pl_480x640.png,France
+918,Château de Carles,2018,1169404,Fronsac 2018,3.9,108,14.0,750,//images.vivino.com/thumbs/YWNeqwp9S6G3XZ2JmzYiXw_pl_480x640.png,France
+919,Domaine Dupasquier,2018,1550662,Mondeuse Savoie 2018,3.9,40,14.0,750,//images.vivino.com/thumbs/00BqEdc5S3mQIsM2QOwWDA_pl_480x640.png,France
+920,Château Lafont Menaut,2019,2153874,Pessac-Leognan 2019,4.0,209,14.0,750,//images.vivino.com/thumbs/5aYrFuUwTnCub3PNkoTs5A_pl_480x640.png,France
+921,Domaine des Roches Neuves,2019,1437492,Saumur-Champigny 2019,3.9,925,14.0,750,//images.vivino.com/thumbs/aGCPeJMQT0-NJ3EgySTwHQ_pl_480x640.png,France
+922,La Quille,2019,4801025,Graves Rouge 2019,3.5,40,14.0,750,//images.vivino.com/thumbs/sevxXhKuTe6berGYNocoHw_pl_480x640.png,France
+923,Château du Fort Pontus,2015,1759629,Fronsac 2015,3.9,54,14.2,750,//images.vivino.com/thumbs/p0dDfigpTcenE_e6luESGQ_pl_480x640.png,France
+924,Château Penin,2019,2114862,Natur Bordeaux 2019,3.7,36,14.2,750,//images.vivino.com/thumbs/StMJOvdYTiu6KF7_gsua2w_pl_480x640.png,France
+925,Alain Jaume,2019,1161809,Domaine du Clos de Sixte 2019,4.0,56,14.2,750,//images.vivino.com/thumbs/8n-8GD4bQVySztbtd7fFoA_pl_480x640.png,France
+926,Terres Dorées,2020,1101100,Morgon 2020,3.8,44,14.2,750,//images.vivino.com/thumbs/IaFZ-rZPT1SGL8bKnDrFeA_pl_480x640.png,France
+927,Château Prieuré de Beyzac,2017,1776147,Haut-Médoc 2017,3.6,48,14.2,750,//images.vivino.com/thumbs/DLMV21PKQayUntZPDwvlOg_pl_480x640.png,France
+928,Caterina Zardini,2019,1145509,Valpolicella Classico Superiore 2019,3.7,67,14.2,750,//images.vivino.com/thumbs/QLVVQo9DTDOsWQdJsHRx8Q_pl_480x640.png,Italie
+929,Domaine Lafage,2020,4486830,Narassa 2020,4.2,161,14.2,750,//images.vivino.com/thumbs/l_gZVgD_TJegcuM-k8k8oA_pl_480x640.png,France
+930,Domaine Les Ondines,2019,1179035,Vacqueyras Rouge 2019,4.0,94,14.21,750,//images.vivino.com/thumbs/hvCAVvzCRpWjq1AOE2gMdQ_pl_480x640.png,France
+931,Clos des Boutes,2014,2174129,Les Fagnes Rouge 2014,4.0,34,14.25,750,//images.vivino.com/thumbs/1jDkKs2qQo-CkNhGKsChSg_pl_480x640.png,France
+932,Bouchard Père & Fils,2019,6233722,Bourgogne Coteaux des Moines Pinot Noir 2019,3.7,230,14.27,750,//images.vivino.com/thumbs/Z6sqIWZeRsOtk22emQLruA_pl_480x640.png,France
+933,Château des Tours,2020,1146200,Brouilly 2020,3.8,146,14.3,750,//images.vivino.com/thumbs/j1K6K1MNR72BQSnos8Lhxg_pl_480x640.png,France
+934,Mouton Cadet,2019,4113,Bordeaux Rouge 2019,3.8,2990,14.3,750,//images.vivino.com/thumbs/9tKfWxg7SKinNtAvrtndgA_pl_480x640.png,France
+935,Domaine des Crès Ricards,2019,1520794,Stécia Rouge 2019,4.0,81,14.3,750,//images.vivino.com/thumbs/CkWOhxZZTHSKvx4A6AiQZg_pl_480x640.png,France
+936,Château Lacombe Noaillac,2017,1149054,Médoc 2017,3.8,195,14.3,750,//images.vivino.com/thumbs/FmLlOinETB-8OcQKBcyt5A_pl_480x640.png,France
+937,Minuty,2019,5535512,M Rouge 2019,3.5,33,14.3,750,//images.vivino.com/thumbs/YjTzxOSASIe3BqMwggZGyA_pl_480x640.png,France
+938,Château de Chaintres,2018,1801696,Vieilles Vignes Saumur Champigny 2018,4.0,52,14.3,750,//images.vivino.com/thumbs/ezh7rko3RU6WzziBTaXVzg_pl_480x640.png,France
+939,Fontbonau,2017,4993519,Les Chaux de Fontbonau Côtes du Rhône 2017,3.8,31,14.35,750,//images.vivino.com/thumbs/0QDk013ES2Gz2c6gxyYu0w_pl_480x640.png,France
+940,Domaine du Coulet - Matthieu Barret,2020,1545005,Petit Ours 2020,3.9,1222,14.35,750,//images.vivino.com/thumbs/hpt2eZbUStCj8ydHAHq44w_pl_480x640.png,France
+941,Château de Malleret,2012,1750000,Haut-Médoc 2012,3.9,276,14.4,750,//images.vivino.com/thumbs/DifSIEMMSaOqu7dCw7rezw_pl_480x640.png,France
+942,Casarena,2020,7518653,Winemaker’s Selection Malbec 2020,3.8,61,14.4,750,//images.vivino.com/thumbs/YkgbjhIRSxqjpK624jipag_pl_480x640.png,Argentine
+943,Château Laborde,2016,1985619,Bordeaux Supérieur 2016,3.8,57,14.4,750,//images.vivino.com/thumbs/2--z_g2nR1ikd0R3o1aPPg_pl_480x640.png,France
+944,David Reynaud,2017,1769150,Les Monestiers Syrah Collines Rhodaniennes 2017,3.9,151,14.4,750,//images.vivino.com/thumbs/JUXFmK3tTKCS6DL4EX-YVw_pl_480x640.png,France
+945,Château Fourcas Dupré,2017,779338,Listrac-Médoc 2017,3.9,378,14.4,750,//images.vivino.com/thumbs/r12t8Xi9QkuHG9Fd_G9czQ_pl_480x640.png,France
+946,Domaine des Roches Neuves,2020,1437492,Saumur-Champigny 2020,4.0,655,14.4,750,//images.vivino.com/thumbs/aGCPeJMQT0-NJ3EgySTwHQ_pl_480x640.png,France
+947,Domaine de la Cotelleraie,2016,4583132,Pigeur Fou Saint-Nicolas-de-Bourgueil 2016,3.4,77,14.4,750,//images.vivino.com/labels/jI-sVnBnSy-sPLt-rT5T0A.jpg,France
+948,Quinta do Noval,2019,1984755,Maria Mansa Douro Tinto 2019,3.9,531,14.4,750,//images.vivino.com/thumbs/mgGgUip6TvW2e3cZJt1pyQ_pl_480x640.png,Portugal
+949,Louis Jadot,2019,1134975,Château des Jacques Morgon 2019,3.9,108,14.4,750,//images.vivino.com/thumbs/w_O8_uAFQpKt3d04tg8t_A_pl_480x640.png,France
+950,David Reynaud,2018,1769150,Les Monestiers Syrah Collines Rhodaniennes 2018,3.6,93,14.4,750,//images.vivino.com/thumbs/JUXFmK3tTKCS6DL4EX-YVw_pl_480x640.png,France
+951,Domaine de Coste Chaude,2014,1392447,La Rocaille Côtes-du-Rhône-Villages 'Visan' 2014,3.9,47,14.4,750,//images.vivino.com/thumbs/y4edILZ8RnCd20HuEak5qw_pl_480x640.png,France
+952,Château La Brande,2016,1368638,Fronsac 2016,3.7,33,14.4,750,//images.vivino.com/labels/3I94rXmcS_KG0HQ7pC0udg.jpg,France
+953,Clos de l'Anhel,2019,1519566,Les Terrassettes Corbières 2019,3.7,35,14.45,750,//images.vivino.com/thumbs/PUnhehwJTGet8ItTbX61pA_pl_480x640.png,France
+954,Château Jaugue Blanc,2014,5526424,Saint-Émilion Grand Cru 2014,3.7,32,14.5,750,//images.vivino.com/thumbs/W5C2mKMaRH6LcnYE5phyPQ_pl_480x640.png,France
+955,Domaine de Clovallon,2019,5901465,Les Indigènes 2019,3.9,67,14.5,750,//images.vivino.com/thumbs/BVIga0zKSBeADG0QR5AuJg_pl_480x640.png,France
+956,Clavel,2019,1244031,Les Garrigues Coteaux du Languedoc 2019,3.8,105,14.5,750,//images.vivino.com/thumbs/9Luh8gHgRaykpbopgBl7ZQ_pl_480x640.png,France
+957,Château Larrivaux,2017,1166955,Haut-Médoc 2017,3.9,49,14.5,750,//images.vivino.com/thumbs/jV_extgwSuWy-lYkfeJfRA_pl_480x640.png,France
+958,Viranel,2019,1424940,Arômes Sauvages 2019,3.8,63,14.5,750,//images.vivino.com/thumbs/R-EcHsY2Q1GyhOb7C30_fg_pl_480x640.png,France
+959,Château Chante Alouette,2013,95330,Saint-Émilion Grand Cru 2013,3.6,96,14.5,750,//images.vivino.com/thumbs/_wOnPcbNSga8wST7Ho8QNA_pl_480x640.png,France
+960,Château Fourcas Dupré,2014,779338,Listrac-Médoc 2014,3.6,484,14.5,750,//images.vivino.com/thumbs/r12t8Xi9QkuHG9Fd_G9czQ_pl_480x640.png,France
+961,Claus Preisinger,2021,3670222,Puszta Libre! 2021,4.1,1024,14.5,750,//images.vivino.com/thumbs/bHf4pgcXTb-bpo6J_a0NUQ_pl_480x640.png,Autriche
+962,Domaine Combe Blanche,2017,1934263,La Galine 2017,3.9,37,14.5,750,//images.vivino.com/thumbs/vSl8XvilTLKDRlKWXx1ASg_pl_480x640.png,France
+963,Château Puygueraud,2018,82472,Francs - Côtes de Bordeaux 2018,3.7,190,14.5,750,//images.vivino.com/thumbs/oBHrFgxgR62IbjzhU3jjcw_pl_480x640.png,France
+964,Wijngoed Thorn,2020,1241368,Dornfelder 2020,3.5,50,14.5,750,//images.vivino.com/thumbs/SHhfHEwhR5OaNRHNl_LlWg_pl_480x640.png,Pays-Bas
+965,Li Veli,2020,15015,Passamante Salice Salentino 2020,4.1,386,14.5,750,//images.vivino.com/thumbs/dlLy7CdHRkWvcTYH0sIMog_pl_480x640.png,Italie
+966,Li Veli,2021,15018,Orion Primitivo 2021,4.3,120,14.5,750,//images.vivino.com/thumbs/TA1FV1QdTdGCDSb7IJfkfw_pl_480x640.png,Italie
+967,Domaine d'Eole,2020,1618971,Rouge 2020,3.8,71,14.5,750,//images.vivino.com/thumbs/wtjrFcu7TNygqcK-7NesYA_pl_480x640.png,France
+968,Château Hannetot,2015,2270277,Pessac-Léognan 2015,3.9,93,14.5,750,//images.vivino.com/thumbs/2FlLNhQnQ06AqLTA3g2pVA_pl_480x640.png,France
+969,Château Beausejour,2019,1211954,Puisseguin-Saint-Émilion 2019,4.1,137,14.5,750,//images.vivino.com/thumbs/r7DQHR-3SXyqzpfyBGuvEA_pl_480x640.png,France
+970,Château de Sainte Gemme,2015,1178666,Haut-Médoc 2015,3.8,162,14.5,750,//images.vivino.com/thumbs/5O2_LoM1QpK6ZehSniqWGg_pl_480x640.png,France
+971,Mas des Bressades,2019,16935,Les Vignes de Mon Père Cabernet - Syrah 2019,4.2,98,14.5,750,//images.vivino.com/thumbs/JMI7Mb5OSpyFn8lYKDnxdQ_pl_480x640.png,France
+972,Donnafugata,2021,4790,Sherazade Nero d'Avola 2021,3.6,45,14.5,750,//images.vivino.com/thumbs/vkv2CQm7SRa1gqlktDJlRg_pl_480x640.png,Italie
+973,Château Poujeaux,2014,1368749,La Salle de Château Poujeaux Moulis 2014,3.8,175,14.5,750,//images.vivino.com/thumbs/rmdKVFN-QLeOjnynPKVPpw_pl_480x640.png,France
+974,Château Rauzan-Gassies,2013,3651659,L'Orme de Rauzan-Gassies Haut-Médoc 2013,3.4,111,14.5,750,//images.vivino.com/thumbs/6pDc8e9USASSWjXZuMHV5g_pl_480x640.png,France
+975,Donnafugata,2021,4790,Sherazade Nero d'Avola 2021,3.6,45,14.5,750,//images.vivino.com/thumbs/vkv2CQm7SRa1gqlktDJlRg_pl_480x640.png,Italie
+976,Château Poujeaux,2014,1368749,La Salle de Château Poujeaux Moulis 2014,3.8,175,14.5,750,//images.vivino.com/thumbs/rmdKVFN-QLeOjnynPKVPpw_pl_480x640.png,France
+977,Tomàs Cusiné,2019,1106641,Vilosell 2019,3.9,150,14.5,750,//images.vivino.com/thumbs/ZDO9LGlZRHqmbPwqEJz1oQ_pl_480x640.png,Espagne
+978,Château Rauzan-Gassies,2013,3651659,L'Orme de Rauzan-Gassies Haut-Médoc 2013,3.4,111,14.5,750,//images.vivino.com/thumbs/6pDc8e9USASSWjXZuMHV5g_pl_480x640.png,France
+979,Bernard Baudry,2020,1100696,Les Granges Chinon 2020,3.7,167,14.5,750,//images.vivino.com/thumbs/ZnI6uM5ZQY6nFf0SHLvP5A_pl_480x640.png,France
+980,Mas del Périé - Fabien Jouves,2021,1297817,Les Escures 2021,3.9,41,14.5,750,//images.vivino.com/thumbs/bjH9WqHGSFOEKPXrrqUVDA_pl_480x640.png,France
+981,Produttori Vini Manduria,2019,1135607,Lirica Primitivo di Manduria 2019,4.0,563,14.5,750,//images.vivino.com/thumbs/OuAoj3sQRUWCaYYSFkh8cA_pl_480x640.png,Italie
+982,Casale del Giglio,2017,2018029,Petit Verdot 2017,3.8,152,14.5,750,//images.vivino.com/thumbs/9FzhgpyVTmyjeySB-0N5kQ_pl_480x640.png,Italie
+983,Còlpetrone,2006,2322740,Montefalco Rosso 2006,3.4,25,14.5,750,//images.vivino.com/thumbs/VoATNdHnRKu9pfMqNulOAQ_pl_480x640.png,Italie
+984,Château Belles-Graves,2014,1597078,Les Terrasses Lalande-de-Pomerol 2014,3.8,42,14.5,750,//images.vivino.com/thumbs/HX1tFEVwRqmwDTWzZAsXbw_pl_480x640.png,France
+985,Domaine de Courteillac,2018,1166217,Merlot - Cabernet 2018,3.6,55,14.5,750,//images.vivino.com/thumbs/ywBFImzMSMeNmLWoiMplJA_pl_480x640.png,France
+986,Château La Prade,2018,82473,Francs - Côtes de Bordeaux 2018,4.0,65,14.5,750,//images.vivino.com/thumbs/TiRU2W_WTBeies3pfuuKUA_pl_480x640.png,France
+987,Château Cap de Faugères,2018,78653,Castillon - Côtes de Bordeaux 2018,3.9,207,14.5,750,//images.vivino.com/thumbs/ejwL_dfKTRO1ASV9SsJf_Q_pl_480x640.png,France
+988,Mouton Cadet,2018,4113,Bordeaux Rouge 2018,3.7,8186,14.58,750,//images.vivino.com/thumbs/9tKfWxg7SKinNtAvrtndgA_pl_480x640.png,France
+989,Dauvergne Ranvier,2017,5782531,Selection Antoine Dürrbach Cabernet Sauvignon - Syrah 2017,3.4,38,14.6,750,//images.vivino.com/thumbs/m-nP2JTiSXek5MWu-qSIHQ_pl_480x640.png,France
+990,Vignobles J. Dupuy,2012,1227641,Chateau Labadie Côtes de Bourg 2012,3.8,418,14.6,750,//images.vivino.com/thumbs/APm3a11sSvmqSx7KJvHy8Q_pl_480x640.png,France
+991,Château du Taillan,2016,1188626,Haut-Médoc 2016,3.7,119,14.6,750,//images.vivino.com/thumbs/8V5btKVVSK2nb3M4kGce9g_pl_480x640.png,France
+992,Château du Taillan,2015,1188626,Haut-Médoc 2015,3.8,290,14.6,750,//images.vivino.com/thumbs/8V5btKVVSK2nb3M4kGce9g_pl_480x640.png,France
+993,Mas Amiel,2020,10058759,Natural Grenache 2020,3.8,35,14.6,750,//images.vivino.com/thumbs/zhQVEvj6QD21YSdKhKnqQw_pl_480x640.png,France
+994,Château Brande-Bergère,2014,1145728,Cuvée o'Byrne 2014,4.1,47,14.6,750,//images.vivino.com/thumbs/OL66d1VuQ5CIw4KhzQb4Cw_pl_480x640.png,France
+995,Château du Petit Puch,2016,1428956,Graves de Vayres 2016,3.8,71,14.6,750,//images.vivino.com/thumbs/GaWmWv2NRPGkzrz7leNyBA_pl_480x640.png,France
+996,Montvac,2020,89021,Arabesque  Vacqueyras 2020,3.8,33,14.6,750,//images.vivino.com/thumbs/mzeTIXI7QaaUUihTxa-GDA_pl_480x640.png,France
+997,Zonin,2021,21881,Valpolicella Classico 2021,3.6,45,14.65,750,//images.vivino.com/thumbs/fJ6474xaRdmiI3tkn1XuIA_pl_480x640.png,Italie
+998,Château Micalet,2018,1164593,Haut-Médoc 2018,3.7,62,14.65,750,//images.vivino.com/thumbs/TYo6BmPuT4mvPLj3JYWQQg_pl_480x640.png,France
+999,Guerrieri,2020,1753480,Guerriero Nero 2020,4.2,291,14.7,750,//images.vivino.com/thumbs/jv2FaPSSQZ6leFYrl-q02w_pl_480x640.png,Italie
